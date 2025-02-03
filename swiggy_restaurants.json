@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Pizza Hut",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Pizzas",
+        "Location": "Alagapuram Pudur",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/a8a7c4fa-fbd3-4a4a-81aa-babc64e5c452_431525.jpg"
+    },
+    {
+        "Name": "Burger King",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "Burgers, American",
+        "Location": "Mega Reliance Green Field Mall",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/9ae32469-5258-445e-89dc-7c2a7fe456c3_236654.jpg"
+    },
+    {
+        "Name": "New saravanas parotta - NSP",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Chinese, South Indian, Biryani",
+        "Location": "Salem Bus stand",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hopbsykpcqe3xgwp3xjr"
+    },
+    {
+        "Name": "Rasikas Restaurant",
+        "Rating": "4.5",
+        "Delivery Time": "",
+        "Cuisine": "South Indian, Chinese, Arabian, Biryani",
+        "Location": "Shevapet",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/khjdlevgxkmrge15mrwa"
+    },
+    {
+        "Name": "Hotel Shri Anandhas",
+        "Rating": "4.5",
+        "Delivery Time": "",
+        "Cuisine": "South Indian, Chinese, Biryani, Juices, Beverages",
+        "Location": "Salem New bustand",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/856fb709f4d124164cae575f8334c9b8"
+    },
+    {
+        "Name": "Lakshmi Hotels",
+        "Rating": "4.5",
+        "Delivery Time": "",
+        "Cuisine": "South Indian",
+        "Location": "Salem Bus stand",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/a9d47dc56f05cde280d4f49f705f4398"
+    },
+    {
+        "Name": "Sri Saivihar",
+        "Rating": "4.5",
+        "Delivery Time": "",
+        "Cuisine": "Chinese, North Indian, South Indian, Biryani",
+        "Location": "Alagapuram Pudur",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ttj0lhecggfprom233hu"
+    },
+    {
+        "Name": "Ambur Star Biriyani",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "Chinese, North Indian, Biryani",
+        "Location": "Alagapuram Pudur",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/a8e7ce3136780a9d0e7abba21276efb9"
+    },
+    {
+        "Name": "Pizza Hut",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Pizzas",
+        "Location": "Alagapuram Pudur",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/a8a7c4fa-fbd3-4a4a-81aa-babc64e5c452_431525.jpg"
+    },
+    {
+        "Name": "Burger King",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "Burgers, American",
+        "Location": "Mega Reliance Green Field Mall",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/8/9ae32469-5258-445e-89dc-7c2a7fe456c3_236654.jpg"
+    }
+]
