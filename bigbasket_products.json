@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Wonderchef",
+    "price": "₹1299",
+    "pack_size": "300 ml",
+    "discount": "48% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/40311697_5-wonderchef-nutri-cup-portable-rechargeable-blender-usb-charging-smoothie-maker-blue.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/40311697/wonderchef-nutri-cup-portable-rechargeable-blender-usb-charging-smoothie-maker-blue-300-ml/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=1&t_s=Nutri-Cup+Portable+Blender+USB+Charging+-+Smoothie+Maker%252C+SS+Blades%252C+Rechargeable+Blender%252C+Blue"
+  },
+  {
+    "name": "Prestige",
+    "price": "₹699",
+    "pack_size": "1.5 L",
+    "discount": "52% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/40317740_3-prestige-stainless-steel-kettle-pkoss-silver-black.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/40317740/prestige-stainless-steel-kettle-pkoss-silver-black-15-l/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=2&t_s=Electric+Kettle+PKOSS+1.5%252C+1500+W+-+Silver%252C+Black%252C+Automatic+Cut+Off%252C+Stainless+Steel"
+  },
+  {
+    "name": "Duracell",
+    "price": "₹160",
+    "pack_size": "N/A",
+    "discount": "16% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/240100_10-duracell-ultra-alkaline-battery-aa.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/240100/duracell-ultra-alkaline-battery-aa-4-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=3&t_s=Ultra+Alkaline+AA+Batteries"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹149",
+    "pack_size": "10 pcs",
+    "discount": "32% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/32012121_4-eveready-alkaline-ultima-lite-aa-2015-battery.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/32012121/eveready-alkaline-ultima-lite-aa-2015-battery-10-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=4&t_s=Ultima+Alkaline+AA+Battery+-+400%2525+Longer+Lasting"
+  },
+  {
+    "name": "Prestige",
+    "price": "₹1899",
+    "pack_size": "1 pc",
+    "discount": "32% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/40317746_1-prestige-electric-griller-peg-60-1000-w-black-red.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/40317746/prestige-electric-griller-peg-60-1000-w-black-red-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=5&t_s=PEG+6.0+1000W+Electric+Griller%252C+Aluminium+Non-Stick+Plates%252C+Heat+Resistant+Exterior%252C+Low+Fat+Grilling"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹300.51",
+    "pack_size": "N/A",
+    "discount": "17% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/1214632_4-eveready-carbon-zinc-battery-red-hd-aa-1015.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/1214632/eveready-carbon-zinc-battery-red-hd-aa-1015-2-x-10-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=6&t_s=Carbon+Zinc+AA+Battery"
+  },
+  {
+    "name": "Anchor by Panasonic",
+    "price": "₹319",
+    "pack_size": "1 pc",
+    "discount": "₹34 OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40217692/anchor-by-panasonic-5208-3-socket-extension-boards-with-4-meter-long-cable-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=7&t_s=3%2520Socket%2520Extension%2520Board%2520-%2520Plastic%252C%25205208%252C%25204%2520mtr%252C%25206%2520Amps"
+  },
+  {
+    "name": "SBE",
+    "price": "₹99",
+    "pack_size": "1 pc",
+    "discount": "59% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329638/sbe-electric-diya-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=8&t_s=Electric%2520Diya"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹99",
+    "pack_size": "1 pc",
+    "discount": "90% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329319/desidiya-led-rice-light-for-decoration-string-series-light-12-metre-3937-feet-multi-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=9&t_s=LED%2520Rice%2520Light%2520For%2520Decoration%2520String%2520%2526%2520Series%2520Light%252012%2520Metre%252039.37%2520Feet%252C%2520Multi"
+  },
+  {
+    "name": "MANSAA",
+    "price": "₹699",
+    "pack_size": "1 pc",
+    "discount": "36% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40228610/mansaa-300-led-curtain-light-8-lighting-modes-usb-operated-warm-white-3-m-x-3-m-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=10&t_s=300%2520LED%2520Curtain%2520Light%2520-%25208%2520Lighting%2520Modes%252C%2520USB%2520Operated%252C%2520Warm%2520White%252C%25203%2520M%2520X%25203%2520M"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹149",
+    "pack_size": "10 pcs",
+    "discount": "32% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/32012533/eveready-alkaline-ultima-lite-aaa-2012-battery-10-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=11&t_s=Ultima%2520Alkaline%2520AAA%2520Battery%2520-%2520400%2525%2520Longer%2520Lasting"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹119",
+    "pack_size": "1 pc",
+    "discount": "60% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40273535/desidiya-pixel-rice-light-40-ft-warm-whiteyellow-energy-efficient-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=12&t_s=Pixel%2520Rice%2520Light%2520-%252040%2520Ft%252C%2520Warm%2520White%252FYellow%252C%2520Energy%2520Efficient%252C%2520For%2520Home%2520Decor"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹229",
+    "pack_size": "6 pcs",
+    "discount": "54% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40316655/desidiya-flameless-led-tea-light-candles-6-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=13&t_s=Flameless%2520LED%2520Tea%2520Light%2520Candles%2520-%2520Mood%2520Light"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹149",
+    "pack_size": "1 pc",
+    "discount": "93% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329320/desidiya-decorative-pixel-rice-light-22-m-warm-white-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=14&t_s=Decorative%2520Pixel%2520Rice%2520Light%252022%2520m%2520Warm%2520-%2520White"
+  },
+  {
+    "name": "MANSAA",
+    "price": "₹99",
+    "pack_size": "1 pc",
+    "discount": "75% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40200468/mansaa-usb-copper-string-fairy-lights-3-m-30-led-multicolour-for-decoration-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=15&t_s=USB%2520Copper%2520String%2520Fairy%2520Lights%2520-%25203%2520M%252C%252030%2520LED%252C%2520Multicolour%252C%2520For%2520Home%2520Decor"
+  },
+  {
+    "name": "MANSAA",
+    "price": "₹599",
+    "pack_size": "1 pc",
+    "discount": "40% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40273726/mansaa-25-mtr-108-leds-diya-curtain-string-lights-with-8-flashing-modes-6-big-6-small-diya-warm-white-yellow-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=16&t_s=Diya%2520Curtain%2520String%2520Lights%2520-%2520108%2520LEDs%2520With%2520Flashing%2520Modes%252C%25202.5%2520m%252C%2520For%2520Home%2520Decor%252C%2520Warm%2520White"
+  },
+  {
+    "name": "Lifelong",
+    "price": "₹1899",
+    "pack_size": "1 pc",
+    "discount": "37% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40321621/lifelong-regalia-plus-1200-w-halogen-room-heater-llhh921-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=17&t_s=Regalia%2520Plus%25201200%2520W%2520Halogen%2520Room%2520Heater%2520-%2520LLHH921"
+  },
+  {
+    "name": "Prestige",
+    "price": "₹2299",
+    "pack_size": "1 pc",
+    "discount": "33% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40317737/prestige-express-grinder-pex-03-silver-black-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=18&t_s=Express%2520PEX%25203.0%2520Mixer%2520Grinder%2520-%2520With%2520Multipurpose%2520Jars%2520Of%2520500%2520ml%2520%2526%2520300%2520ml%252C%2520Silver"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹249",
+    "pack_size": "6 pcs",
+    "discount": "₹21 OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40319468/eveready-ultima-pro-alkaline-aaa-battery-6-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=19&t_s=Ultima%2520Pro%2520Alkaline%2520AAA%2520Battery%25201.5%2520Volt%252C%2520800%2525%2520Long%2520Lasting"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹199",
+    "pack_size": "1 pc",
+    "discount": "69% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40317671/eveready-copper-string-light-6500k-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=20&t_s=Copper%2520String%2520Light%25206500K"
+  },
+  {
+    "name": "Philips",
+    "price": "₹329",
+    "pack_size": "1 pc",
+    "discount": "34% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40186905/philips-led-t-bulb-18-watt-cool-daylight-b22-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=21&t_s=LED%2520T-Bulb%2520-%252018%2520Watt%252C%2520Cool%2520Daylight%252C%2520B22"
+  },
+  {
+    "name": "Philips",
+    "price": "₹249",
+    "pack_size": "1 pc",
+    "discount": "31% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40273773/philips-starlit-72-leds-string-light-12-mtr-bright-ideal-for-decoration-warm-white-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=22&t_s=Starlit%252072%2520LEDs%2520String%2520Light%2520-%252012%2520Mtr%252C%2520Bright%252C%2520Warm%2520White%252C%2520For%2520Home%2520Decor"
+  },
+  {
+    "name": "bb home",
+    "price": "₹69",
+    "pack_size": "N/A",
+    "discount": "43% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40317517/bb-home-alkaline-aaa-batteries-4-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=23&t_s=Alkaline%2520AAA%2520Batteries"
+  },
+  {
+    "name": "Beardo",
+    "price": "₹1199",
+    "pack_size": "120 g",
+    "discount": "20% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40270343/beardo-ape-x-3-in-1-trimmer-self-sharpening-steel-blades-low-noice-design-for-men-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=24&t_s=Ape-X%25203-in-1%2520Trimmer%252CNose%2520Trimmer%252C%2520Shaver%252C%2520Manscaping%252C120%2520minute%2520run%2520time%252CEngineered%2520for%2520Men"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹399",
+    "pack_size": "1 pc",
+    "discount": "80% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40273540/desidiya-led-star-shaped-string-lights-energy-efficient-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=25&t_s=LED%2520Star%2520Shaped%2520String%2520Lights%2520Energy%2520Efficient%2520-%2520For%2520Home%2520Decor"
+  },
+  {
+    "name": "Prestige",
+    "price": "₹1799",
+    "pack_size": "1 pc",
+    "discount": "33% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40317745/prestige-xpress-induction-cook-top-1200-w-black-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=26&t_s=Xpress%25201200W%2520Induction%2520Cooktop%2520-%2520With%2520Ceramic%2520Plates%252C%2520Black"
+  },
+  {
+    "name": "Duracell",
+    "price": "₹799",
+    "pack_size": "1 pc",
+    "discount": "56% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40308975/duracell-usb-a-to-lightning-sync-charging-cable-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=27&t_s=Type%2520A%2520To%2520Lightning%2520Mfi%2520Braided%2520Cable%2520-%25201.2%2520m%252C%2520For%2520Apple%2520Devices%252C%2520Black"
+  },
+  {
+    "name": "Energizer",
+    "price": "₹109",
+    "pack_size": "4 pcs - Blister Pack",
+    "discount": "46% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40226063/energizer-alkaline-battery-aa-power-long-lasting-power-4-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=28&t_s=Alkaline%2520Power%2520Battery%2520-%2520AA%252C%25201.5%2520V%252C%2520Mercury-Free"
+  },
+  {
+    "name": "Lifelong",
+    "price": "₹1249",
+    "pack_size": "1 pc - (3 Jars - 1.5 L, 0.3 L, 0.8 L)",
+    "discount": "64% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40321636/lifelong-power-pro-mixer-grinder-black-500-w-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=29&t_s=Power%2520Pro%2520Mixer%2520Grinder%2520-%2520Black%252C%2520500%2520W"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹190",
+    "pack_size": "12 pcs",
+    "discount": "12% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40298610/eveready-carbon-zinc-battery-heavy-duty-aaa-long-lasting-leak-proof-12-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=30&t_s=Carbon%2520Zinc%2520AAA%2520Battery"
+  },
+  {
+    "name": "Zebronics",
+    "price": "₹149",
+    "pack_size": "1 pc",
+    "discount": "63% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40326679/zebronics-zeb-bro-ear-wired-earphones-with-mic-35mm-audio-jack-phonetablet-compatible-blue-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=31&t_s=Zeb-Bro%2520Ear%2520Wired%2520Earphones%2520-%2520With%2520Mic%252C%25203.5mm%2520Audio%2520Jack%252C%2520Phone%252FTablet%2520Compatible%252C%2520Blue"
+  },
+  {
+    "name": "Lifelong",
+    "price": "₹499",
+    "pack_size": "250 ml",
+    "discount": "67% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40321631/lifelong-usb-rechargeable-wireless-electric-chopper-with-stainless-steel-blades-pink-llwc03-250-ml/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=32&t_s=USB%2520Rechargeable%2520Wireless%2520Electric%2520Chopper%2520-%2520With%2520Stainless%2520Steel%2520Blades%252C%2520Pink%252C%2520LLWC03"
+  },
+  {
+    "name": "boAt",
+    "price": "₹1649",
+    "pack_size": "1 pc",
+    "discount": "67% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40322234/boat-stone-650-bluetooth-speaker-charcoal-black-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=33&t_s=Stone%2520650%2520Bluetooth%2520Speaker%2520-%2520Charcoal%2520Black"
+  },
+  {
+    "name": "Lexton",
+    "price": "₹99",
+    "pack_size": "1 pc",
+    "discount": "80% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329561/lexton-lexton-36-feet-long-40-led-power-pixel-serial-stringfairy-light-plug-sourced-suitable-for-home-outdoor-decoration-diwali-christmas-ramadan-wedding-party-festival-pack-of-1-multicolor-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=34&t_s=40%2520LED%2520Power%2520Pixel%2520Serial%2520String%252FFairy%2520Light%2520-%252036%2520Ft%2520Long%252C%2520Plug%2520Sourced%252C%2520Multicolour"
+  },
+  {
+    "name": "Pigeon by Stovekraft",
+    "price": "₹1399",
+    "pack_size": "1 pc",
+    "discount": "56% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40323112/pigeon-by-stovekraft-cruise-induction-cooktop-with-crystal-glass-1800-watt-7-segments-led-display-auto-switch-off-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=35&t_s=Cruise%2520Induction%2520Cooktop%2520-%2520With%2520Crystal%2520Glass%252C%25201800%2520Watt%252C%25207%2520Segments%2520LED%2520Display%252C%2520Auto%2520Switch%2520Off"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹98.07",
+    "pack_size": "N/A",
+    "discount": "25% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/1214634/eveready-carbon-zinc-battery-red-aaa-1012-2-x-4-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=36&t_s=Carbon%2520Zinc%2520Battery%2520Red%2520AAA%25201012"
+  },
+  {
+    "name": "Desidiya",
+    "price": "₹649",
+    "pack_size": "1 pc",
+    "discount": "68% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40273544/desidiya-star-curtain-string-lights-energy-efficient-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=37&t_s=Star%2520Window%2520String%2520Lights%2520Energy%2520Efficient%2520-%2520For%2520Home%2520Decor%252C%2520Corded"
+  },
+  {
+    "name": "Wonderchef",
+    "price": "₹599",
+    "pack_size": "1.5 L",
+    "discount": "63% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40317802/wonderchef-crescent-electric-kettle-15-l/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=38&t_s=Crescent%2520Electric%2520Kettle%252CUsed%2520For%2520Boiling%2520Water%252C%2520Making%2520Tea%2520%2526%2520Coffee%252C%2520Instant%2520Noodles%252C%2520Soup"
+  },
+  {
+    "name": "Eveready",
+    "price": "₹79",
+    "pack_size": "1 pc",
+    "discount": "21% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40213290/eveready-led-bulb-25-watt-cool-day-light-base-b22-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=39&t_s=2.5%2520W%2520LED%2520Light%2520Bulb%2520Cool%2520Day%2520Light%252C%25206500K%252C%2520With%2520Wide%2520Operating%2520Voltage%2520Range"
+  },
+  {
+    "name": "Wonderchef",
+    "price": "₹1349",
+    "pack_size": "1 pc",
+    "discount": "52% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40323475/wonderchef-onyx-brew-coffee-maker-borosilicate-glass-carafe-anti-drip-system-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=40&t_s=Onyx%2520Brew%2520Coffee%2520Maker%2520-%2520Borosilicate%2520Glass%2520Carafe%252C%2520Anti-Drip%2520System"
+  },
+  {
+    "name": "Lifelong",
+    "price": "₹1249",
+    "pack_size": "1 pc",
+    "discount": "50% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40321648/lifelong-power-pro-500-watt-mixer-grinder-with-3-jars-liquidizing-wet-grinding-chutney-jar-stainless-steel-blades-1-year-warranty-whitegrey-llmg45-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=41&t_s=Power%2520Pro%2520500-Watt%2520Mixer%2520Grinder%2520-%2520With%25203%2520Jars%252C%2520Liquidizing%252C%2520Wet%2520Grinding%2520%2526%2520Chutney%2520Jar%252C%2520Stainless%2520Steel%2520Blades%252C%25201%2520Year%2520Warranty%252C%2520White%252FGrey%252C%2520LLMG45"
+  },
+  {
+    "name": "Duracell",
+    "price": "₹388.05",
+    "pack_size": "N/A",
+    "discount": "12% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/1223200/duracell-chhota-power-alkaline-battery-aa-15-v-leak-proof-10-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=42&t_s=Chhota%2520Power%2520Alkaline%2520Battery%2520-%2520AA%252C%25201.5%2520V%252C%2520Leak-Proof"
+  },
+  {
+    "name": "Duracell",
+    "price": "₹259",
+    "pack_size": "N/A",
+    "discount": "14% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/273620/duracell-ultra-alkaline-battery-aaa-6-pcs/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=43&t_s=Ultra%2520Alkaline%2520AAA%2520Batteries"
+  },
+  {
+    "name": "Havells",
+    "price": "₹1620.94",
+    "pack_size": "1 pc",
+    "discount": "19% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40322056/havells-bt5301-zoom-wheel-fast-charge-trimmer-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=44&t_s=BT5301%2520Zoom%2520Wheel%2520Fast%2520Charge%2520Trimmer"
+  },
+  {
+    "name": "Nu Republic",
+    "price": "₹115",
+    "pack_size": "1 pc",
+    "discount": "91% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40326667/nu-republic-blaze-supersonic-65-w-type-c-to-type-c-cable-1-m-fast-charge-cable-compatible-with-mobile-tablet-laptop-red-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=45&t_s=Type%2520C%2520To%2520Type%2520C%2520Blaze%2520Supersonic%252065W%2520Fast%2520Charging%2520Cable%2520-%25201%2520m%252C%2520Red"
+  },
+  {
+    "name": "Wonderchef",
+    "price": "₹999",
+    "pack_size": "1 pc",
+    "discount": "55% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40323476/wonderchef-prato-plus-griller-auto-temp-control-led-indicator-800-w-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=46&t_s=Prato%2520Plus%2520Griller%2520-%2520Auto%2520Temp%2520Control%252C%2520LED%2520indicator%252C%2520800%2520W"
+  },
+  {
+    "name": "Lexton",
+    "price": "₹149",
+    "pack_size": "1 pc",
+    "discount": "79% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329559/lexton-lexton-3-meter-20-led-star-string-lights-plug-sourced-suitable-for-home-outdoor-decoration-diwali-christmas-ramadan-wedding-party-festival-warm-white-pack-of-1-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=47&t_s=20%2520LED%2520Star%2520String%2520Lights%2520-%25203%2520M%252C%2520Plug%2520Sourced%252C%2520Warm%2520White"
+  },
+  {
+    "name": "Lexton",
+    "price": "₹149",
+    "pack_size": "1 pc",
+    "discount": "79% OFF",
+    "image_url": "N/A",
+    "product_url": "https://www.bigbasket.com/pd/40329562/lexton-lexton-16-led-blossom-flower-fairy-string-lights-plug-sourced-suitable-for-home-outdoor-decoration-diwali-christmas-ramadan-wedding-party-festival-standard-warm-white-pack-of-1-1-pc/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=48&t_s=16%2520LED%2520Blossom%2520Flower%2520Fairy%252FString%2520Lights%2520-%2520Plug%2520Sourced%252C%2520Warm%2520White"
+  },
+  {
+    "name": "Wonderchef",
+    "price": "₹1299",
+    "pack_size": "300 ml",
+    "discount": "48% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/40311697_5-wonderchef-nutri-cup-portable-rechargeable-blender-usb-charging-smoothie-maker-blue.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/40311697/wonderchef-nutri-cup-portable-rechargeable-blender-usb-charging-smoothie-maker-blue-300-ml/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=1&t_s=Nutri-Cup+Portable+Blender+USB+Charging+-+Smoothie+Maker%252C+SS+Blades%252C+Rechargeable+Blender%252C+Blue"
+  },
+  {
+    "name": "Prestige",
+    "price": "₹699",
+    "pack_size": "1.5 L",
+    "discount": "52% OFF",
+    "image_url": "https://www.bigbasket.com/media/uploads/p/m/40317740_3-prestige-stainless-steel-kettle-pkoss-silver-black.jpg?tr=w-154,q-80",
+    "product_url": "https://www.bigbasket.com/pd/40317740/prestige-stainless-steel-kettle-pkoss-silver-black-15-l/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=2&t_s=Electric+Kettle+PKOSS+1.5%252C+1500+W+-+Silver%252C+Black%252C+Automatic+Cut+Off%252C+Stainless+Steel"
+  }
+]
