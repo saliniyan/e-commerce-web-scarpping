@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fresh Guava / Koyya Palam(கொய்யாப் பழம்)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Pineapple /Annachi Palam(அன்னாசி)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Strawberry (Grade-A)(ஸ்ட்ராபெர்ரி)",
+    "current_price": "102",
+    "original_price": "120",
+    "discount": 15.0,
+    "image_url": null
+  }
+]

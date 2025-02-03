@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Fresh Nagpur Orange/ Kamala (Grade - A)(கமலா ஆரஞ்சு)",
+    "current_price": "10",
+    "original_price": "10",
+    "discount": 0,
+    "image_url": null
+  },
+  {
+    "name": "Passion Fruits 500GM",
+    "current_price": "200",
+    "original_price": "235",
+    "discount": 14.89,
+    "image_url": null
+  },
+  {
+    "name": "Hill Banana / malai vaazhaipazham / மலை வாழைப்பழம்",
+    "current_price": "102",
+    "original_price": "120",
+    "discount": 15.0,
+    "image_url": null
+  },
+  {
+    "name": "Premium Avocado Pear / Butter Fruit / Venney Palam Medium",
+    "current_price": "301",
+    "original_price": "354",
+    "discount": 14.97,
+    "image_url": null
+  },
+  {
+    "name": "Beauty Pear Imported Fruit",
+    "current_price": "261",
+    "original_price": "306",
+    "discount": 14.71,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Star Fruit/Carambola (Grade-A) (நட்சத்திர பழம் )",
+    "current_price": "183",
+    "original_price": "215",
+    "discount": 14.88,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Blueberry (Grade-A)",
+    "current_price": "201",
+    "original_price": "236",
+    "discount": 14.83,
+    "image_url": null
+  },
+  {
+    "name": "LOGAN FRUIT",
+    "current_price": "201",
+    "original_price": "236",
+    "discount": 14.83,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Watermelon / Tharpoosani Black (Grade - A)(கிரண் தர்பூசணி)",
+    "current_price": "21",
+    "original_price": "24",
+    "discount": 12.5,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Papaya / Pappali pazham (Grade -A)(பப்பாளி)",
+    "current_price": "26",
+    "original_price": "30",
+    "discount": 13.33,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Karpooravalli Banana (Grade - A)",
+    "current_price": "41",
+    "original_price": "48",
+    "discount": 14.58,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Sapota / Sapodilla (Grade - A)(சப்போட்டா)",
+    "current_price": "51",
+    "original_price": "60",
+    "discount": 15.0,
+    "image_url": null
+  }
+]

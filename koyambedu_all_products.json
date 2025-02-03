@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Fresh Nagpur Orange/ Kamala (Grade - A)(கமலா ஆரஞ்சு)",
+    "current_price": "10",
+    "original_price": "10",
+    "discount": 0,
+    "image_url": null
+  },
+  {
+    "name": "Passion Fruits 500GM",
+    "current_price": "200",
+    "original_price": "235",
+    "discount": 14.89,
+    "image_url": null
+  },
+  {
+    "name": "Hill Banana / malai vaazhaipazham / மலை வாழைப்பழம்",
+    "current_price": "102",
+    "original_price": "120",
+    "discount": 15.0,
+    "image_url": null
+  },
+  {
+    "name": "Premium Avocado Pear / Butter Fruit / Venney Palam Medium",
+    "current_price": "301",
+    "original_price": "354",
+    "discount": 14.97,
+    "image_url": null
+  },
+  {
+    "name": "Beauty Pear Imported Fruit",
+    "current_price": "261",
+    "original_price": "306",
+    "discount": 14.71,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Star Fruit/Carambola (Grade-A) (நட்சத்திர பழம் )",
+    "current_price": "183",
+    "original_price": "215",
+    "discount": 14.88,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Blueberry (Grade-A)",
+    "current_price": "201",
+    "original_price": "236",
+    "discount": 14.83,
+    "image_url": null
+  },
+  {
+    "name": "LOGAN FRUIT",
+    "current_price": "201",
+    "original_price": "236",
+    "discount": 14.83,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Watermelon / Tharpoosani Black (Grade - A)(கிரண் தர்பூசணி)",
+    "current_price": "21",
+    "original_price": "24",
+    "discount": 12.5,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Papaya / Pappali pazham (Grade -A)(பப்பாளி)",
+    "current_price": "26",
+    "original_price": "30",
+    "discount": 13.33,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Karpooravalli Banana (Grade - A)",
+    "current_price": "41",
+    "original_price": "48",
+    "discount": 14.58,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Sapota / Sapodilla (Grade - A)(சப்போட்டா)",
+    "current_price": "51",
+    "original_price": "60",
+    "discount": 15.0,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Nellikai / Amla (நெல்லிக்காய்)",
+    "current_price": "401",
+    "original_price": "471",
+    "discount": 14.86,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Red Figs /Athipalam(அத்திப்பழம்)",
+    "current_price": "51",
+    "original_price": "60",
+    "discount": 15.0,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Yelakki Banana (Grade-A)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Red Banana / Sevvazhai (Grade -A)(செவ்வாழை)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Kiwi - Green (Grade-A)(கிவி பழம் )",
+    "current_price": "71",
+    "original_price": "83",
+    "discount": 14.46,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Mosambi (Sathukodi) Grade A(சாத்துக்குடி )",
+    "current_price": "66",
+    "original_price": "77",
+    "discount": 14.29,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Big Apple -ஆப்பிள் (Grade - A)",
+    "current_price": "121",
+    "original_price": "142",
+    "discount": 14.79,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Musk Melon / Kirni Palam(கிர்ணி பழம்)",
+    "current_price": "29",
+    "original_price": "33",
+    "discount": 12.12,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Watermelon / Tharpoosani (Grade - A)(தர்பூசணி)",
+    "current_price": "16",
+    "original_price": "18",
+    "discount": 11.11,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Pomegranate / Mathulai (Grade - A)( மாதுளை)",
+    "current_price": "261",
+    "original_price": "306",
+    "discount": 14.71,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Paneer Grapes / Thiratchai(பன்னீர் திராட்சை)",
+    "current_price": "401",
+    "original_price": "471",
+    "discount": 14.86,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Green Grapes / Thiratchai(பச்சை திராட்சை)",
+    "current_price": "180",
+    "original_price": "180",
+    "discount": 0,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Guava / Koyya Palam(கொய்யாப் பழம்)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Pineapple /Annachi Palam(அன்னாசி)",
+    "current_price": "61",
+    "original_price": "71",
+    "discount": 14.08,
+    "image_url": null
+  },
+  {
+    "name": "Fresh Strawberry (Grade-A)(ஸ்ட்ராபெர்ரி)",
+    "current_price": "102",
+    "original_price": "120",
+    "discount": 15.0,
+    "image_url": null
+  }
+]
