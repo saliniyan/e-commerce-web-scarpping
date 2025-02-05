@@ -1,91 +1,11 @@
 [
   {
     "category": "exotic-meat",
-    "name": "Licious Chicken Curry Cut (Large - 7 to 11 Pcs)",
-    "price": "₹179",
-    "quantity": "450 g",
-    "eta": "8 MINS",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "Licious Chicken Curry Cut (Small Pieces)",
-    "price": "₹179",
-    "quantity": "450 g",
-    "eta": "8 MINS",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "exotic-meat",
     "name": "ChefiGo Boneless Chicken Breast",
     "price": "₹270",
     "quantity": "450 g",
     "eta": "8 MINS",
     "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "Licious Chicken Breast - Boneless",
-    "price": "₹266",
-    "quantity": "400 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "ChefiGo Chicken Curry Cut",
-    "price": "₹160",
-    "quantity": "450 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "ChefiGo Chicken Drumstick (Antibiotic Residue Free)",
-    "price": "₹246",
-    "quantity": "500 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "ChefiGo Boneless Cubes Chicken (Tikka Cut)",
-    "price": "₹276",
-    "quantity": "450 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "Licious Boneless Chicken Cubes",
-    "price": "₹339",
-    "quantity": "450 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "ChefiGo Boneless Chicken Thigh",
-    "price": "₹260",
-    "quantity": "500 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "exotic-meat",
-    "name": "ChefiGo Chicken Keema",
-    "price": "₹270",
-    "quantity": "500 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "fish-seafood",
-    "name": "ITC Master Chef Medium Prawns Peeled & Deveined (Frozen)",
-    "price": "₹224",
-    "quantity": "200 g",
-    "eta": "Frozen",
-    "image_url": "N/A"
   },
   {
     "category": "fish-seafood",
@@ -136,73 +56,9 @@
     "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
   },
   {
-    "category": "fish-seafood",
-    "name": "FreshToHome Rohu / Rui Fish (Bengali Cut without Head)",
-    "price": "₹254",
-    "quantity": "480 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "fish-seafood",
-    "name": "ChefiGo Catla Bengali Cut Fish without Head",
-    "price": "₹295",
-    "quantity": "500 g",
-    "eta": "",
-    "image_url": "N/A"
-  },
-  {
-    "category": "fish-seafood",
-    "name": "ITC Master Chef Medium Prawns Peeled & Deveined (Frozen)",
-    "price": "₹224",
-    "quantity": "200 g",
-    "eta": "8 MINS\nFrozen",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "chicken",
-    "name": "Licious Chicken Curry Cut (Large - 7 to 11 Pcs)",
-    "price": "₹179",
-    "quantity": "450 g",
-    "eta": "8 MINS",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "chicken",
-    "name": "Prasuma Chicken Sausage",
-    "price": "₹170",
-    "quantity": "250 g",
-    "eta": "8 MINS\nFrozen",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
     "category": "chicken",
     "name": "Delichic Raw Frozen Chicken Curry Cut",
     "price": "₹191",
-    "quantity": "500 g",
-    "eta": "8 MINS\nFrozen",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "chicken",
-    "name": "Meatigo By Prasuma Antibiotic-Free Boneless Chicken Breast (Frozen)",
-    "price": "₹275",
-    "quantity": "450 g",
-    "eta": "8 MINS\nFrozen",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "chicken",
-    "name": "Licious Chicken Curry Cut (Small Pieces)",
-    "price": "₹179",
-    "quantity": "450 g",
-    "eta": "8 MINS",
-    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
-  },
-  {
-    "category": "chicken",
-    "name": "Meatzza Boneless Frozen Chicken Breast (Antibiotic Free)",
-    "price": "₹260",
     "quantity": "500 g",
     "eta": "8 MINS\nFrozen",
     "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
@@ -237,6 +93,2470 @@
     "price": "₹260",
     "quantity": "500 g",
     "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatigo By Prasuma Antibiotic-Free Chicken Curry Cut (Frozen)",
+    "price": "₹195",
+    "quantity": "450 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Liver",
+    "price": "₹150",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Frozen Chicken Drumstick (Antibiotic Free)",
+    "price": "₹245",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Boneless Frozen Chicken Thigh (Antibiotic Free)",
+    "price": "₹280",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Frozen Chicken Wings (Antibiotic Free)",
+    "price": "₹230",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Keventer Chicken Nuggets (Frozen)",
+    "price": "₹243",
+    "quantity": "400 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Bone-in Frozen Chicken Curry Cut (Antibiotic Free)",
+    "price": "₹195",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Boneless Frozen Chicken Thigh",
+    "price": "₹278",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Breast",
+    "price": "₹257",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Drumstick",
+    "price": "₹240",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Keema",
+    "price": "₹239",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Chicken Broth",
+    "price": "₹195",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Curry Cut (With Skin)",
+    "price": "₹171",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Premium Tender Spring Frozen Chicken Curry Cut",
+    "price": "₹254",
+    "quantity": "750 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Chicken Seekh Kebab (Frozen)",
+    "price": "₹336",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Crunchy Chicken Nuggets (Frozen)",
+    "price": "₹293",
+    "quantity": "450 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Chicken Chilli Salami (Frozen)",
+    "price": "₹176",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Original Chicken Momos (Frozen)",
+    "price": "₹280",
+    "quantity": "24 pieces",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Breakfast Chicken Sausage (Frozen)",
+    "price": "₹159",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "price": "₹149",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Desi Style Chicken Burger Patty (Frozen)",
+    "price": "₹177",
+    "quantity": "330 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Chicken Pepper & Herb Salami (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Spicy Chicken Momos (Frozen)",
+    "price": "₹309",
+    "quantity": "24 pieces",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)",
+    "price": "₹249",
+    "quantity": "400 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Venky's Breakfast Chicken Sausage (Frozen)",
+    "price": "₹194",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Chilli Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Purani Dilli Ka Chicken Seekh Kebab",
+    "price": "₹282",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Spicy Chicken Salami (Frozen)",
+    "price": "₹171",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Masala Chicken Sausage",
+    "price": "₹187",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Lehsuni Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Regular Chicken Seekh Kebab (Frozen)",
+    "price": "₹352",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Chicken Popcorn (Frozen)",
+    "price": "₹307",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story American Chicken Popcorn",
+    "price": "₹190",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Spicy Grill Chicken Burger Patty",
+    "price": "₹345",
+    "quantity": "520 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Sumeru Grilled Chicken Burger Patty (Frozen)",
+    "price": "₹180",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Punjabi Chicken Seekh Kebab (Frozen)",
+    "price": "₹361",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story LA's Crunchy Chicken Strips",
+    "price": "₹198",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Chicken Sliced Ham (Frozen)",
+    "price": "₹217",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Galawat Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Purani Dilli Ka Mutton Seekh Kebab",
+    "price": "₹488",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Amritsar Ka Chicken Seekh Kebab",
+    "price": "₹292",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Venky's Chicken Chicken Fingers (Frozen)",
+    "price": "₹295",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "La Carne Chicken Bell Pepper Salami (Frozen)",
+    "price": "₹164",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Tata Sampann Yumside Classic Chicken Seekh Kebab",
+    "price": "₹129",
+    "quantity": "180 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Raw Frozen Chicken Curry Cut",
+    "price": "₹191",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "FreshToHome Supreme Tender Skinless Chicken Curry Cut (Antibiotic Residue-Free)",
+    "price": "₹170",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ChefiGo Boneless Chicken Breast",
+    "price": "₹270",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Mince Frozen Chicken Keema (Antibiotic Free)",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Boneless Frozen Chicken Tikka Cubes Cut",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatigo By Prasuma Antibiotic-Free Chicken Curry Cut (Frozen)",
+    "price": "₹195",
+    "quantity": "450 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Liver",
+    "price": "₹150",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Frozen Chicken Drumstick (Antibiotic Free)",
+    "price": "₹245",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Boneless Frozen Chicken Thigh (Antibiotic Free)",
+    "price": "₹280",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Frozen Chicken Wings (Antibiotic Free)",
+    "price": "₹230",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Keventer Chicken Nuggets (Frozen)",
+    "price": "₹243",
+    "quantity": "400 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Bone-in Frozen Chicken Curry Cut (Antibiotic Free)",
+    "price": "₹195",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Boneless Frozen Chicken Thigh",
+    "price": "₹278",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Breast",
+    "price": "₹257",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Drumstick",
+    "price": "₹240",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Keema",
+    "price": "₹239",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Chicken Broth",
+    "price": "₹195",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Frozen Chicken Curry Cut (With Skin)",
+    "price": "₹171",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Premium Tender Spring Frozen Chicken Curry Cut",
+    "price": "₹254",
+    "quantity": "750 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Chicken Seekh Kebab (Frozen)",
+    "price": "₹336",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Crunchy Chicken Nuggets (Frozen)",
+    "price": "₹293",
+    "quantity": "450 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Chicken Chilli Salami (Frozen)",
+    "price": "₹176",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Original Chicken Momos (Frozen)",
+    "price": "₹280",
+    "quantity": "24 pieces",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Breakfast Chicken Sausage (Frozen)",
+    "price": "₹159",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "price": "₹149",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Desi Style Chicken Burger Patty (Frozen)",
+    "price": "₹177",
+    "quantity": "330 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Chicken Pepper & Herb Salami (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Spicy Chicken Momos (Frozen)",
+    "price": "₹309",
+    "quantity": "24 pieces",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)",
+    "price": "₹249",
+    "quantity": "400 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Venky's Breakfast Chicken Sausage (Frozen)",
+    "price": "₹194",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Godrej Yummiez Chilli Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Purani Dilli Ka Chicken Seekh Kebab",
+    "price": "₹282",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Spicy Chicken Salami (Frozen)",
+    "price": "₹171",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Masala Chicken Sausage",
+    "price": "₹187",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Lehsuni Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Regular Chicken Seekh Kebab (Frozen)",
+    "price": "₹352",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Chicken Popcorn (Frozen)",
+    "price": "₹307",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story American Chicken Popcorn",
+    "price": "₹190",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ITC Master Chef Spicy Grill Chicken Burger Patty",
+    "price": "₹345",
+    "quantity": "520 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Sumeru Grilled Chicken Burger Patty (Frozen)",
+    "price": "₹180",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Punjabi Chicken Seekh Kebab (Frozen)",
+    "price": "₹361",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story LA's Crunchy Chicken Strips",
+    "price": "₹198",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Carnivore Chicken Sliced Ham (Frozen)",
+    "price": "₹217",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Galawat Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Purani Dilli Ka Mutton Seekh Kebab",
+    "price": "₹488",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meaty Story Amritsar Ka Chicken Seekh Kebab",
+    "price": "₹292",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Venky's Chicken Chicken Fingers (Frozen)",
+    "price": "₹295",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "La Carne Chicken Bell Pepper Salami (Frozen)",
+    "price": "₹164",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Tata Sampann Yumside Classic Chicken Seekh Kebab",
+    "price": "₹129",
+    "quantity": "180 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "mutton",
+    "name": "Delichic Frozen Mutton Curry Cut",
+    "price": "₹539",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "mutton",
+    "name": "Meatzza Frozen Mutton Curry Cut (Antibiotic Free)",
+    "price": "₹550",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "mutton",
+    "name": "Delichic Frozen Mutton Keema (Mince)",
+    "price": "₹536",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Pork Premium Bacon",
+    "price": "₹375",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Chicken Chilli Salami (Frozen)",
+    "price": "₹176",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Breakfast Chicken Sausage (Frozen)",
+    "price": "₹159",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Classic Pork Salami (Frozen)",
+    "price": "₹244",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "price": "₹149",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Bacon Small Pack",
+    "price": "₹225",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Pork Bacon",
+    "price": "₹279",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Chicken Bell Pepper Salami (Frozen)",
+    "price": "₹164",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Breakfast Bacon (Frozen)",
+    "price": "₹384",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Chicken Pepper & Herb Salami (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Spicy & Smoky Pork Pepperoni",
+    "price": "₹260",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)",
+    "price": "₹249",
+    "quantity": "400 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Pepperoni Salami (Frozen)",
+    "price": "₹184",
+    "quantity": "100 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Meatzza Chicken Masala Sliced Salami",
+    "price": "₹140",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Venky's Breakfast Chicken Sausage (Frozen)",
+    "price": "₹194",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Chilli Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Ham",
+    "price": "₹260",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Cheese & Onion Chicken Sausage",
+    "price": "₹189",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Spicy Chicken Salami (Frozen)",
+    "price": "₹171",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Meatzza Cheese Onion Chicken Sausage",
+    "price": "₹179",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Smoked Pork Sausage",
+    "price": "₹198",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Keventer Italian Chicken Sausage",
+    "price": "₹298",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Cheese & Jalapeno Chicken Sausage",
+    "price": "₹175",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Chicken Sliced Ham (Frozen)",
+    "price": "₹217",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Black Pepper Chicken Salami (Frozen)",
+    "price": "₹170",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Pork Honey Ham",
+    "price": "₹250",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Turkey Ham Slices",
+    "price": "₹274",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Turkey Salami",
+    "price": "₹243",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Cheese & Onion Chicken Sausage",
+    "price": "₹157",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Pork Sausage (Pigs In Blanket)",
+    "price": "₹274",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Chilli Chicken Sausage",
+    "price": "₹148",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Breakfast Chicken Sausage",
+    "price": "₹148",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "ITC Master Chef Chicken Seekh Kebab (Frozen)",
+    "price": "₹336",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Masala Chicken Sausage",
+    "price": "₹187",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Lehsuni Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Regular Chicken Seekh Kebab (Frozen)",
+    "price": "₹352",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Punjabi Chicken Seekh Kebab (Frozen)",
+    "price": "₹361",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Galawat Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Tata Sampann Yumside Classic Chicken Seekh Kebab",
+    "price": "₹129",
+    "quantity": "180 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Pork Premium Bacon",
+    "price": "₹375",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Pepper & Herb Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Chicken Chilli Salami (Frozen)",
+    "price": "₹176",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Breakfast Chicken Sausage (Frozen)",
+    "price": "₹159",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Classic Pork Salami (Frozen)",
+    "price": "₹244",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Herbs Chicken Sausage (Frozen)",
+    "price": "₹149",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Bacon Small Pack",
+    "price": "₹225",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Pork Bacon",
+    "price": "₹279",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "La Carne Chicken Bell Pepper Salami (Frozen)",
+    "price": "₹164",
+    "quantity": "250 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Breakfast Bacon (Frozen)",
+    "price": "₹384",
+    "quantity": "300 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Chicken Pepper & Herb Salami (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Spicy & Smoky Pork Pepperoni",
+    "price": "₹260",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)",
+    "price": "₹249",
+    "quantity": "400 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Pepperoni Salami (Frozen)",
+    "price": "₹184",
+    "quantity": "100 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Meatzza Chicken Masala Sliced Salami",
+    "price": "₹140",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Venky's Breakfast Chicken Sausage (Frozen)",
+    "price": "₹194",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Chilli Chicken Sausage (Frozen)",
+    "price": "₹179",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Prasuma Pork Ham",
+    "price": "₹260",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Godrej Yummiez Cheese & Onion Chicken Sausage",
+    "price": "₹189",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Spicy Chicken Salami (Frozen)",
+    "price": "₹171",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Meatzza Cheese Onion Chicken Sausage",
+    "price": "₹179",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Pork Passion Smoked Pork Sausage",
+    "price": "₹198",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Keventer Italian Chicken Sausage",
+    "price": "₹298",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Cheese & Jalapeno Chicken Sausage",
+    "price": "₹175",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Chicken Sliced Ham (Frozen)",
+    "price": "₹217",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Black Pepper Chicken Salami (Frozen)",
+    "price": "₹170",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Pork Honey Ham",
+    "price": "₹250",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Turkey Ham Slices",
+    "price": "₹274",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Turkey Salami",
+    "price": "₹243",
+    "quantity": "150 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Cheese & Onion Chicken Sausage",
+    "price": "₹157",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Pork Sausage (Pigs In Blanket)",
+    "price": "₹274",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Chilli Chicken Sausage",
+    "price": "₹148",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Nutrich Breakfast Chicken Sausage",
+    "price": "₹148",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "ITC Master Chef Chicken Seekh Kebab (Frozen)",
+    "price": "₹336",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Masala Chicken Sausage",
+    "price": "₹187",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Lehsuni Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Regular Chicken Seekh Kebab (Frozen)",
+    "price": "₹352",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Carnivore Punjabi Chicken Seekh Kebab (Frozen)",
+    "price": "₹361",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Delichic Galawat Chicken Seekh Kebab",
+    "price": "₹262",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "sausage-salami-ham",
+    "name": "Tata Sampann Yumside Classic Chicken Seekh Kebab",
+    "price": "₹129",
+    "quantity": "180 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Focus Super Premium Dog Food (Adult)",
+    "price": "₹572",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Adult Dog Wet Food (Chicken Liver Chunks in Gravy)",
+    "price": "₹176",
+    "quantity": "5 x 150 g + 150 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Real Chicken and Chicken Liver Chunks in Gravy Dog Wet Food (Adult)",
+    "price": "₹40",
+    "quantity": "150 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Absolute Calcium Bone Dog Supplement - 40 Pcs",
+    "price": "₹423",
+    "quantity": "600 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Wet Dog Food - Chicken & Liver Chunks in Gravy",
+    "price": "₹59",
+    "quantity": "130 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Chicken & Egg Adult Dry Food - Free 1.2 kg",
+    "price": "₹782",
+    "quantity": "3 kg + 1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Absolute Calcium Pet Supplement",
+    "price": "₹884",
+    "quantity": "32 pieces",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Food - Vegetable & Chicken",
+    "price": "₹320",
+    "quantity": "1.2 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Chappi Chicken And Rice Adult Dog Food",
+    "price": "₹465",
+    "quantity": "2.8 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Kennel Kitchen Chicken Recipe with Pumpkin Dog Wet Food - Supreme Cuts in Gravy",
+    "price": "₹61",
+    "quantity": "100 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree PRO Adult Small Breed Dog Food (9 Months+)",
+    "price": "₹1104",
+    "quantity": "3 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Chicken And Quinoa Dog Food",
+    "price": "₹189",
+    "quantity": "200 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Wet Food -Grilled Liver Chunks Flavour in Gravy with Vegetables",
+    "price": "₹50",
+    "quantity": "70 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Food - Rice & Meat",
+    "price": "₹320",
+    "quantity": "1.2 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree High Protein, Dry Dog Food -Chicken, Egg & Rice",
+    "price": "₹827",
+    "quantity": "3 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Wilderness Chicken And Vegetables Adult Dog Food - Buy 1 Get 1 Free",
+    "price": "₹666",
+    "quantity": "2 x 3 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "PurePet Chicken and Vegetables Dry Food Adult",
+    "price": "₹1056",
+    "quantity": "9 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Active Adult Chicken and Vegetables Dog Food - Buy 1 Get 1 Free",
+    "price": "₹765",
+    "quantity": "6 kg (2 x 3 kg)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Maxi Adult Dog Food",
+    "price": "₹847",
+    "quantity": "1 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Optimum Performance Adult Dry Dog Food",
+    "price": "₹1347",
+    "quantity": "10 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "HUFT Heart Oven Baked Dry Dog Food for Puppies with Chicken, Fish & Indian Herbs",
+    "price": "₹1421",
+    "quantity": "2 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "PurePet Meat & Rice Adult Dog Food",
+    "price": "₹1078",
+    "quantity": "10 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Wilderness Meat And Vegetables Adult Dog Food - Buy 1 Get 1 Free",
+    "price": "₹666",
+    "quantity": "2 x 3 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools All Life Stages Dry Dog Veg Food",
+    "price": "₹325",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Lamb & Pumpkin Wet Dog Food",
+    "price": "₹210",
+    "quantity": "200 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Chicken & Egg Adult Dry Dog Food (Inside Container)",
+    "price": "₹900",
+    "quantity": "5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Wet Food -Chicken & Liver Chunks in Gravy flavour - Pack of 5",
+    "price": "₹194",
+    "quantity": "5 x 70 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Chicken and Herbs Dog Food",
+    "price": "₹110",
+    "quantity": "100 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Starter Dog Food (Maxi, 26 to 44 kg Adult Weight)",
+    "price": "₹3349",
+    "quantity": "4 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Mini Dry Food Adult",
+    "price": "₹3002",
+    "quantity": "4 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Sploot Chonky Chimken Dog Food",
+    "price": "₹185",
+    "quantity": "200 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Farmina N&D Pumpkin-Dry Dog Food (Lamb & Blueberry)",
+    "price": "₹2445",
+    "quantity": "2.5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Farmina N&D Pumpkin Dog Food (Chicken & Pomegranate)",
+    "price": "₹2147",
+    "quantity": "2.5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Sploot Toppers Chicken & Pumpkin Dog Food",
+    "price": "₹383",
+    "quantity": "1 pack (6 x 100 g)",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "HUFT Sara's Wholesome Food Chicken Biryani Dog Food + Sara's Wholesome Food Mutton Biryani Dog Food Combo",
+    "price": "₹555",
+    "quantity": "300 g + 300 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Labrador Retriever Dry Food Adult",
+    "price": "₹2462",
+    "quantity": "3 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Costa D'Costa Calming Canine Water Dog Wet Food",
+    "price": "₹108",
+    "quantity": "250 ml",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Kennel Kitchen Lamb Recipe with Pumpkin Dog Wet Food - Supreme Cuts in Gravy",
+    "price": "₹672",
+    "quantity": "1 pack (12 x 100 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Jerhigh Dog Wet Food (Roasted Duck In Gravy) - Pack Of 12",
+    "price": "₹808",
+    "quantity": "12 x 120 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Focus Starter Super Premium Dog Food",
+    "price": "₹675",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Delichic Frozen Chicken Liver",
+    "price": "₹150",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Focus Super Premium Dog Food (Adult)",
+    "price": "₹572",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Adult Dog Wet Food (Chicken Liver Chunks in Gravy)",
+    "price": "₹176",
+    "quantity": "5 x 150 g + 150 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Real Chicken and Chicken Liver Chunks in Gravy Dog Wet Food (Adult)",
+    "price": "₹40",
+    "quantity": "150 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Absolute Calcium Bone Dog Supplement - 40 Pcs",
+    "price": "₹423",
+    "quantity": "600 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Wet Dog Food - Chicken & Liver Chunks in Gravy",
+    "price": "₹59",
+    "quantity": "130 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Chicken & Egg Adult Dry Food - Free 1.2 kg",
+    "price": "₹782",
+    "quantity": "3 kg + 1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Absolute Calcium Pet Supplement",
+    "price": "₹884",
+    "quantity": "32 pieces",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Food - Vegetable & Chicken",
+    "price": "₹320",
+    "quantity": "1.2 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Chappi Chicken And Rice Adult Dog Food",
+    "price": "₹465",
+    "quantity": "2.8 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Kennel Kitchen Chicken Recipe with Pumpkin Dog Wet Food - Supreme Cuts in Gravy",
+    "price": "₹61",
+    "quantity": "100 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree PRO Adult Small Breed Dog Food (9 Months+)",
+    "price": "₹1104",
+    "quantity": "3 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Chicken And Quinoa Dog Food",
+    "price": "₹189",
+    "quantity": "200 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Wet Food -Grilled Liver Chunks Flavour in Gravy with Vegetables",
+    "price": "₹50",
+    "quantity": "70 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Food - Rice & Meat",
+    "price": "₹320",
+    "quantity": "1.2 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree High Protein, Dry Dog Food -Chicken, Egg & Rice",
+    "price": "₹827",
+    "quantity": "3 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Wilderness Chicken And Vegetables Adult Dog Food - Buy 1 Get 1 Free",
+    "price": "₹666",
+    "quantity": "2 x 3 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "PurePet Chicken and Vegetables Dry Food Adult",
+    "price": "₹1056",
+    "quantity": "9 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Active Adult Chicken and Vegetables Dog Food - Buy 1 Get 1 Free",
+    "price": "₹765",
+    "quantity": "6 kg (2 x 3 kg)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Maxi Adult Dog Food",
+    "price": "₹847",
+    "quantity": "1 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Optimum Performance Adult Dry Dog Food",
+    "price": "₹1347",
+    "quantity": "10 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "HUFT Heart Oven Baked Dry Dog Food for Puppies with Chicken, Fish & Indian Herbs",
+    "price": "₹1421",
+    "quantity": "2 kg",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "PurePet Meat & Rice Adult Dog Food",
+    "price": "₹1078",
+    "quantity": "10 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Wilderness Meat And Vegetables Adult Dog Food - Buy 1 Get 1 Free",
+    "price": "₹666",
+    "quantity": "2 x 3 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools All Life Stages Dry Dog Veg Food",
+    "price": "₹325",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Lamb & Pumpkin Wet Dog Food",
+    "price": "₹210",
+    "quantity": "200 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Chicken & Egg Adult Dry Dog Food (Inside Container)",
+    "price": "₹900",
+    "quantity": "5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Pedigree Adult Dog Wet Food -Chicken & Liver Chunks in Gravy flavour - Pack of 5",
+    "price": "₹194",
+    "quantity": "5 x 70 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Goofy Tails Chicken and Herbs Dog Food",
+    "price": "₹110",
+    "quantity": "100 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Starter Dog Food (Maxi, 26 to 44 kg Adult Weight)",
+    "price": "₹3349",
+    "quantity": "4 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Mini Dry Food Adult",
+    "price": "₹3002",
+    "quantity": "4 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Sploot Chonky Chimken Dog Food",
+    "price": "₹185",
+    "quantity": "200 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Farmina N&D Pumpkin-Dry Dog Food (Lamb & Blueberry)",
+    "price": "₹2445",
+    "quantity": "2.5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Farmina N&D Pumpkin Dog Food (Chicken & Pomegranate)",
+    "price": "₹2147",
+    "quantity": "2.5 kg",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Sploot Toppers Chicken & Pumpkin Dog Food",
+    "price": "₹383",
+    "quantity": "1 pack (6 x 100 g)",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "HUFT Sara's Wholesome Food Chicken Biryani Dog Food + Sara's Wholesome Food Mutton Biryani Dog Food Combo",
+    "price": "₹555",
+    "quantity": "300 g + 300 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Royal Canin Labrador Retriever Dry Food Adult",
+    "price": "₹2462",
+    "quantity": "3 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Costa D'Costa Calming Canine Water Dog Wet Food",
+    "price": "₹108",
+    "quantity": "250 ml",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Kennel Kitchen Lamb Recipe with Pumpkin Dog Wet Food - Supreme Cuts in Gravy",
+    "price": "₹672",
+    "quantity": "1 pack (12 x 100 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Jerhigh Dog Wet Food (Roasted Duck In Gravy) - Pack Of 12",
+    "price": "₹808",
+    "quantity": "12 x 120 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Drools Focus Starter Super Premium Dog Food",
+    "price": "₹675",
+    "quantity": "1.2 kg",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "dog-food-treats",
+    "name": "Delichic Frozen Chicken Liver",
+    "price": "₹150",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Melty Creamy Cat Treat (Maguro Selection Tuna & Seafood Flavors)",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Tasty Chicken Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "PurePet Lickable Creamy Cat Treat (Tuna & Bonito)",
+    "price": "₹80",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Savoury Salmon Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Melty Creamy Cat Treat (Sasami Selection Chicken & Whitefish Flavors)",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "PurePet Lickable Creamy Cat Treat (Crab & Chicken)",
+    "price": "₹80",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Oven Baked Biscuits Crunchy Cat Treat",
+    "price": "₹99",
+    "quantity": "110 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Salmon & Cheese Flavour Creamy Cat Treat",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Lickable Salmon & Skipjack Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Real Chicken Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "75 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Tuna and Bonito Lickable Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (4+1 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Tempting Tuna Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Creamy Lickable Crab & Chicken Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (4+1 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Chicken & Tuna Flavour Creamy Cat Treat",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Premium Kitten Wet Wet Kitten Food, Chicken Loaf - Pack of 2",
+    "price": "₹136",
+    "quantity": "2 x 70 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Me-O Creamy Cat Treat Crab",
+    "price": "₹425",
+    "quantity": "1 pack (20 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "BearHugs Valentine Special Pet Gift Box For Cats",
+    "price": "₹500",
+    "quantity": "1 set",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Melty Creamy Cat Treat (Maguro Selection Tuna & Seafood Flavors)",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Tasty Chicken Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "PurePet Lickable Creamy Cat Treat (Tuna & Bonito)",
+    "price": "₹80",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Savoury Salmon Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Melty Creamy Cat Treat (Sasami Selection Chicken & Whitefish Flavors)",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "PurePet Lickable Creamy Cat Treat (Crab & Chicken)",
+    "price": "₹80",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Oven Baked Biscuits Crunchy Cat Treat",
+    "price": "₹99",
+    "quantity": "110 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Salmon & Cheese Flavour Creamy Cat Treat",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Lickable Salmon & Skipjack Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (5 x 15 g)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Real Chicken Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "75 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Tuna and Bonito Lickable Creamy Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (4+1 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Tempting Tuna Flavour Cream Filled Crunchy Cat Treat",
+    "price": "₹147",
+    "quantity": "85 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Creamy Lickable Crab & Chicken Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (4+1 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Chicken & Tuna Flavour Creamy Cat Treat",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Sheba Premium Kitten Wet Wet Kitten Food, Chicken Loaf - Pack of 2",
+    "price": "₹136",
+    "quantity": "2 x 70 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Me-O Creamy Cat Treat Crab",
+    "price": "₹425",
+    "quantity": "1 pack (20 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "BearHugs Valentine Special Pet Gift Box For Cats",
+    "price": "₹500",
+    "quantity": "1 set",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Drools Creamy Lickable Seafood Medley Cat Treat",
+    "price": "₹90",
+    "quantity": "1 pack (4+1 pieces)",
+    "eta": "8 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Meo Creamy Cat Treat Chicken & Liver",
+    "price": "₹425",
+    "quantity": "1 pack (20 pieces)",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Creamy Cat Treat (Maguro and Scallop)",
+    "price": "₹118",
+    "quantity": "48 g",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Kennel Kitchen Creameroo Creamy Cat Treat",
+    "price": "₹98",
+    "quantity": "4 x 15 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Temptations Purrrr-ee Creamy Cat Treat (Chicken & Tuna) - Pack of 12",
+    "price": "₹1296",
+    "quantity": "12 x 48 g",
+    "eta": "30 MINS\nAd",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Kennel Kitchen Mutton Cat & Dog Jerky (Grain Free)",
+    "price": "₹263",
+    "quantity": "70 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Me-O Creamy Cat Treat Salmon",
+    "price": "₹425",
+    "quantity": "300 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Kennel Kitchen Creameroo Creamy Cat Treat (Crab with Mackerel)",
+    "price": "₹98",
+    "quantity": "4 x 15 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Bark Out Loud Hairball Control Cat Treats",
+    "price": "₹238",
+    "quantity": "100 g",
+    "eta": "8 MINS\nImported",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Bark Out Loud Sensitive Gut Cat Treats",
+    "price": "₹233",
+    "quantity": "100 g",
+    "eta": "30 MINS\nImported",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "HUFT Chicken Crunchies Crunchy Cat Treat + Mahi Mahi Fish Crunchies Crunchy Cat Treat Combo",
+    "price": "₹357",
+    "quantity": "35 g + 35 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Petcrux Chicken Cat Treat",
+    "price": "₹502",
+    "quantity": "280 g (4 x 70 g)",
+    "eta": "30 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Bark Out Loud Multivitamin Immunity Chewstix Cat & Dog Treat",
+    "price": "₹238",
+    "quantity": "100 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "cat-treats",
+    "name": "Bark Out Loud Skin & Coat Hemp Cat & Dog Treat",
+    "price": "₹238",
+    "quantity": "100 g",
+    "eta": "8 MINS",
     "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
   }
 ]

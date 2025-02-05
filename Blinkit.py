@@ -22,51 +22,53 @@ def extract_category_from_url(url):
     except Exception:
         return "Unknown"
 
-def scrape_blinkit_products(url, max_products=10):
-    """Scrape product details from Blinkit"""
+def scrape_blinkit_products(url, max_products=1000):
     driver = setup_driver()
     products = []
     category = extract_category_from_url(url)
-
+    
     try:
         driver.get(url)
         WebDriverWait(driver, 15).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, "Product__UpdatedDetailContainer-sc-11dk8zk-5"))
         )
-
+        
+        # More efficient scrolling strategy
+        last_height = driver.execute_script("return document.body.scrollHeight")
+        
         while len(products) < max_products:
+            # Find current page products
             product_cards = driver.find_elements(By.CLASS_NAME, "Product__UpdatedDetailContainer-sc-11dk8zk-5")
-            for card in product_cards:
-                if len(products) >= max_products:
-                    break
-
-                product = {'category': category}
+            
+            for card in product_cards[:max_products - len(products)]:
                 try:
-                    product['name'] = card.find_element(By.CLASS_NAME, "Product__UpdatedTitle-sc-11dk8zk-9").text
-                    product['price'] = card.find_element(By.CLASS_NAME, "Product__UpdatedPriceAndAtcContainer-sc-11dk8zk-10").text.split("\n")[0]
-                    product['quantity'] = card.find_element(By.CLASS_NAME, "bff_variant_text_only").text
-                    product['eta'] = card.find_element(By.CLASS_NAME, "Product__UpdatedETAContainer-sc-11dk8zk-6").text.strip()
-                    
-                    try:
-                        img_element = card.find_element(By.CSS_SELECTOR, "img")
-                        product['image_url'] = img_element.get_attribute("src") if img_element else "N/A"
-                    except:
-                        product['image_url'] = "N/A"
-
+                    product = {
+                        'category': category,
+                        'name': card.find_element(By.CLASS_NAME, "Product__UpdatedTitle-sc-11dk8zk-9").text,
+                        'price': card.find_element(By.CLASS_NAME, "Product__UpdatedPriceAndAtcContainer-sc-11dk8zk-10").text.split("\n")[0],
+                        'quantity': card.find_element(By.CLASS_NAME, "bff_variant_text_only").text,
+                        'eta': card.find_element(By.CLASS_NAME, "Product__UpdatedETAContainer-sc-11dk8zk-6").text.strip(),
+                        'image_url': card.find_element(By.CSS_SELECTOR, "img").get_attribute("src") or "N/A"
+                    }
                     products.append(product)
-                except:
+                except Exception:
                     continue
-
-                time.sleep(0.5)  # Small delay to prevent overloading
-
-            driver.execute_script("window.scrollBy(0, 600);")
-            time.sleep(3)
-
+            
+            # Scroll down to trigger more content
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(2)
+            
+            # Check new height
+            new_height = driver.execute_script("return document.body.scrollHeight")
+            if new_height == last_height:
+                break
+            last_height = new_height
+    
     except Exception as e:
-        print(f"Error scraping {url}: {e}")
+        print(f"Scraping error: {e}")
     finally:
         driver.quit()
-
+    
     return products
 
 def main():
@@ -79,16 +81,16 @@ def main():
         return
 
     all_products = []
-    for url in category_links[:3]:
+    for url in category_links[:1]:
         print(f"Scraping: {url}")
         category_products = scrape_blinkit_products(url)
         all_products.extend(category_products)
         
-        if len(all_products) >= 30:
+        if len(all_products) > 10000:
             break
 
     # Save results
-    with open('blinkit_multi_category_products.json', 'w', encoding='utf-8') as f:
+    with open('e-commerce-web-scarpping/frontend/public/blinkit_multi_category_products.json', 'w', encoding='utf-8') as f:
         json.dump(all_products, f, ensure_ascii=False, indent=2)
 
     print(f"Total products scraped: {len(all_products)}")
