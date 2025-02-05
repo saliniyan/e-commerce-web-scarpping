@@ -1,0 +1,242 @@
+[
+  {
+    "category": "exotic-meat",
+    "name": "Licious Chicken Curry Cut (Large - 7 to 11 Pcs)",
+    "price": "₹179",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "Licious Chicken Curry Cut (Small Pieces)",
+    "price": "₹179",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Boneless Chicken Breast",
+    "price": "₹270",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "Licious Chicken Breast - Boneless",
+    "price": "₹266",
+    "quantity": "400 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Chicken Curry Cut",
+    "price": "₹160",
+    "quantity": "450 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Chicken Drumstick (Antibiotic Residue Free)",
+    "price": "₹246",
+    "quantity": "500 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Boneless Cubes Chicken (Tikka Cut)",
+    "price": "₹276",
+    "quantity": "450 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "Licious Boneless Chicken Cubes",
+    "price": "₹339",
+    "quantity": "450 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Boneless Chicken Thigh",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "exotic-meat",
+    "name": "ChefiGo Chicken Keema",
+    "price": "₹270",
+    "quantity": "500 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "ITC Master Chef Medium Prawns Peeled & Deveined (Frozen)",
+    "price": "₹224",
+    "quantity": "200 g",
+    "eta": "Frozen",
+    "image_url": "N/A"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "ITC Master Chef Medium Prawns Peeled & Deveined (Frozen)",
+    "price": "₹224",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "ITC Master Chef Soft And Juicy Large Prawns",
+    "price": "₹256",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "Godrej Yummiez Large Prawns",
+    "price": "₹229",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "Godrej Yummiez Medium Prawns",
+    "price": "₹219",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "Gadre Tilapia Fish Fingers",
+    "price": "₹209",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "Gadre Seafood Seafood Snack",
+    "price": "₹251",
+    "quantity": "400 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "FreshToHome Rohu / Rui Fish (Bengali Cut without Head)",
+    "price": "₹254",
+    "quantity": "480 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "ChefiGo Catla Bengali Cut Fish without Head",
+    "price": "₹295",
+    "quantity": "500 g",
+    "eta": "",
+    "image_url": "N/A"
+  },
+  {
+    "category": "fish-seafood",
+    "name": "ITC Master Chef Medium Prawns Peeled & Deveined (Frozen)",
+    "price": "₹224",
+    "quantity": "200 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Licious Chicken Curry Cut (Large - 7 to 11 Pcs)",
+    "price": "₹179",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Prasuma Chicken Sausage",
+    "price": "₹170",
+    "quantity": "250 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Raw Frozen Chicken Curry Cut",
+    "price": "₹191",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatigo By Prasuma Antibiotic-Free Boneless Chicken Breast (Frozen)",
+    "price": "₹275",
+    "quantity": "450 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Licious Chicken Curry Cut (Small Pieces)",
+    "price": "₹179",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Boneless Frozen Chicken Breast (Antibiotic Free)",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "FreshToHome Supreme Tender Skinless Chicken Curry Cut (Antibiotic Residue-Free)",
+    "price": "₹170",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "ChefiGo Boneless Chicken Breast",
+    "price": "₹270",
+    "quantity": "450 g",
+    "eta": "8 MINS",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Meatzza Mince Frozen Chicken Keema (Antibiotic Free)",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  },
+  {
+    "category": "chicken",
+    "name": "Delichic Boneless Frozen Chicken Tikka Cubes Cut",
+    "price": "₹260",
+    "quantity": "500 g",
+    "eta": "8 MINS\nFrozen",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png"
+  }
+]

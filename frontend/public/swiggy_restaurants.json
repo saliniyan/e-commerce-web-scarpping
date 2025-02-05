@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Chinese Wok",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Chinese, Asian, Tibetan, Desserts",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597"
+    },
+    {
+        "Name": "Pizza Hut",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "Pizzas",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/2a60648e-76f5-4d39-963c-da4b2a8facd5_492041.jpg"
+    },
+    {
+        "Name": "Burger King",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Burgers, American",
+        "Location": "Ram Nagar",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/55d0daa1-ad2e-4893-be06-4709c5c68d49_50456.JPG"
+    },
+    {
+        "Name": "Nagerkovil Arya Bhavan",
+        "Rating": "4.7",
+        "Delivery Time": "",
+        "Cuisine": "South Indian, Chinese",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yj6g7wugbi5qbvjtoqmr"
+    },
+    {
+        "Name": "Cock Ra Co",
+        "Rating": "4.5",
+        "Delivery Time": "",
+        "Cuisine": "Biryani, Arabian, South Indian, Chinese",
+        "Location": "Ramanathapuram",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/u6wpylgszisslzsmlqvo"
+    },
+    {
+        "Name": "HMR - Biriyani Hut",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Biryani, Indian",
+        "Location": "Ramanathapuram",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/xrnsnkxooarkoy7awmkw"
+    },
+    {
+        "Name": "MSR Biriyani Hotel",
+        "Rating": "4.2",
+        "Delivery Time": "",
+        "Cuisine": "Biryani, Grill, Barbecue, Hyderabadi, Chinese",
+        "Location": "Ramanathapuram",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/29a46494368afbaca14cb9acaa7e4ae6"
+    },
+    {
+        "Name": "The Side Dish Company",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "South Indian, Chinese, Biryani, Desserts",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/y1m2ynupozv3htsmx10d"
+    },
+    {
+        "Name": "Chinese Wok",
+        "Rating": "4.3",
+        "Delivery Time": "",
+        "Cuisine": "Chinese, Asian, Tibetan, Desserts",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597"
+    },
+    {
+        "Name": "Pizza Hut",
+        "Rating": "4.4",
+        "Delivery Time": "",
+        "Cuisine": "Pizzas",
+        "Location": "Peelamedu",
+        "Image URL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/2a60648e-76f5-4d39-963c-da4b2a8facd5_492041.jpg"
+    }
+]
