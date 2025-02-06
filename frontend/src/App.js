@@ -16,14 +16,35 @@ const ProductGrid = ({ products }) => {
               />
             )}
             <h3 className="product-title">{product.title}</h3>
-            <p className="product-detail">
-              <span className="label">Price:</span> {product.price}
-            </p>
-            {product.discount && (
-              <p className="product-detail">
-                <span className="label">Discount:</span> {product.discount}
-              </p>
+
+            {/* If source is Swiggy, display restaurant-specific details */}
+            {product.source === "Swiggy" ? (
+              <>
+                <p className="product-detail">
+                  <span className="label">Rating:</span> {product.rating}
+                </p>
+                <p className="product-detail">
+                  <span className="label">Cuisine:</span> {product.cuisine}
+                </p>
+                <p className="product-detail">
+                  <span className="label">Location:</span> {product.location}
+                </p>
+              </>
+            ) : (
+              <>
+                {/* Display Price and Discount for other products */}
+                <p className="product-detail">
+                  <span className="label">Price:</span> {product.price}
+                </p>
+                {product.discount && (
+                  <p className="product-detail">
+                    <span className="label">Discount:</span> {product.discount}
+                  </p>
+                )}
+              </>
             )}
+
+            {/* Common source display */}
             {product.source && (
               <p className="product-detail source">
                 <span className="label">Source:</span> {product.source}

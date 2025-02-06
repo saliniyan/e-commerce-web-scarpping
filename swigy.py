@@ -14,7 +14,7 @@ def setup_driver():
     driver = webdriver.Firefox(options=firefox_options)
     return driver
 
-def scrape_swiggy_restaurants(url, max_restaurants=500):
+def scrape_swiggy_restaurants(url, max_restaurants=200):
     driver = setup_driver()
     driver.get(url)
 
