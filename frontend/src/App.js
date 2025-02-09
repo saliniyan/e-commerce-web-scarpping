@@ -17,7 +17,6 @@ const ProductGrid = ({ products }) => {
             )}
             <h3 className="product-title">{product.title}</h3>
 
-            {/* If source is Swiggy, display restaurant-specific details */}
             {product.source === "Swiggy" ? (
               <>
                 <p className="product-detail">
@@ -32,19 +31,42 @@ const ProductGrid = ({ products }) => {
               </>
             ) : (
               <>
-                {/* Display Price and Discount for other products */}
+                {product.category && (
+                  <p className="product-detail">
+                    <span className="label">Category:</span> {product.category}
+                  </p>
+                )}
+                {product.weight && (
+                  <p className="product-detail">
+                    <span className="label">Weight:</span> {product.weight}
+                  </p>
+                )}
                 <p className="product-detail">
                   <span className="label">Price:</span> {product.price}
                 </p>
+                {product.old_price && (
+                  <p className="product-detail">
+                    <span className="label">Old Price:</span> {product.old_price}
+                  </p>
+                )}
                 {product.discount && (
                   <p className="product-detail">
                     <span className="label">Discount:</span> {product.discount}
                   </p>
                 )}
+                <p className="product-detail">
+                  <span className="label">In Stock:</span> {product.in_stock}
+                </p>
+                {product.product_url && (
+                  <p className="product-detail">
+                    <a href={product.product_url} target="_blank" rel="noopener noreferrer">
+                      View Product
+                    </a>
+                  </p>
+                )}
               </>
             )}
 
-            {/* Common source display */}
             {product.source && (
               <p className="product-detail source">
                 <span className="label">Source:</span> {product.source}
@@ -56,6 +78,7 @@ const ProductGrid = ({ products }) => {
     </div>
   );
 };
+
 
 // Main App component
 const App = () => {
@@ -85,16 +108,21 @@ const App = () => {
           source: "Zepto"
         })
       },
-      { 
-        name: "Blinkit", 
-        file: "/blinkit_multi_category_products.json",
+      {
+        name: "Blinkit",
+        file: "/blinkit_products_part_1.json",
         transform: (product) => ({
           title: product.name || "Unknown Product",
-          price: product.price || "Not Available",
-          quantity: product.quantity || "",
-          image: product.image_url || "",
-          source: "Blinkit"
-        })
+          category: product.category || "N/A",
+          weight: product.weight || "N/A",
+          price: product.new_price || "Not Available",
+          old_price: product.old_price || "N/A",
+          discount: product.discount || "No discount",
+          in_stock: product.in_stock || "Unknown",
+          image: product.image_url || "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+          source: "Blinkit",
+          product_url: product.product_url || "",
+        }),
       },
       { 
         name: "Swiggy", 
