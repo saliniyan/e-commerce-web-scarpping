@@ -103,7 +103,7 @@ const App = () => {
       },
       { 
         name: "BigBasket", 
-        file: "/bigbasket_products.json",
+        file: "/big_products copy.json",
         transform: (product) => ({
           title: product.name || "Unknown Product",
           category: product.category || "N/A",
