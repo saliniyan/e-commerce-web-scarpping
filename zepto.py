@@ -7,97 +7,137 @@ import time
 import json
 
 def setup_driver():
-    """Set up the Firefox webdriver with appropriate options"""
+    """Set up the Firefox webdriver with headless mode for efficiency."""
     firefox_options = Options()
-    # Uncomment the line below if you want to run in headless mode
-    # firefox_options.add_argument('--headless')
+    firefox_options.add_argument('--headless')  # Run in headless mode
     driver = webdriver.Firefox(options=firefox_options)
     return driver
 
-def scrape_products(url):
-    """Scrape product information from the given Zepto URL"""
+def extract_category_from_url(url):
+    """Extract category from Zepto URL."""
+    try:
+        parts = url.split('/cn/')[-1].split('/cid/')[0].split('/')
+        category = parts[-1] if parts else "Unknown"
+        return category.replace("-", " ").title()
+    except Exception:
+        return "Unknown"
+
+def scroll_to_load_products(driver):
+    """Scroll dynamically to load all products on the page."""
+    previous_height = 0
+    while True:
+        product_cards = driver.find_elements(By.CSS_SELECTOR, "[data-testid='product-card']")
+        if not product_cards:
+            break  # Exit if no products found
+
+        last_product = product_cards[-1]
+        driver.execute_script("arguments[0].scrollIntoView();", last_product)
+        time.sleep(2)  # Allow content to load
+
+        new_height = len(product_cards)
+        if new_height == previous_height:
+            break  # Stop scrolling if no new products loaded
+        previous_height = new_height
+
+def get_product_image(card):
+    """Extract product image URL."""
+    try:
+        img_element = card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-image']")
+        return img_element.get_attribute('src')
+    except:
+        return None
+
+def get_discount(card):
+    """Extract discount details."""
+    try:
+        discount_element = card.find_element(By.CSS_SELECTOR, ".absolute.top-0.text-center.font-title.text-white")
+        return discount_element.text
+    except:
+        return "No discount"
+
+def get_original_price(card):
+    """Extract original (strikethrough) price if available."""
+    try:
+        return card.find_element(By.CSS_SELECTOR, ".line-through").text
+    except:
+        return None
+
+def get_stock_status(card):
+    """Check if the product is in stock."""
+    try:
+        stock_element = card.find_elements(By.CLASS_NAME, "bg-opacity-50")
+        return "No" if stock_element else "Yes"
+    except:
+        return "Unknown"
+
+def get_product_link(card):
+    """Extract product link if available."""
+    try:
+        link_element = card.find_element(By.CSS_SELECTOR, "a")
+        return link_element.get_attribute('href') if link_element else None
+    except:
+        return None
+
+def scrape_zepto_products(urls):
+    """Scrape product details from Zepto."""
     driver = setup_driver()
     products = []
     
     try:
-        driver.get(url)
-        # Wait for the products to load
-        time.sleep(5)  # Allow dynamic content to load
-        
-        # Find all product cards
-        product_cards = driver.find_elements(By.CSS_SELECTOR, "[data-testid='product-card']")
-        
-        for card in product_cards:
-            product = {}
+        for url in urls:
+            print(f"Scraping: {url}")
+            category = extract_category_from_url(url)
+            driver.get(url)
             
-            try:
-                # Extract product name
-                product['name'] = card.find_element(
-                    By.CSS_SELECTOR, "[data-testid='product-card-name']"
-                ).text
-                
-                # Extract price
-                price_element = card.find_element(
-                    By.CSS_SELECTOR, "[data-testid='product-card-price']"
-                )
-                product['price'] = price_element.text
-                
-                # Extract quantity
-                quantity_element = card.find_element(
-                    By.CSS_SELECTOR, "[data-testid='product-card-quantity']"
-                )
-                product['quantity'] = quantity_element.text
-                
-                # Try to extract discount if available
+            # Wait for product elements to load
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "[data-testid='product-card']"))
+            )
+
+            # Scroll to load all products
+            scroll_to_load_products(driver)
+
+            product_cards = driver.find_elements(By.CSS_SELECTOR, "[data-testid='product-card']")
+            for card in product_cards:
                 try:
-                    discount_element = card.find_element(
-                        By.CSS_SELECTOR, ".absolute.top-0.text-center.font-title.text-white"
-                    )
-                    product['discount'] = discount_element.text
-                except:
-                    product['discount'] = "No discount"
+                    product = {
+                        'category': category,
+                        'name': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-name']").text,
+                        'price': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-price']").text,
+                        'quantity': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-quantity']").text,
+                        'discount': get_discount(card),
+                        'original_price': get_original_price(card),
+                        'image_url': get_product_image(card),
+                        'in_stock': get_stock_status(card),
+                        'product_link': get_product_link(card)  # Extracted product link
+                    }
+                    products.append(product)
                 
-                # Try to extract original price if available
-                try:
-                    original_price = card.find_element(
-                        By.CSS_SELECTOR, ".line-through"
-                    ).text
-                    product['original_price'] = original_price
-                except:
-                    product['original_price'] = None
-                
-                # Extract image URL
-                try:
-                    img_element = card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-image']")
-                    product['image_url'] = img_element.get_attribute('src')
-                except:
-                    product['image_url'] = None
-                
-                products.append(product)
-                
-            except Exception as e:
-                print(f"Error extracting product details: {str(e)}")
-                continue
-        
-        # Save results to a JSON file
-        with open('zepto_products.json', 'w', encoding='utf-8') as f:
-            json.dump(products, f, ensure_ascii=False, indent=2)
-            
-        return products
+                except Exception as e:
+                    print(f"Error extracting product details: {e}")
+                    continue
         
     except Exception as e:
-        print(f"An error occurred: {str(e)}")
-        return None
-        
+        print(f"An error occurred: {e}")
     finally:
         driver.quit()
 
-if __name__ == "__main__":
-    url = "https://www.zeptonow.com/cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87"
-    results = scrape_products(url)
-    
+    print(f"Total products scraped: {len(products)}")
+    return products
+
+def main():
+    urls = [
+        "https://www.zeptonow.com/cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87"
+    ]
+
+    results = scrape_zepto_products(urls)
+
     if results:
+        with open('zepto_products.json', 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+
         print(f"Successfully scraped {len(results)} products")
         print("Results have been saved to 'zepto_products.json'")
-    else:
-        print("Scraping failed")
+
+if __name__ == "__main__":
+    main()
