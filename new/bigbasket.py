@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
+from urllib.parse import quote
 
 def setup_driver():
     """Initialize Firefox WebDriver with headless options."""
@@ -54,6 +55,35 @@ def get_ratings_info(card):
             'review_count': "0 Ratings"
         }
 
+def extract_price_info(card):
+    """Extract price information with improved error handling."""
+    try:
+        price_div = card.find_element(By.CLASS_NAME, "Pricing___StyledDiv-sc-pldi2d-0")
+        
+        # Extract new price
+        new_price_elem = price_div.find_element(By.CLASS_NAME, "Pricing___StyledLabel-sc-pldi2d-1")
+        new_price = float(new_price_elem.text.replace('₹', '').strip())
+        
+        # Extract old price (optional)
+        try:
+            old_price_elem = price_div.find_element(By.CLASS_NAME, "Pricing___StyledLabel2-sc-pldi2d-2")
+            old_price = float(old_price_elem.text.replace('₹', '').strip())
+        except:
+            old_price = None
+        
+        return new_price, old_price
+    
+    except Exception as e:
+        return None, None
+
+def extract_discount(card):
+    """Extract discount percentage."""
+    try:
+        discount_elem = card.find_element(By.CSS_SELECTOR, "span.font-semibold.leading-xxl")
+        return discount_elem.text.strip()
+    except Exception as e:
+        return "No discount"
+
 def scroll_to_load_products(driver):
     """Scroll dynamically to load all products by scrolling the last product into view."""
     previous_height = 0
@@ -71,13 +101,19 @@ def scroll_to_load_products(driver):
             break  # Stop scrolling if no new products loaded
         previous_height = new_height
 
+def generate_bigbasket_url(product_name):
+    """Generate BigBasket search URL from product name."""
+    encoded_name = quote(product_name.replace(" ", "+"))
+    return f"https://www.bigbasket.com/ps/?q={encoded_name}&nc=as"
+
 def scrape_bigbasket_products(urls):
     """Scrape product details from BigBasket."""
     driver = setup_driver()
     products = []
     
     try:
-        for url in urls:
+        for name in urls:
+            url = generate_bigbasket_url(name)
             print(f"Scraping: {url}")
             category = extract_category_from_url(url)
             driver.get(url)
@@ -94,13 +130,19 @@ def scrape_bigbasket_products(urls):
 
             for card in product_cards:
                 try:
+                    # Extract price information
+                    new_price, old_price = extract_price_info(card)
+                    
                     # Base product details
                     product = {
                         'category': category,
                         'brand': card.find_element(By.CLASS_NAME, "BrandName___StyledLabel2-sc-hssfrl-1").text,
                         'name': card.find_element(By.CSS_SELECTOR, "h3.line-clamp-2").text,
                         'image_url': get_product_image(card),
-                        'in_stock': get_stock_status(card)
+                        'in_stock': get_stock_status(card),
+                        'new_price': new_price,
+                        'old_price': old_price,
+                        'discount': extract_discount(card)
                     }
 
                     # Extract URL
@@ -118,32 +160,6 @@ def scrape_bigbasket_products(urls):
                     except:
                         product['pack_size'] = "N/A"
 
-                    # Extract price information
-                    try:
-                        price_div = card.find_element(By.CLASS_NAME, "Pricing___StyledDiv-sc-pldi2d-0")
-                        new_price = price_div.find_element(By.CLASS_NAME, "Pricing___StyledLabel-sc-pldi2d-1").text
-                        old_price = price_div.find_element(By.CLASS_NAME, "Pricing___StyledLabel2-sc-pldi2d-2").text
-                        product['new_price'] = new_price
-                        product['old_price'] = old_price
-                    except:
-                        try:
-                            # Single price case
-                            price = card.find_element(By.CLASS_NAME, "Pricing___StyledLabel2-sc-pldi2d-2").text
-                            product['new_price'] = price
-                            product['old_price'] = None
-                        except:
-                            product['new_price'] = None
-                            product['old_price'] = None
-
-                    # Extract discount
-                    try:
-                        discount = card.find_element(
-                            By.CLASS_NAME, "Tags___StyledLabel2-sc-aeruf4-1"
-                        ).text
-                        product['discount'] = discount
-                    except:
-                        product['discount'] = "No discount"
-
                     # Get ratings information
                     ratings_info = get_ratings_info(card)
                     product.update(ratings_info)
@@ -159,6 +175,7 @@ def scrape_bigbasket_products(urls):
                         products.append(product)
 
                 except Exception as e:
+                    print(f"Error processing product card: {e}")
                     continue
 
     except Exception as e:
@@ -177,14 +194,14 @@ def process_scraping(urls, output_file):
 
 def main():
     try:
-        with open('new/product_links.json', 'r') as f:
+        with open('new/product_names.json', 'r') as f:
             category_links = json.load(f)
     except Exception as e:
         print(f"Failed to load category links: {e}")
         return
 
     # Limit categories for testing
-    category_links = category_links[:10]
+    category_links = category_links[:2]
 
     num_processes = 2
     chunk_size = max(1, len(category_links) // num_processes)

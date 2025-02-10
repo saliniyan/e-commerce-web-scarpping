@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Whole Farm Grocery Thick Poha / Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528791a.jpg?ts=1698939488",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thick-poha-avalakki/prid/528791",
+    "weight": "500 g",
+    "new_price": "₹40",
+    "old_price": "₹68",
+    "discount": "41%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Deepak Pearl Millet (Bajra)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/c45303fa-aa2c-491e-b6be-a8fe54d365aa.jpg",
+    "product_url": "https://blinkit.com/prn/deepak-pearl-millet-bajra/prid/543762",
+    "weight": "500 g",
+    "new_price": "₹55",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Fiber Rich Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527588a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-fiber-rich-thick-poha/prid/527588",
+    "weight": "500 g",
+    "new_price": "₹39",
+    "old_price": "₹68",
+    "discount": "43%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Tata Sampann High In Fibre Popular Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4baa667f-d757-4071-83d7-9fe32aee1632.jpg?ts=1736136797",
+    "product_url": "https://blinkit.com/prn/tata-sampann-high-in-fibre-popular-thick-poha/prid/480044",
+    "weight": "500 g",
+    "new_price": "₹56",
+    "old_price": "₹63",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "True Elements Bajra Flour (Pearl Millet) - 500 g",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/538335a.jpg",
+    "product_url": "https://blinkit.com/prn/true-elements-bajra-flour-pearl-millet-500-g/prid/538335",
+    "weight": "500 g",
+    "new_price": "₹87",
+    "old_price": "₹110",
+    "discount": "21%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b50fd815-87b6-4f6f-9d28-55ab75d36aae.jpg?ts=1732189579",
+    "product_url": "https://blinkit.com/prn/fortune-thick-poha/prid/480589",
+    "weight": "500 g",
+    "new_price": "₹53",
+    "old_price": "₹60",
+    "discount": "12%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Pansari (Pearl Millet) Bajra Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/c8af4493-cbbc-444a-9ee3-5545ffc3e461.jpg?ts=1712825711",
+    "product_url": "https://blinkit.com/prn/pansari-pearl-millet-bajra-flour/prid/477781",
+    "weight": "500 g",
+    "new_price": "₹60",
+    "old_price": "₹68",
+    "discount": "12%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Chena/Proso Millet/Baragu",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529760a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-chenaproso-milletbaragu/prid/529760",
+    "weight": "500 g",
+    "new_price": "₹90",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Indori Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/63f88fcc-606d-4fa2-9819-a3747b617bf8.jpg?ts=1732175953",
+    "product_url": "https://blinkit.com/prn/fortune-indori-thick-poha/prid/480588",
+    "weight": "500 g",
+    "new_price": "₹62",
+    "old_price": "₹75",
+    "discount": "17%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Natureland - Organic Bajra Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/506050a.jpg?ts=1686566486",
+    "product_url": "https://blinkit.com/prn/natureland-organic-bajra-flour/prid/506050",
+    "weight": "500 g",
+    "new_price": "₹63",
+    "old_price": "₹70",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Bajra/Pearl Millets",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/531196a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-bajrapearl-millets/prid/531196",
+    "weight": "500 g",
+    "new_price": "₹42",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "True Elements Bajra Flour - Healthy Pearl Millet Atta",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/9e00f443-ee2c-46d0-b304-541c6f00e126.jpg?ts=1712825576",
+    "product_url": "https://blinkit.com/prn/true-elements-bajra-flour-healthy-pearl-millet-atta/prid/532859",
+    "weight": "1 kg",
+    "new_price": "₹158",
+    "old_price": "₹225",
+    "discount": "30%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Deepak Bajra Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/7fbd571e-3b11-4436-8c40-241f286d72e2.jpg?ts=1736933780",
+    "product_url": "https://blinkit.com/prn/deepak-bajra-flour/prid/543451",
+    "weight": "500 g",
+    "new_price": "₹53",
+    "old_price": "₹55",
+    "discount": "4%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thick Poha / Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528791a.jpg?ts=1698939488",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thick-poha-avalakki/prid/528791",
+    "weight": "500 g",
+    "new_price": "₹40",
+    "old_price": "₹68",
+    "discount": "41%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "GM Foods Bajra Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/da14a3f7-f128-4d26-b3f7-48f5fb2f7bcb.jpg?ts=1732707691",
+    "product_url": "https://blinkit.com/prn/gm-foods-bajra-flour/prid/588463",
+    "weight": "500 g",
+    "new_price": "₹64",
+    "old_price": "₹68",
+    "discount": "6%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b50fd815-87b6-4f6f-9d28-55ab75d36aae.jpg?ts=1732189579",
+    "product_url": "https://blinkit.com/prn/fortune-thick-poha/prid/480589",
+    "weight": "500 g",
+    "new_price": "₹53",
+    "old_price": "₹60",
+    "discount": "12%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thin Poha / Patla Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528779a.jpg?ts=1692362968",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thin-poha-patla-avalakki/prid/528779",
+    "weight": "500 g",
+    "new_price": "₹54",
+    "old_price": "₹66",
+    "discount": "18%",
+    "in_stock": "No"
+  },
+  {
+    "name": "Tata Sampann High In Fibre Popular Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4baa667f-d757-4071-83d7-9fe32aee1632.jpg?ts=1736136797",
+    "product_url": "https://blinkit.com/prn/tata-sampann-high-in-fibre-popular-thick-poha/prid/480044",
+    "weight": "500 g",
+    "new_price": "₹56",
+    "old_price": "₹63",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Tata Sampann Thin Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/29741b4d-18a5-4c52-ae0b-7b36bf691fa9.jpg?ts=1736136790",
+    "product_url": "https://blinkit.com/prn/tata-sampann-thin-poha/prid/440966",
+    "weight": "500 g",
+    "new_price": "₹62",
+    "old_price": "₹64",
+    "discount": "3%",
+    "in_stock": "No"
+  },
+  {
+    "name": "Whole Farm Premium Fiber Rich Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527588a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-fiber-rich-thick-poha/prid/527588",
+    "weight": "500 g",
+    "new_price": "₹39",
+    "old_price": "₹68",
+    "discount": "43%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Indori Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/63f88fcc-606d-4fa2-9819-a3747b617bf8.jpg?ts=1732175953",
+    "product_url": "https://blinkit.com/prn/fortune-indori-thick-poha/prid/480588",
+    "weight": "500 g",
+    "new_price": "₹62",
+    "old_price": "₹75",
+    "discount": "17%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thin Poha / Patla Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528779a.jpg?ts=1692362968",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thin-poha-patla-avalakki/prid/528779",
+    "weight": "500 g",
+    "new_price": "₹54",
+    "old_price": "₹66",
+    "discount": "18%",
+    "in_stock": "No"
+  },
+  {
+    "name": "Whole Farm Premium Fiber Rich Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527588a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-fiber-rich-thick-poha/prid/527588",
+    "weight": "500 g",
+    "new_price": "₹39",
+    "old_price": "₹68",
+    "discount": "43%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thick Poha / Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528791a.jpg?ts=1698939488",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thick-poha-avalakki/prid/528791",
+    "weight": "500 g",
+    "new_price": "₹40",
+    "old_price": "₹68",
+    "discount": "41%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b50fd815-87b6-4f6f-9d28-55ab75d36aae.jpg?ts=1732189579",
+    "product_url": "https://blinkit.com/prn/fortune-thick-poha/prid/480589",
+    "weight": "500 g",
+    "new_price": "₹53",
+    "old_price": "₹60",
+    "discount": "12%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Slurrp Farm Sprouted Ragi Cereal",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/575d93be-40f5-4724-ab1f-657f1c8c545a.jpg?ts=1738566465",
+    "product_url": "https://blinkit.com/prn/slurrp-farm-sprouted-ragi-cereal/prid/478732",
+    "weight": "250 g",
+    "new_price": "₹299",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Ragi Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/538338a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-ragi-flour/prid/538338",
+    "weight": "500 g",
+    "new_price": "₹80",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Fortune Indori Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/63f88fcc-606d-4fa2-9819-a3747b617bf8.jpg?ts=1732175953",
+    "product_url": "https://blinkit.com/prn/fortune-indori-thick-poha/prid/480588",
+    "weight": "500 g",
+    "new_price": "₹62",
+    "old_price": "₹75",
+    "discount": "17%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Deepak Ragi/Finger Millet",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d1fc61bb-17b4-475e-a2bf-3d2c8c8b89e3.jpg?ts=1732259691",
+    "product_url": "https://blinkit.com/prn/deepak-ragifinger-millet/prid/587224",
+    "weight": "500 g",
+    "new_price": "₹57",
+    "old_price": "₹60",
+    "discount": "5%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Wheat Daliya/Lapsi",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527586a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-wheat-daliyalapsi/prid/527586",
+    "weight": "500 g",
+    "new_price": "₹31",
+    "old_price": "₹69",
+    "discount": "55%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Organic Tattva Organic Ragi Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/68982682-37d0-4c71-ab55-45022ab136e9.jpg?ts=1713633747",
+    "product_url": "https://blinkit.com/prn/organic-tattva-organic-ragi-flour/prid/86974",
+    "weight": "500 g",
+    "new_price": "₹80",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Natureland Rice Organic White Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/475652a.jpg?ts=1688471823",
+    "product_url": "https://blinkit.com/prn/natureland-rice-organic-white-poha/prid/475652",
+    "weight": "500 g",
+    "new_price": "₹72",
+    "old_price": "₹80",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Nutty Yogi Sprouted Ragi Flour",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ddd70df7-c3d8-40f0-97c4-ab05b2348ee4.jpg?ts=1712825403",
+    "product_url": "https://blinkit.com/prn/nutty-yogi-sprouted-ragi-flour/prid/520318",
+    "weight": "1 kg",
+    "new_price": "₹151",
+    "old_price": "₹198",
+    "discount": "24%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Organic Tattva Organic White Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/552efb9f-fdbd-489b-9d24-755cca441463.jpg?ts=1713776996",
+    "product_url": "https://blinkit.com/prn/organic-tattva-organic-white-poha/prid/13466",
+    "weight": "500 g",
+    "new_price": "₹73",
+    "old_price": "₹89",
+    "discount": "18%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Pansari Ragi Flour (Finger Millet)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/93bd73f1-723b-4177-b923-9e9d39d722a2.jpg?ts=1712825774",
+    "product_url": "https://blinkit.com/prn/pansari-ragi-flour-finger-millet/prid/487109",
+    "weight": "500 g",
+    "new_price": "₹61",
+    "old_price": "₹81",
+    "discount": "25%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Tata Sampann High In Fibre Popular Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/4baa667f-d757-4071-83d7-9fe32aee1632.jpg?ts=1736136797",
+    "product_url": "https://blinkit.com/prn/tata-sampann-high-in-fibre-popular-thick-poha/prid/480044",
+    "weight": "500 g",
+    "new_price": "₹56",
+    "old_price": "₹63",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thick Poha / Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528791a.jpg?ts=1698939488",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thick-poha-avalakki/prid/528791",
+    "weight": "500 g",
+    "new_price": "₹40",
+    "old_price": "₹68",
+    "discount": "41%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Organic Tattva Organic Red Poha, 500 g",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/86976a.jpg?ts=1700647488",
+    "product_url": "https://blinkit.com/prn/organic-tattva-organic-red-poha-500-g/prid/86976",
+    "weight": "500 g",
+    "new_price": "₹99",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thin Poha / Patla Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528779a.jpg?ts=1692362968",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thin-poha-patla-avalakki/prid/528779",
+    "weight": "500 g",
+    "new_price": "₹54",
+    "old_price": "₹66",
+    "discount": "18%",
+    "in_stock": "No"
+  },
+  {
+    "name": "Mille Samak/Barnyard Millet (Samak)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d1f0735a-988a-440c-8ba6-0bd826fc5c13.jpg?ts=1733314643",
+    "product_url": "https://blinkit.com/prn/mille-samakbarnyard-millet-samak/prid/591264",
+    "weight": "500 g",
+    "new_price": "₹151",
+    "old_price": "₹205",
+    "discount": "26%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "BBlunt Hairfall Control Conditioner",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/c8140274-30ce-428d-a244-2cb8f1f59b76.jpg?ts=1715604382",
+    "product_url": "https://blinkit.com/prn/bblunt-hairfall-control-conditioner/prid/553020",
+    "weight": "250 g",
+    "new_price": "₹355",
+    "old_price": "₹399",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Fiber Rich Thick Poha",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/527588a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-fiber-rich-thick-poha/prid/527588",
+    "weight": "500 g",
+    "new_price": "₹39",
+    "old_price": "₹68",
+    "discount": "43%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Happilo 6 in 1 Super Seeds & Mix Nuts",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/089c4a53-a6a4-4172-839f-052e2a75b5ae.jpg?ts=1728016298",
+    "product_url": "https://blinkit.com/prn/happilo-6-in-1-super-seeds-mix-nuts/prid/531907",
+    "weight": "250 g",
+    "new_price": "₹199",
+    "old_price": "₹299",
+    "discount": "33%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Premium Whole Ragi/Finger Millet",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/529756a.jpg",
+    "product_url": "https://blinkit.com/prn/whole-farm-premium-whole-ragifinger-millet/prid/529756",
+    "weight": "1 kg",
+    "new_price": "₹85",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "No"
+  },
+  {
+    "name": "Organically Grown Spinach - 250 g (Palak)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6de3f4c1-83e2-45cc-be18-b9be5f632967.jpg?ts=1735116253",
+    "product_url": "https://blinkit.com/prn/organically-grown-spinach-250-g-palak/prid/594637",
+    "weight": "250 g",
+    "new_price": "₹24",
+    "old_price": "₹33",
+    "discount": "27%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Whole Farm Grocery Thin Poha / Patla Avalakki",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/528779a.jpg?ts=1692362968",
+    "product_url": "https://blinkit.com/prn/whole-farm-grocery-thin-poha-patla-avalakki/prid/528779",
+    "weight": "500 g",
+    "new_price": "₹54",
+    "old_price": "₹66",
+    "discount": "18%",
+    "in_stock": "No"
+  },
+  {
+    "name": "FlowerAura - Red Rose Eternal Bouquet + Ferrero Rocher Chocolate Gift Pack (16 pieces) Combo",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1d44094f-d2d4-4732-8f11-1ba939db5907.jpg?ts=1738766588",
+    "product_url": "https://blinkit.com/prn/floweraura-red-rose-eternal-bouquet-ferrero-rocher-chocolate-gift-pack-16-pieces-combo/prid/614594",
+    "weight": "1 set + 200 g",
+    "new_price": "₹562",
+    "old_price": "₹688",
+    "discount": "18%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Deepak Ragi/Finger Millet",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d1fc61bb-17b4-475e-a2bf-3d2c8c8b89e3.jpg?ts=1732259691",
+    "product_url": "https://blinkit.com/prn/deepak-ragifinger-millet/prid/587224",
+    "weight": "500 g",
+    "new_price": "₹57",
+    "old_price": "₹60",
+    "discount": "5%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Nova Nova Best Bite Chocolate Gift Box",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ee3bcc2f-4400-4aaf-96a6-16afb54b234e.jpg?ts=1738232509",
+    "product_url": "https://blinkit.com/prn/nova-nova-best-bite-chocolate-gift-box/prid/604471",
+    "weight": "100 g (2 x 50 g)",
+    "new_price": "₹270",
+    "old_price": "₹299",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Ferrero Rocher Moments Chocolate Gift Pack (16 pieces)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bcd99eed-f5ee-4345-89c7-7b4390e0d8ae.jpg?ts=1731484005",
+    "product_url": "https://blinkit.com/prn/ferrero-rocher-moments-chocolate-gift-pack-16-pieces/prid/528089",
+    "weight": "92.8 g",
+    "new_price": "₹222",
+    "old_price": "₹249",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Zavya CZ Heart Designer Statement Ring (Rose Gold)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1fea55ab-467f-4abe-b3de-4a9faa3e7fc5.jpg?ts=1736428265",
+    "product_url": "https://blinkit.com/prn/zavya-cz-heart-designer-statement-ring-rose-gold/prid/603823",
+    "weight": "1 piece",
+    "new_price": "₹1119",
+    "old_price": "₹2399",
+    "discount": "53%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "NIC Roasted Almond Ice Cream Tub",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f5d48043-1be6-449f-a7dc-0af033042518.jpg?ts=1738227526",
+    "product_url": "https://blinkit.com/prn/nic-roasted-almond-ice-cream-tub/prid/476154",
+    "weight": "500 ml",
+    "new_price": "₹289",
+    "old_price": "₹325",
+    "discount": "11%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Cream Pot Rajbhog Ice Cream Tub",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/cf8ec3ba-d6e1-45fc-bcb3-5c87b3dbf7bb.jpg?ts=1730095902",
+    "product_url": "https://blinkit.com/prn/cream-pot-rajbhog-ice-cream-tub/prid/579487",
+    "weight": "1 ltr",
+    "new_price": "₹255",
+    "old_price": "₹300",
+    "discount": "15%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Cream Pot Butterscotch Frozen Dessert Tub",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/13c1b3e6-0d19-4363-9b55-3f51e215bb73.jpg?ts=1738757949",
+    "product_url": "https://blinkit.com/prn/cream-pot-butterscotch-frozen-dessert-tub/prid/483747",
+    "weight": "1 ltr",
+    "new_price": "₹162",
+    "old_price": "₹190",
+    "discount": "15%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Kwality Walls Darkly Divine Chocolate Sensation Frozen Dessert Tub",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/450564a.jpg?ts=1687755242",
+    "product_url": "https://blinkit.com/prn/kwality-walls-darkly-divine-chocolate-sensation-frozen-dessert-tub/prid/450564",
+    "weight": "700 ml",
+    "new_price": "₹259",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Vadilal Mango Badabite Ice Cream Stick",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/486289a.jpg?ts=1721026440",
+    "product_url": "https://blinkit.com/prn/vadilal-mango-badabite-ice-cream-stick/prid/486289",
+    "weight": "80 ml",
+    "new_price": "₹50",
+    "old_price": "",
+    "discount": "",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Cream Bell Caramel Crunch Ice Cream Cake",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/539655a.jpg",
+    "product_url": "https://blinkit.com/prn/cream-bell-caramel-crunch-ice-cream-cake/prid/539655",
+    "weight": "500 ml",
+    "new_price": "₹180",
+    "old_price": "₹350",
+    "discount": "49%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Park Avenue Good Morning Spray Intense Men's Perfume",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/394218a.jpg?ts=1690814070",
+    "product_url": "https://blinkit.com/prn/park-avenue-good-morning-spray-intense-mens-perfume/prid/394218",
+    "weight": "120 ml",
+    "new_price": "₹190",
+    "old_price": "₹225",
+    "discount": "16%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Park Avenue Voyage Amazon Woods Premium Men's Perfume",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c4fe3832-6f10-408f-a484-ebf5be7475e9.jpg?ts=1732518039",
+    "product_url": "https://blinkit.com/prn/park-avenue-voyage-amazon-woods-premium-mens-perfume/prid/516677",
+    "weight": "120 ml",
+    "new_price": "₹281",
+    "old_price": "₹349",
+    "discount": "19%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Vogue Panash Statement Large Pearl Studs (Golden)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d26e647d-2647-40cf-b982-8fcfc75659e0.jpg?ts=1738223326",
+    "product_url": "https://blinkit.com/prn/vogue-panash-statement-large-pearl-studs-golden/prid/603181",
+    "weight": "1 pair",
+    "new_price": "₹279",
+    "old_price": "₹1749",
+    "discount": "84%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum BodyLovin' Magnifi-Scent Luxury Perfumes Gift Set",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/535603a.jpg?ts=1723617391",
+    "product_url": "https://blinkit.com/prn/plum-bodylovin-magnifi-scent-luxury-perfumes-gift-set/prid/535603",
+    "weight": "60 ml",
+    "new_price": "₹800",
+    "old_price": "₹999",
+    "discount": "20%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Kamiliant Waikiki Small Hard Trolley Bag (35 ltrs, Silver)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/a9d28f48-a849-4793-80d1-593c00bc812d.jpg",
+    "product_url": "https://blinkit.com/prn/kamiliant-waikiki-small-hard-trolley-bag-35-ltrs-silver/prid/564141",
+    "weight": "1 unit",
+    "new_price": "₹3500",
+    "old_price": "₹10000",
+    "discount": "65%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Lifelong Mini Body & Head Massager (Battery Powered) (Black)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/ac9477cd-7847-46e2-9830-911c2617dd81.jpg",
+    "product_url": "https://blinkit.com/prn/lifelong-mini-body-head-massager-battery-powered-black/prid/541907",
+    "weight": "1 unit",
+    "new_price": "₹389",
+    "old_price": "₹1350",
+    "discount": "71%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "MasterChow Chowmein Sauce",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/57a5b244-9d70-48da-97ad-98b552c9669c.jpg?ts=1714374890",
+    "product_url": "https://blinkit.com/prn/masterchow-chowmein-sauce/prid/518737",
+    "weight": "220 g",
+    "new_price": "₹120",
+    "old_price": "₹170",
+    "discount": "29%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Arata Anti-Dandruff Shampoo (Normal to Oily Hair)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/41cabfcc-de87-4d35-9c0c-566de295233c.jpg?ts=1730876296",
+    "product_url": "https://blinkit.com/prn/arata-anti-dandruff-shampoo-normal-to-oily-hair/prid/508036",
+    "weight": "200 ml",
+    "new_price": "₹420",
+    "old_price": "₹549",
+    "discount": "23%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Arata Super Hair Serum For Dry & Frizzy Hair",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/970044f6-63bc-417f-b797-4d4f989d3b15.jpg?ts=1735801184",
+    "product_url": "https://blinkit.com/prn/arata-super-hair-serum-for-dry-frizzy-hair/prid/600908",
+    "weight": "30 ml",
+    "new_price": "₹346",
+    "old_price": "₹349",
+    "discount": "1%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum BodyLovin' Caramel Popcorn Hand Cream",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/481668a.jpg?ts=1690813790",
+    "product_url": "https://blinkit.com/prn/plum-bodylovin-caramel-popcorn-hand-cream/prid/481668",
+    "weight": "50 g",
+    "new_price": "₹219",
+    "old_price": "₹275",
+    "discount": "20%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Deconstruct Anti Dandruff Scalp Hair Serum",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/89e46146-fb62-40b8-952c-1b5fee241730.jpg?ts=1718311765",
+    "product_url": "https://blinkit.com/prn/deconstruct-anti-dandruff-scalp-hair-serum/prid/555321",
+    "weight": "100 ml",
+    "new_price": "₹429",
+    "old_price": "₹599",
+    "discount": "28%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Wingreens Farms Jalapeno Cheese Dip",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/124019a.jpg?ts=1687324805",
+    "product_url": "https://blinkit.com/prn/wingreens-farms-jalapeno-cheese-dip/prid/124019",
+    "weight": "150 g",
+    "new_price": "₹238",
+    "old_price": "₹250",
+    "discount": "5%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum Onion & Bhringraj Hair Growth Onion Hair Oil",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/497128a.jpg?ts=1705910701",
+    "product_url": "https://blinkit.com/prn/plum-onion-bhringraj-hair-growth-onion-hair-oil/prid/497128",
+    "weight": "100 ml",
+    "new_price": "₹293",
+    "old_price": "₹325",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Godrej Aer Power Pocket Air Freshener - Pack of 5",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/8633e2ed-ee65-435c-9f09-2139560b3c68.jpg?ts=1716959936",
+    "product_url": "https://blinkit.com/prn/godrej-aer-power-pocket-air-freshener-pack-of-5/prid/385309",
+    "weight": "5 x 10 g",
+    "new_price": "₹281",
+    "old_price": "₹325",
+    "discount": "14%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum Soft & Shiny Hair Duo Shampoo & Conditioner",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/32eccb3b-d263-4ce0-be02-16ee613bbc72.jpg?ts=1726045681",
+    "product_url": "https://blinkit.com/prn/plum-soft-shiny-hair-duo-shampoo-conditioner/prid/561049",
+    "weight": "1 pack (2 pieces)",
+    "new_price": "₹563",
+    "old_price": "₹625",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum Ceramide Barrier Love Moisturizing Face Cream (for Dry Skin)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/cd0d39b3-e9f4-48ec-9c52-ddee43b16a2f.jpg?ts=1734343791",
+    "product_url": "https://blinkit.com/prn/plum-ceramide-barrier-love-moisturizing-face-cream-for-dry-skin/prid/594608",
+    "weight": "50 g",
+    "new_price": "₹360",
+    "old_price": "₹399",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Arata Pro Styling Cream & Gel Hair Styling Kit",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/22a42bdd-e5f4-4398-9eeb-ebfe4336e49b.jpg?ts=1736161597",
+    "product_url": "https://blinkit.com/prn/arata-pro-styling-cream-gel-hair-styling-kit/prid/601351",
+    "weight": "100 ml ( 50 ml + 50 ml )",
+    "new_price": "₹399",
+    "old_price": "₹498",
+    "discount": "20%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Plum Rosemary & Redensyl Hair Serum for Hair Growth",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/assets/products/sliding_images/jpeg/87066cc0-8fb2-4ce1-a8e5-83cecb5a530e.jpg?ts=1721910232",
+    "product_url": "https://blinkit.com/prn/plum-rosemary-redensyl-hair-serum-for-hair-growth/prid/559830",
+    "weight": "30 ml",
+    "new_price": "₹720",
+    "old_price": "₹799",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Philips QP2724/10 OneBlade Hybrid Razor",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/876ea37b-70ae-4204-b2a7-a3185264ec89.jpg?ts=1733374299",
+    "product_url": "https://blinkit.com/prn/philips-qp272410-oneblade-hybrid-razor/prid/572223",
+    "weight": "1 unit",
+    "new_price": "₹1979",
+    "old_price": "₹2299",
+    "discount": "14%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Navneet HQ 5 Subject Single Line Notebook with PP Cover (A5, 300 Pages, Black)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/navneet-hq-5-subject-single-line-notebook-with-pp-cover-a5-300-pages-black/prid/520804",
+    "weight": "1 unit",
+    "new_price": "₹178",
+    "old_price": "₹190",
+    "discount": "6%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "The Body Shop Almond Milk Shower Cream",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/the-body-shop-almond-milk-shower-cream/prid/445069",
+    "weight": "250 ml",
+    "new_price": "₹446",
+    "old_price": "₹495",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Godrej Yummiez Lucknowi Chicken Seekh Kebab (Frozen)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/godrej-yummiez-lucknowi-chicken-seekh-kebab-frozen/prid/23314",
+    "weight": "400 g",
+    "new_price": "₹249",
+    "old_price": "₹315",
+    "discount": "21%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Godrej Aer O – Hanging Car Freshener (Rose Blossom)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/godrej-aer-o-hanging-car-freshener-rose-blossom/prid/532085",
+    "weight": "7.5 g",
+    "new_price": "₹98",
+    "old_price": "₹99",
+    "discount": "1%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Jimmy's Cranberry Non-Alcoholic Beer",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/jimmys-cranberry-non-alcoholic-beer/prid/585899",
+    "weight": "250 ml",
+    "new_price": "₹95",
+    "old_price": "₹99",
+    "discount": "4%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Godrej Aer Matic Air Freshener - Cool Surf Blue",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/godrej-aer-matic-air-freshener-cool-surf-blue/prid/488873",
+    "weight": "225 ml",
+    "new_price": "₹283",
+    "old_price": "₹315",
+    "discount": "10%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "myTrident Eloise Warm Fitted 100% Polyester King Size Bedsheet Set With 2 Pillow Covers (Multicolour)",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/mytrident-eloise-warm-fitted-100-polyester-king-size-bedsheet-set-with-2-pillow-covers-multicolour/prid/568169",
+    "weight": "1 set",
+    "new_price": "₹1002",
+    "old_price": "₹2699",
+    "discount": "63%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Wingreens Farms Classic Hummus Dip",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/wingreens-farms-classic-hummus-dip/prid/353457",
+    "weight": "150 g",
+    "new_price": "₹190",
+    "old_price": "₹200",
+    "discount": "5%",
+    "in_stock": "Yes"
+  },
+  {
+    "name": "Saucery Sundried Tomato Pesto + Aglio Olio Sauce Combo",
+    "image_url": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=90/assets/eta-icons/15-mins.png",
+    "product_url": "https://blinkit.com/prn/saucery-sundried-tomato-pesto-aglio-olio-sauce-combo/prid/546997",
+    "weight": "200 g + 200 g",
+    "new_price": "₹522",
+    "old_price": "₹580",
+    "discount": "10%",
+    "in_stock": "Yes"
+  }
+]
