@@ -82,6 +82,7 @@ def scrape_zepto_products(urls, shared_products):
     
     try:
         for product_name in urls:
+            category=product_name
             url = convert_to_zepto_search_url(product_name)
             print(f"Scraping: {url}")
             driver.get(url)
@@ -98,6 +99,7 @@ def scrape_zepto_products(urls, shared_products):
             for card in product_cards:
                 try:
                     product = {
+                        'category': category,
                         'name': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-name']").text,
                         'price': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-price']").text,
                         'quantity': card.find_element(By.CSS_SELECTOR, "[data-testid='product-card-quantity']").text,
@@ -126,14 +128,15 @@ def process_scraping(urls, shared_products):
 
 def main():
     try:
-        with open('new/product_names.json', 'r') as f:
-            product_names = json.load(f)
-            product_names=product_names[:2]
+        with open('new/product_links/product_details.json', 'r') as f:
+            category = json.load(f)
+            product_names = [item["name"] for item in category]
+            product_names=product_names[:1]
     except Exception as e:
         print(f"Failed to load product names: {e}")
         return
 
-    num_processes = 2  # Adjust based on system capabilities
+    num_processes = 1  # Adjust based on system capabilities
     manager = multiprocessing.Manager()
     shared_products = manager.list()
 
@@ -150,10 +153,10 @@ def main():
         p.join()
 
     # Save all scraped products to one file
-    with open('new/zepto_products.json', 'w', encoding='utf-8') as f:
+    with open('new/frontend/public/zepto_products.json', 'w', encoding='utf-8') as f:
         json.dump(list(shared_products), f, ensure_ascii=False, indent=2)
 
-    print(f"All products saved to 'new/zepto_products.json'")
+    print(f"All products saved to 'new/frontend/public/zepto_products.json'")
 
 if __name__ == "__main__":
     main()

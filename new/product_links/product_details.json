@@ -1,0 +1,4726 @@
+[
+    {
+        "name": "PEARL MILLET POHA (KAMBU AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHEAT POHA (KOTHUMAI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "GREEN GRAM POHA (PAASI PAYIRU AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RAGI POHA (KELVARAGU AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "KODO MILLET POHA (VARAGU AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "FOXTAIL MILLET POHA (THINAI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "MIXED FLAKES (RAGI,FOXTAIL,LITTLE)",
+        "weight": "250GM"
+    },
+    {
+        "name": "CORN FLAKES  (MAKKA SOLAM AVAL)",
+        "weight": "200GM"
+    },
+    {
+        "name": "BARNYARD POHA (KUTHIRAIVAALI  AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "MIXED FLAKES (RAGI,PEARL,SORGHUM)",
+        "weight": "250GM"
+    },
+    {
+        "name": "HORSEGRAM FLAKES  (KOLLU AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RICE POHA (THOOYAMALLI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "QUINOA  POHA (SEEMAI THINAI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RED CHOLA POHA (SIVAPPU CHOLA  AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "LITTLE MILLET POHA  (SAAMAI  AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "OATS",
+        "weight": "250GM"
+    },
+    {
+        "name": "BARLEY FLAKES (VAAL KOTHUMAI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "UNPOLISHED (KAIKUTHAL) RICE AVAL",
+        "weight": "250GM"
+    },
+    {
+        "name": "KARUPU KAVUNI AVAL",
+        "weight": "250GM"
+    },
+    {
+        "name": "TOMATO (THAKKALI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "FOXTAIL (THINAI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "RAGI (KELVARAGU) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "CURRY LEAVES (KARUVEPILLAI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "SOYA SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "KODO MILLET NOODLES (VARAGU)",
+        "weight": "180GM"
+    },
+    {
+        "name": "MORINGA (MURUNGAI) NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "FINGER MILLET (RAGI) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "MULTI-MILLET NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "MULTI-MILLET NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "BRIDEGROOM (MAPILAI SAMBA) RICE NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "SOYA NOODLEES",
+        "weight": "180GM"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "RED RICE (SIVAPPU ARISI) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "MILLET (SIRUTHAANIYAM) NOODLES",
+        "weight": "175GM"
+    },
+    {
+        "name": "HORSE GRAM (KOLLU) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHIRAI VAALI) NOODLES",
+        "weight": "180GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "MULTI MILLET NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "FINGER MILLET (RAGI) NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "QUINOA (SEEMAI THINAI)  NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "RED RICE (SIVAPPU ARISI) NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI) RAVA",
+        "weight": "500GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI) RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE (VELLAI) RAVA",
+        "weight": "500GM"
+    },
+    {
+        "name": "ROASTED SOOJI (RAVA)",
+        "weight": "500GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "RAGI (KELVARAGU) RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHURAI VALI) RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "FOXTAIL - WHEAT (THINAI - KOTHUMAI) RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "KODO MILLET (VARAGU) SAMBA RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "LITTLE MILLET - WHEAT (SAAMAI KOTHUMAI) RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "BARNYARD - WHEAT (KUTHURAIVALI KOTHUMAI) RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "PROSOMILLET (PANIVARAGU) SAMBA RAVA",
+        "weight": "250GM"
+    },
+    {
+        "name": "BROKEN WHEAT (KOTHUMAI KURANAI) RAVA",
+        "weight": "500GM"
+    },
+    {
+        "name": "GINGLY OIL (NALLENNAI)",
+        "weight": "1L"
+    },
+    {
+        "name": "GINGLY OIL (NALLENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "GROUNDNUT OIL (KADALAI ENNAI)",
+        "weight": "1L"
+    },
+    {
+        "name": "GROUNDNUT OIL (KADALAI ENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "COCONUT OIL (THENGAI ENNAI)",
+        "weight": "1L"
+    },
+    {
+        "name": "COCONUT OIL (THENGAI ENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "MUSTARD OIL (KADUGU ENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "CASTOR OIL (VELAKENNAI)",
+        "weight": "100ML"
+    },
+    {
+        "name": "SUNFLOWER OIL (SOORIYAKAANTHI ENNAI)",
+        "weight": "1L"
+    },
+    {
+        "name": "SUNFLOWER OIL  (SOORIYAKAANTHI ENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "NEEM ESSENTIAL OIL",
+        "weight": "15ML"
+    },
+    {
+        "name": "EUCALYPTUS OIL",
+        "weight": "10ML"
+    },
+    {
+        "name": "BUFFALO GHEE (ERUMAI NEI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "COW GHEE  (PASU NEI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "KANGEYAM COUNTRY COW GHEE (NAATU MAADU NEI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "BUFFALO GHEE  (ERUMAI NEI)",
+        "weight": "200GM"
+    },
+    {
+        "name": "KANGEYAM COUNTRY COW GHEE (NAATU MAADU NEI)",
+        "weight": "200G"
+    },
+    {
+        "name": "AK COW GHEE  (PASU NEI)",
+        "weight": "195ML"
+    },
+    {
+        "name": "COW GHEE (PASU NEI)",
+        "weight": "490ML"
+    },
+    {
+        "name": "HAPPY HEART",
+        "weight": "250ML"
+    },
+    {
+        "name": "PINK BERRY WINE",
+        "weight": null
+    },
+    {
+        "name": "GOLDEN PASSION WINE",
+        "weight": null
+    },
+    {
+        "name": "RED VIOLET WINE",
+        "weight": null
+    },
+    {
+        "name": "RED VIOLET (FESTIVE EDITION) WINE",
+        "weight": null
+    },
+    {
+        "name": "HIMALAYAN HONEY",
+        "weight": "350G"
+    },
+    {
+        "name": "PURE ACACIA HONEY",
+        "weight": "500G"
+    },
+    {
+        "name": "PURE SUNFLOWER HONEY",
+        "weight": "500G"
+    },
+    {
+        "name": "PURE MUSTARD HONEY",
+        "weight": "500G"
+    },
+    {
+        "name": "HIMALAYAN HONEY",
+        "weight": "150G"
+    },
+    {
+        "name": "PURE TULSI HONEY",
+        "weight": "500G"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "MORINGA (MURUNGAI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "RED RICE  (SIVAPPU ARISI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "KODA MILLET (VARAGU) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "FINGER MILLET (RAGI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "MULTI MILLET PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "FOXTAIL (THINAI) MILLET PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHIRAIVAALI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - RAGI (KOTHUMAI - KELVARAGU) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI) - KARUPPU KAVUNI PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - BARNYARD (KOTHUMAI -  KUTHURAIVALI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - MULTI MILLET PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - PEARLMILLET (KOTHUMAI - KAMBU) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - LITTLE MILLET (KOTHUMAI - SAAMAI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - MORINGA (KOTHUMAI -  MURUNGAI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - KODOMILLET (KOTHUMAI - VARAGU) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "WHEAT - FOXTAIL MILLET (KOTHUMAI - THINAI) PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "THOOYAMALLI RICE",
+        "weight": null
+    },
+    {
+        "name": "SIVAN SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "KATTUYANAM RICE",
+        "weight": null
+    },
+    {
+        "name": "PONNI BOILED RICE",
+        "weight": null
+    },
+    {
+        "name": "KAIKUTHAL PULUNGAL RICE",
+        "weight": null
+    },
+    {
+        "name": "IDLYKKAR RICE",
+        "weight": null
+    },
+    {
+        "name": "RED RICE",
+        "weight": null
+    },
+    {
+        "name": "BASMATHI RICE",
+        "weight": null
+    },
+    {
+        "name": "IR 20 RICE",
+        "weight": null
+    },
+    {
+        "name": "IDLY RICE(101)",
+        "weight": null
+    },
+    {
+        "name": "IDLY RICE(102)",
+        "weight": null
+    },
+    {
+        "name": "SEERAGA SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "RAW RICE(19A)",
+        "weight": null
+    },
+    {
+        "name": "RAW RICE(18B)",
+        "weight": null
+    },
+    {
+        "name": "KICHILI SAMBA RICE",
+        "weight": "1KG"
+    },
+    {
+        "name": "PULUNGAL RICE(3500A)",
+        "weight": null
+    },
+    {
+        "name": "KERALA RICE",
+        "weight": null
+    },
+    {
+        "name": "POONGAR RICE",
+        "weight": null
+    },
+    {
+        "name": "PULUNGAL RICE(34)",
+        "weight": null
+    },
+    {
+        "name": "KOTTARAM SAMBA",
+        "weight": null
+    },
+    {
+        "name": "KALLUNDAI SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "NEY KICHILI RICE",
+        "weight": null
+    },
+    {
+        "name": "PAALKUDAVAALAI RICE",
+        "weight": null
+    },
+    {
+        "name": "SONAMASOORI RICE",
+        "weight": null
+    },
+    {
+        "name": "SONA MASURI STEAM RICE",
+        "weight": null
+    },
+    {
+        "name": "SONAM MASURI RAW RICE (12 MONTHS)",
+        "weight": null
+    },
+    {
+        "name": "SONA MASURI RAW RICE (18 MONTHS)",
+        "weight": null
+    },
+    {
+        "name": "SONA MASURI (UNPOLISHED) BROWN RICE",
+        "weight": null
+    },
+    {
+        "name": "KARUPPU KAVUNI RICE",
+        "weight": "1kg"
+    },
+    {
+        "name": "SIVAPU KAVUNI RICE",
+        "weight": null
+    },
+    {
+        "name": "BAMBOO RICE",
+        "weight": null
+    },
+    {
+        "name": "PISINI RICE",
+        "weight": null
+    },
+    {
+        "name": "SITHIRIKKAR RICE",
+        "weight": null
+    },
+    {
+        "name": "PULUNGAL RICE(IR 20)",
+        "weight": null
+    },
+    {
+        "name": "ILUPPAI POO SAMBA",
+        "weight": null
+    },
+    {
+        "name": "SOORAKURUVAI RICE",
+        "weight": null
+    },
+    {
+        "name": "KALABATH RICE",
+        "weight": null
+    },
+    {
+        "name": "MADUMULUNGI RICE",
+        "weight": null
+    },
+    {
+        "name": "KALANAMAK RICE",
+        "weight": null
+    },
+    {
+        "name": "BAVANI RICE",
+        "weight": null
+    },
+    {
+        "name": "VAADAN SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "KULIVEDICHAN SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "NEELAM SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "KARUNGURUVAI RICE",
+        "weight": null
+    },
+    {
+        "name": "THANGA SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "NAVARA RICE",
+        "weight": null
+    },
+    {
+        "name": "MANI SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "KOTHUMALLI RICE",
+        "weight": null
+    },
+    {
+        "name": "RAKTHASAALI RICE",
+        "weight": null
+    },
+    {
+        "name": "CORRIANDER (MALLI) POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "CORRIANDER (MALLI) POWDER",
+        "weight": "250GM"
+    },
+    {
+        "name": "KASHMIR CHILLI POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "BLACK PEPPER (KARUMILAGU) POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "BLACK PEPPER (KARUMILAGU) POWDER",
+        "weight": "50GM"
+    },
+    {
+        "name": "WHITE PEPPER (VELLAI MILAGU) POWDER",
+        "weight": "50GM"
+    },
+    {
+        "name": "CUMIN (SEEARAGAM) POWDER",
+        "weight": "50GM"
+    },
+    {
+        "name": "CUMIN (SEEARAGAM) POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "SAMBAR  POWDER",
+        "weight": "150 GM"
+    },
+    {
+        "name": "CURRY MASALA",
+        "weight": "100GM"
+    },
+    {
+        "name": "GARAM MASALA",
+        "weight": "100GM"
+    },
+    {
+        "name": "FENU GREEK (VENDHAIYA) POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "RASA PODI",
+        "weight": null
+    },
+    {
+        "name": "CHILLI (MILAGAI) POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "BISMI HEALTH MIX",
+        "weight": "500G"
+    },
+    {
+        "name": "YELLOW RAISIN",
+        "weight": "100G"
+    },
+    {
+        "name": "ALMOND",
+        "weight": "100G"
+    },
+    {
+        "name": "BLACK RAISIN SEED",
+        "weight": "100G"
+    },
+    {
+        "name": "BADAM PISIN",
+        "weight": "100G"
+    },
+    {
+        "name": "ROCK CANDY",
+        "weight": "250G"
+    },
+    {
+        "name": "DATE SYRUP",
+        "weight": "400G"
+    },
+    {
+        "name": "FRIED CHILLI CASHEW",
+        "weight": "200G"
+    },
+    {
+        "name": "ROSE GULKAND",
+        "weight": "200G"
+    },
+    {
+        "name": "CALIFORNIA WALNUTS",
+        "weight": "500G"
+    },
+    {
+        "name": "BREAKFAST MIX",
+        "weight": "200G"
+    },
+    {
+        "name": "PITTED PRUNED(DRIED PLUMS)",
+        "weight": "240G"
+    },
+    {
+        "name": "BLACK RAISINS (SEEDLESS)",
+        "weight": "250G"
+    },
+    {
+        "name": "ROASTED & SALTED PISTACHIOS",
+        "weight": "250G"
+    },
+    {
+        "name": "DIVINE ROASTED ALMOND",
+        "weight": "200G"
+    },
+    {
+        "name": "ROASTED & SALTED CALIFORNIAN ALMONDS",
+        "weight": "250G"
+    },
+    {
+        "name": "DRY STRAWBERRY",
+        "weight": "250G"
+    },
+    {
+        "name": "DRIED BLUEBERRIES (WHOLE)",
+        "weight": "75G"
+    },
+    {
+        "name": "CALIFORNIA PIDTACHIOS",
+        "weight": "250G"
+    },
+    {
+        "name": "RAGI MALT",
+        "weight": "200G"
+    },
+    {
+        "name": "CARROT MALT",
+        "weight": "200G"
+    },
+    {
+        "name": "NENDRAN BANANA MALT",
+        "weight": "200G"
+    },
+    {
+        "name": "BEETROOT MALT",
+        "weight": "200G"
+    },
+    {
+        "name": "FLAX SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "CHIA SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "FLAX SEEDS (ROASTED)",
+        "weight": "100G"
+    },
+    {
+        "name": "SUNFLOWER SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "MUSKMELON SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "PUMPKIN SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "CUCUMBER SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "SABJA SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "SEED MIX",
+        "weight": "200G"
+    },
+    {
+        "name": "SESAME SEEDS",
+        "weight": "100G"
+    },
+    {
+        "name": "GARLIC (POONDU) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "SYZYGIUM CUMINI NUT (NAAVAL KAAI VIDHAI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "SOLANUM NIGRUM SOUP (MANATHAKKALI)",
+        "weight": "100G"
+    },
+    {
+        "name": "AMLA (NELLIKAI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "FICUS GLOMERATA FRUIT (ATTHIPALAM) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "CYNODON DACIYLON (ARUGAMPUL)  SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "HIBISCUS (SEMBARUTHI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "ALTEM ANTHERA TRAINDRA  (PAASALAI)",
+        "weight": "100G"
+    },
+    {
+        "name": "HIBISCUS (SEMBARUTHI) SOUP",
+        "weight": "25G"
+    },
+    {
+        "name": "HORSE GRAM (KOLLU) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "MORINGA LEAF SOUP (MURUNGAI KEERAI)",
+        "weight": "100G"
+    },
+    {
+        "name": "BRAHMI SOUP (VALLARAI)",
+        "weight": "110G"
+    },
+    {
+        "name": "MUSA PARADISIACA (VAALAI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "CASSIA AURICULATA (AAVARAM POO) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "CARDIO SPERMUM HALICACABUM (MUDAKATHAAN) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "SOLANUMTRILOBATUM (THUTHIKAI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "CURRY LEAF (KARUVEPPILAI) SOUP",
+        "weight": "100G"
+    },
+    {
+        "name": "LENTIL POWDER (PARUPPU PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "PEANUT POWDER (NILAKADALAI PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "CURRY LEAF POWDER (KARUVEPPILAI PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "BRAHMI POWDER  (VALLARAI PODI)",
+        "weight": "100G"
+    },
+    {
+        "name": "HORSEGRAM POWDER (KOLLU PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "IDLY CHILLI POWDER  (IDLI PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "AMLA POWDER  (NELLIKAI  PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "SESAME POWDER  (ELLU PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) MURUKKU",
+        "weight": "200G"
+    },
+    {
+        "name": "FINGER MILLET RIBBON (KELVARAGU) PAKODA",
+        "weight": "200G"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) KUZHAL MURUKKU",
+        "weight": "200G"
+    },
+    {
+        "name": "PEARL MILLET PEPPER (KAMBU MILAGU) KARASEV",
+        "weight": "200G"
+    },
+    {
+        "name": "ELANDHAVADAI HOT & SWEET",
+        "weight": "80G"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) COOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHIRAIVAALI) COOOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "KODO MILLET (VARAGU) COOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU)  COOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "MULTI MILLET (SIRUTHANIYAM) COOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "FINGER MILLET (KELVARAGU) COOKIES",
+        "weight": "100G"
+    },
+    {
+        "name": "RUSKONA",
+        "weight": "110G"
+    },
+    {
+        "name": "COCONUT (THENGAI) BARFI",
+        "weight": "250G"
+    },
+    {
+        "name": "GROUNDNUT (KADALAI)  KOVA",
+        "weight": "250G"
+    },
+    {
+        "name": "SESEME BALLS  (ELLU URUNDAI)",
+        "weight": "250G"
+    },
+    {
+        "name": "GROUNDNUT BALLS (KADALAI URUNDAI)",
+        "weight": "250G"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) LADDO",
+        "weight": "250G"
+    },
+    {
+        "name": "PEARL MILLET  (KAMBU) LADDO",
+        "weight": "250G"
+    },
+    {
+        "name": "GREEN GRAM  (PACHAI PAYIRU) LADDO",
+        "weight": "250G"
+    },
+    {
+        "name": "KARUPPUKAVUNI LADDO",
+        "weight": "250G"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) LADDO",
+        "weight": "250G"
+    },
+    {
+        "name": "KARUPPUKAVUNI LADDO",
+        "weight": "100G"
+    },
+    {
+        "name": "GROUNDNUT (NILAKADALAI)  KOVA",
+        "weight": "150G"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI ) LADDO",
+        "weight": "100G"
+    },
+    {
+        "name": "GREEN GRAM (PACHA PAYIRU) LADDO",
+        "weight": "100G"
+    },
+    {
+        "name": "GROUNDNUT (NILAKADALAI)  BALLS",
+        "weight": "100G"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) LADDO",
+        "weight": "100G"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) LADDO",
+        "weight": "100G"
+    },
+    {
+        "name": "COCONUT (THENGAI) POP",
+        "weight": "50G"
+    },
+    {
+        "name": "ALMOND (BADAM) POP",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLALA INDIAN SPICES",
+        "weight": "50G"
+    },
+    {
+        "name": "PEANUT (KADALAI) POP",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLALA CHEESE & MINT (PUDINA)",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLALA INDIAN TOMATO (THAKKALI)",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLET BYTES TANGY TOMATO (KAARA THAKKALI)",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLET BYTES ALMOND (BADAM) CRUNCH",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLET BYTES COCONUT (THENGAI) CRISPY",
+        "weight": "50G"
+    },
+    {
+        "name": "MILLET BYTES VANILLA FILLS",
+        "weight": "250G"
+    },
+    {
+        "name": "MILLET BYTES CHOCO FILLS",
+        "weight": "250G"
+    },
+    {
+        "name": "MILLET BYTES STRAWBERRY FILLS",
+        "weight": "250G"
+    },
+    {
+        "name": "ELANTHAVADAI (90'S KID SPECIAL)",
+        "weight": "80G"
+    },
+    {
+        "name": "ELANTHAVADAI SWEET",
+        "weight": "80G"
+    },
+    {
+        "name": "KO VIBOOTHI",
+        "weight": "100GM"
+    },
+    {
+        "name": "ALBIZIA AMARA (GREEN ARAPPU) POWDER",
+        "weight": "500G"
+    },
+    {
+        "name": "BLACK DAMMER ( KARUPPU KUNGLIYAM) POWDER",
+        "weight": "100G"
+    },
+    {
+        "name": "NEEM COMB (VEPPAN SEEPU)",
+        "weight": null
+    },
+    {
+        "name": "BAMBOO (MOONGIL) TOOTHBRUSH",
+        "weight": null
+    },
+    {
+        "name": "KUNKUMADI OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "WILD TURMERIC (KASTHURIMANJAL)",
+        "weight": "50G"
+    },
+    {
+        "name": "HERBAL SHAMPOO",
+        "weight": "100ML"
+    },
+    {
+        "name": "BOOTHIKAI PODI",
+        "weight": "50G"
+    },
+    {
+        "name": "LAUNDRY BAR (WASHING SOAP)",
+        "weight": "190G"
+    },
+    {
+        "name": "VETIVER BATH SCRUBBER",
+        "weight": null
+    },
+    {
+        "name": "FALSE DAISY (KARISALANGKANNI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "SNANA POWDER",
+        "weight": "100G"
+    },
+    {
+        "name": "NATURAL HERBAL BATH SOAP",
+        "weight": "70G"
+    },
+    {
+        "name": "ALOEVERA (KATRAALAI) GEL",
+        "weight": "250G"
+    },
+    {
+        "name": "CUCUMBER ALOEVERA GEL",
+        "weight": "250G"
+    },
+    {
+        "name": "ROSEWATER  (PANEER)",
+        "weight": "115ML"
+    },
+    {
+        "name": "ROYAL UBTAN FACEPACK",
+        "weight": "50G"
+    },
+    {
+        "name": "ALOEVERA (KATRAALAI) GEL",
+        "weight": "50G"
+    },
+    {
+        "name": "LIP BALM",
+        "weight": null
+    },
+    {
+        "name": "THIRIPALA SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "POMEGRANATE (MAADHULAI) SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "KUMKUMADI OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "LAVENDER SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "NATURAL FACE WASH CHARCOAL",
+        "weight": "200ML"
+    },
+    {
+        "name": "COFFEE & COCOA SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "MORINGA (MURUNGAI) SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "HERBAL (MOOLIGAI) SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "NEEM & TURMERIC (VEPPAN & MANJAL) SOAP",
+        "weight": "100G"
+    },
+    {
+        "name": "ROSE SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "COCO & COFFEE SOAP",
+        "weight": null
+    },
+    {
+        "name": "SHEA BUTTER SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "CANE SUGAR & ORANGE PEEL SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "SANDAL WOOD SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "CUCUMBER & ALOEVERA SOAP",
+        "weight": null
+    },
+    {
+        "name": "ACTIVATED CHARCOAL SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "ALOEVERA SOAP",
+        "weight": null
+    },
+    {
+        "name": "NEEM SOAP",
+        "weight": "100GM"
+    },
+    {
+        "name": "PAPAYA SOAP",
+        "weight": "100GM"
+    },
+    {
+        "name": "RED SANDAL SOAP",
+        "weight": "100GM"
+    },
+    {
+        "name": "SANDAL SOAP",
+        "weight": "100GM"
+    },
+    {
+        "name": "SAFFRON SOAP",
+        "weight": "100GM"
+    },
+    {
+        "name": "NEEM SOAP",
+        "weight": "100 GM"
+    },
+    {
+        "name": "EUCALYPTUS & PEPPERMENT BATH SALT",
+        "weight": "150G"
+    },
+    {
+        "name": "LAVENDER& BASIL BATH SALT",
+        "weight": "150G"
+    },
+    {
+        "name": "ROSE & GERANIUM BATH SALT",
+        "weight": "150G"
+    },
+    {
+        "name": "ORANGE & LEMON GRASS BATH SALT",
+        "weight": "150G"
+    },
+    {
+        "name": "REFRESHING LIME BATH SALT",
+        "weight": "150G"
+    },
+    {
+        "name": "CHARCOAL CREAM",
+        "weight": "100G"
+    },
+    {
+        "name": "CHARCOAL SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "WALNUT SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "APPRICOT SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "PAPAYA SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "MANICURE & PEDICURE SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "ALMOND SCRUB",
+        "weight": "100G"
+    },
+    {
+        "name": "HERBAL HAIR OIL",
+        "weight": "200ML"
+    },
+    {
+        "name": "VITAMIN E OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "NATURAL HERBAL OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "BLACK PANTHER OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "ONION SHAMPOO",
+        "weight": "200ML"
+    },
+    {
+        "name": "CHARCOAL SHAMPOO",
+        "weight": "200ML"
+    },
+    {
+        "name": "ALMOND OIL",
+        "weight": "200ML"
+    },
+    {
+        "name": "HERBAL HAIR OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "OLIVE OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "HAIR OIL (AO)",
+        "weight": "100ML"
+    },
+    {
+        "name": "HIBISCUS HAIR OIL",
+        "weight": "200ML"
+    },
+    {
+        "name": "VETTIVER HAIR OIL",
+        "weight": "200ML"
+    },
+    {
+        "name": "VITAMIN C OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "ONION OIL",
+        "weight": "100ML"
+    },
+    {
+        "name": "FRENCH BLEND COFFEE",
+        "weight": "150G"
+    },
+    {
+        "name": "HIGH VOLTAGE COFFEE",
+        "weight": "150G"
+    },
+    {
+        "name": "PEA BERRY 80% COFFEE",
+        "weight": "150G"
+    },
+    {
+        "name": "MYSORE NUGGETS COFFEE",
+        "weight": "150G"
+    },
+    {
+        "name": "BROWN GOLD COFFEE",
+        "weight": "200G"
+    },
+    {
+        "name": "ITALIAN ESPRESSO ROAST COFFEE",
+        "weight": "200G"
+    },
+    {
+        "name": "GOLD RIBBON COFFEE (COFFEE 65%CHICORY 35%)",
+        "weight": "200G"
+    },
+    {
+        "name": "AROMA GOLD (COFFEE 70% CHICORY 30%)",
+        "weight": "150G"
+    },
+    {
+        "name": "MONKEY PARCHMENT COFFEE(COFFEE 80% CHICORY 20%)",
+        "weight": "150G"
+    },
+    {
+        "name": "WILD COFFEE (COFFEE 80% CHICORY 20%)",
+        "weight": "150G"
+    },
+    {
+        "name": "E2H COFFEE (COFFEE 80%)",
+        "weight": "200G"
+    },
+    {
+        "name": "PREMIUM ASSAM TEA",
+        "weight": "100G"
+    },
+    {
+        "name": "JAMUN (NAVAL VIDHAI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "BLACK NIGHTSHADE (MANATHAKKALI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "BAEL (VILVA ) LEAF POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "CALAMUS / SWEET FLAG (VASAMBU) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "FALSE DAISY (KARISALANKANNI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "BALLOON VINE (MUDAKATHAN) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "LOTUS (THAMARAI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "ANDROGRAPHIS (NILAVEMBU) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "BERMUDA GRASS (ARUGAMPUL) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "THULASI LEAF POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "COUNTRY GOOSEBERRY(KEELANELLI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "ASWAGANDHA POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "CASSIA AURICULATA (AVARAM POO) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "TRIBULUS TERRESTRIS (SIRUNERUNJIL) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "TRIKADUKU POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "TERMINALIA CHEBULA (KADUKKAI) POWDER",
+        "weight": "50G"
+    },
+    {
+        "name": "VETTI VER",
+        "weight": "50G"
+    },
+    {
+        "name": "VELDT GRAPE (PIRANDAI) THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "MANGO PICKLE",
+        "weight": "200GM"
+    },
+    {
+        "name": "CITRON (NAARTHANGAI) PICKLE",
+        "weight": "200GM"
+    },
+    {
+        "name": "COUNTRY SUGAR",
+        "weight": "500GM"
+    },
+    {
+        "name": "COCONUT SUGAR",
+        "weight": "250GM"
+    },
+    {
+        "name": "COUNTRY SUGAR",
+        "weight": "1KG"
+    },
+    {
+        "name": "SOYACHUNKS (MEAL MAKER) (BIG)",
+        "weight": "250G"
+    },
+    {
+        "name": "FENU GREEK (VENTHAYAM)",
+        "weight": "100G"
+    },
+    {
+        "name": "HIMALAYAN SALT CRYSTAL",
+        "weight": "500GM"
+    },
+    {
+        "name": "SUGARCANE JAGGERY (KATTI VELLAM)",
+        "weight": "1KG"
+    },
+    {
+        "name": "PALM SUGAR",
+        "weight": "250 G"
+    },
+    {
+        "name": "AJWAIN (OMAM)",
+        "weight": "50GM"
+    },
+    {
+        "name": "WHITE SESAME (VELLAI ELLU)",
+        "weight": "100GM"
+    },
+    {
+        "name": "SAGO (JAVARISI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "AGAR AGAR (KADAL PAASI)",
+        "weight": "8G"
+    },
+    {
+        "name": "PANAKALKANDU",
+        "weight": "100GM"
+    },
+    {
+        "name": "ACHU VELLAM",
+        "weight": "500GM"
+    },
+    {
+        "name": "CUMIN SEEDS (SEERAGAM)",
+        "weight": "100G"
+    },
+    {
+        "name": "DISHWASH POWDER",
+        "weight": "500G"
+    },
+    {
+        "name": "KITCHEN CLEANER",
+        "weight": "500ML"
+    },
+    {
+        "name": "NATURAL LAUNDRY DETERGENT",
+        "weight": "500ML"
+    },
+    {
+        "name": "NATURE SPRAY LAVENDER",
+        "weight": "250ML"
+    },
+    {
+        "name": "NATURE SPRAY LEMON",
+        "weight": "250ML"
+    },
+    {
+        "name": "NATURE SPRAY WHITE LILY",
+        "weight": "250ML"
+    },
+    {
+        "name": "TOILET CLEANER",
+        "weight": "500ML"
+    },
+    {
+        "name": "BATHROOM CLEANER",
+        "weight": "500ML"
+    },
+    {
+        "name": "GLASS CLEANER SPRAY",
+        "weight": "500ML"
+    },
+    {
+        "name": "HERBAL COCKROACH REPELLANT",
+        "weight": "100ML"
+    },
+    {
+        "name": "HERBAL COCKROACH REPELLANT OIL GEL",
+        "weight": null
+    },
+    {
+        "name": "AYURVEDIC COCKROACH REPELANT",
+        "weight": "200ML"
+    },
+    {
+        "name": "HERBAL HOUSEFLY REPELLANT",
+        "weight": "100ML"
+    },
+    {
+        "name": "HERBAL MOSQUITO REPELLANT BODY SPRAY",
+        "weight": "100ML"
+    },
+    {
+        "name": "HERBAL MOSQUITO REPELLANT ROOM SPRAY",
+        "weight": "100ML"
+    },
+    {
+        "name": "NATURE SPRAY SANDAL",
+        "weight": "250ML"
+    },
+    {
+        "name": "NATURE SPRAY ROSE",
+        "weight": "250ML"
+    },
+    {
+        "name": "ONION  (VENGAYAM) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "CARROT VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "AJWAIN (OMAM) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "KASURI METHI (VENDIYA KEERAI) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "RAGI VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "GARLIC (POONDU) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "POTATO (URULAIKILANGU) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "CUMIN SEEDS (SEERAGAM)  VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "CHILLI GARLIC VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "MINT (PUDINA) LEAVES VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "BEETROOT VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "GREEN CHILLI  (PACHAI MILAGAI) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "TOMATO (THAKKALI) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "CORN (MAKKA SOLAM) VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "TURKEY BERRY (SUNDAKKAI) VATHAL - 1 PCS",
+        "weight": null
+    },
+    {
+        "name": "GUNDU MORE MILAGAI VATHAL",
+        "weight": "50 gm"
+    },
+    {
+        "name": "KUDAMPULI",
+        "weight": null
+    },
+    {
+        "name": "BLACK PEPPER  (KARUMILAGU)",
+        "weight": "200GM"
+    },
+    {
+        "name": "BLACK CUMIN (KARUNJEERAGAM)",
+        "weight": "100GM"
+    },
+    {
+        "name": "BLACK PEPPER (KARUMILAGU)",
+        "weight": "100GM"
+    },
+    {
+        "name": "WHITE PEPPER (VELLAI MILAGU)",
+        "weight": "100GM"
+    },
+    {
+        "name": "MUSTARD (KADUGU)",
+        "weight": "100GM"
+    },
+    {
+        "name": "MUSTARD (KADUGU)",
+        "weight": "200GM"
+    },
+    {
+        "name": "MUSTARD (KADUGU)",
+        "weight": "150GM"
+    },
+    {
+        "name": "BIRIYANI ILAI",
+        "weight": null
+    },
+    {
+        "name": "CINNAMON (PATTAI)",
+        "weight": "20GM"
+    },
+    {
+        "name": "CLOVES (KIRAMBU)",
+        "weight": "50GM"
+    },
+    {
+        "name": "FENEL SEEDS (SOMBU)",
+        "weight": "50GM"
+    },
+    {
+        "name": "FENEL SEEDS (SOMBU)",
+        "weight": "100GM"
+    },
+    {
+        "name": "KADUKAI",
+        "weight": "50GM"
+    },
+    {
+        "name": "FENEL SEEDS  (SOMBU)",
+        "weight": "25GM"
+    },
+    {
+        "name": "CORIANDER (NATTU MALLI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "TEJA RED CHILLI ( TEJA MILAGAI)",
+        "weight": "200GM"
+    },
+    {
+        "name": "GUNDU MILAGAI",
+        "weight": "200GM"
+    },
+    {
+        "name": "GUNDU MILAGAI",
+        "weight": "100GM"
+    },
+    {
+        "name": "NUTMEG (JAATHIKAAI)",
+        "weight": "50GM"
+    },
+    {
+        "name": "VIRALI MANJAL",
+        "weight": "50G"
+    },
+    {
+        "name": "POPPY SEED (KASA KASA)",
+        "weight": "20GM"
+    },
+    {
+        "name": "CARDAMOM (YELAKKAI)",
+        "weight": "25GM"
+    },
+    {
+        "name": "WHITE URAD DAL (VELLAI MOTTU ULUNDHU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "WHITE URAD DAL (VELLAI MOTTU ULUNDHU)",
+        "weight": "1KG"
+    },
+    {
+        "name": "TOOR DAL (THUVARAM PARUPPU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "SOILED TOOR DAL (MANKATTIYA THUVARAM PARUPPU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "PAASI PAYIRU (RAINFALL YIELD)",
+        "weight": "500GM"
+    },
+    {
+        "name": "MYSORE DAL",
+        "weight": "250GM"
+    },
+    {
+        "name": "BLACK URAD DAL(BROKEN) (KARUPPU ULUNDHAM PARUPPU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BLACK URAD DAL (KARUPPU ULUNDHU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "MYSORE DAL",
+        "weight": "500GM"
+    },
+    {
+        "name": "GREEN GRAM (PAASI PAYIRU) (NATTU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "MOONG DHAL (SPLIT) (PAASI PARUPPU) (NATTU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "CHANNA DHAL (KADALAI PARUPPU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BENGAL GRAM FULL (MULU POTTU KADALAI)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BENGAL GRAM FULL (MULU POTTU KADALAI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BENGAL GRAM (SPLIT) (POTTU KADALAI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BENGAL GRAM (SPLIT) (POTTU KADALAI)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BELLAR DHAL (AVARAI PARUPPU )",
+        "weight": "250GM"
+    },
+    {
+        "name": "DOUBLE CURRY BEANS  (IRETTAI AVARAI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RANGOON BEANS (MOCHAI )",
+        "weight": "250GM"
+    },
+    {
+        "name": "RED (SIVAPPU) RAJMA",
+        "weight": "250GM"
+    },
+    {
+        "name": "BUTTER BEANS SEEDS (VARI MOCHAI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BLACK EYED  PEAS  (THATTA PAYIR)",
+        "weight": "250GM"
+    },
+    {
+        "name": "GREEN PEAS (PACHA PATTANI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE PEAS (VELLA PATTANI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "DOT BEANS (PULLI PATTANI)",
+        "weight": "250GM"
+    },
+    {
+        "name": "SOYA BEANS",
+        "weight": "250GM"
+    },
+    {
+        "name": "YELLOW SORGHUM (MANJAL CHOLAM)",
+        "weight": "500GM"
+    },
+    {
+        "name": "RED SORGHUM (SIVAPU CHOLAM)",
+        "weight": "500GM"
+    },
+    {
+        "name": "NILAKADALAI (GROUNDNUT)",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE SORGHUM (VELLAI CHOLAM)",
+        "weight": "500GM"
+    },
+    {
+        "name": "HORSE GRAM (KOLLU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE CHANNA (VELLAI SUNDAL)",
+        "weight": "500GM"
+    },
+    {
+        "name": "WHITE CHANNA (VELLAI SUNDAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BLACK HORSE GRAM (KARUPU KOLLU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BLACK CHANNA (KARUPU SUNDAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BLACK CHANNA (KARUPU SUNDAL)",
+        "weight": "500GM"
+    },
+    {
+        "name": "FOXTAIL (THINAI) (UNPOLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) (UNPOLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHURA VALI)(UNPOLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "LITTLE MILLET (KULA SAAMAI)",
+        "weight": "500GM"
+    },
+    {
+        "name": "RAGI (KELVARAGU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "RAGI (KELVARAGU)",
+        "weight": "1KG"
+    },
+    {
+        "name": "BARNYARD MILLET (KUTHURAIVALI) (POLISHED)",
+        "weight": null
+    },
+    {
+        "name": "KARUPU KAVUNI KURANAI",
+        "weight": "250GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) (POLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "SAMBA KOTHUMAI",
+        "weight": "500GM"
+    },
+    {
+        "name": "CORN (MAKKA CHOLAM KURUNAI )",
+        "weight": "250GM"
+    },
+    {
+        "name": "CORN (MAKKA CHOLLAM)",
+        "weight": "500GM"
+    },
+    {
+        "name": "WHEAT (KOTHUMAI)",
+        "weight": "1KG"
+    },
+    {
+        "name": "FOXTAIL (THINAI) (POLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "WILD PEARL MILLET (KAATU KAMBU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "PROSO KODO (PANI VARAGU) (POLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "KODO MILLET (VARAGU) (POLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "PEARL MILLET (GUNDU KAMBU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) (POLISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BARLEY RICE (VAAL KOTHUMAI)",
+        "weight": "500GM"
+    },
+    {
+        "name": "CORN FLOUR (CHOLA MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "CORN FLOUR (CHOLA MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "BAJI & BONDA MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "BAJI & BONDA MIX",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHEAT FLOUR (KOTHUMAI MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "SPROUTED WHEAT  FLOUR (MULAIKATTIYA KOTHUMAI MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "SPROUTED WHEAT FLOUR (MULAIKATTIYA KOTHUMAI MAAVU)",
+        "weight": "1KG"
+    },
+    {
+        "name": "BLACK URAD DHAL PORRIDGE (KARUPU ULUNDHU KANJI) MIX",
+        "weight": "250GM"
+    },
+    {
+        "name": "SESAME FLOUR (ELLU MAAVU) DOSAI MIX",
+        "weight": "250GM"
+    },
+    {
+        "name": "GREEN GRAM FLOUR (PAASI PAYIRU MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RICE FLOUR  (ARISI MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "RICE FLOUR (ARISI MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "MILLET (SIRUTHAANIYA) DOSA MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "SPROUTED CORN FLOUR (MULAIKATTIYA CHOLAM MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RAGI CHOCOLATE MALT",
+        "weight": "100GM"
+    },
+    {
+        "name": "MILLET (SIRUTHAANIYA) DOSA MIX",
+        "weight": "250GM"
+    },
+    {
+        "name": "SPROUTED BLACK CHANNA  FLOUR (MULAIKATTIYA KARUPPU SUNDAL MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "F2B HEALTH MIX  (SATTHU MAAVU)",
+        "weight": "500G"
+    },
+    {
+        "name": "SPROUTED LITTLE FINGER  FLOUR (MULAIKATTIYA RAGI MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "SPROUTED  PEARLMILLET  FLOUR (MULAIKATTIYA KAMBU MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "SPROUTED  PEARLMILLET  FLOUR (MULAIKATTIYA KAMBU MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "FOXTAIL (THINAI) VENPONGAL MIX",
+        "weight": "250GM"
+    },
+    {
+        "name": "RAGI  FLOUR (KELVARAGU MAAVU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "RED SORGUM FLOUR (SIVAPU CHOLAM MAAVU)",
+        "weight": null
+    },
+    {
+        "name": "BENGAL GRAM (KADALAI MAAVU) (UNPLOISHED)",
+        "weight": "250GM"
+    },
+    {
+        "name": "BENGAL GRAM (KADALAI MAAVU) (UNPLOISHED)",
+        "weight": "500GM"
+    },
+    {
+        "name": "MULTIMILLET (SIRUTHANIYA) CHAPATHI FLOUR",
+        "weight": "1KG"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) DOSA FLOUR",
+        "weight": "500GM"
+    },
+    {
+        "name": "BRIDEGROOM (MAPPILAI SAMBA) DOSA FLOUR",
+        "weight": "500GM"
+    },
+    {
+        "name": "BARNYARD (KUTHURAIVALI) DOSA READY MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "PROSO MILLET (PANI VARAGU) PANIYARAM READY MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "SPROUTED HORSE GRAM FLOUR (MULAIKATTIYA KOLLU MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "HEALTH MIX  (SATTHU MAAVU) -  (AMUTHA)",
+        "weight": "500G"
+    },
+    {
+        "name": "SEVEN FLOURS (ELLU MAAVU) DOSAI MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "TRIAL PACK",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS (JUMBO PACK) - XXL",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS (JUMBO)- XL",
+        "weight": null
+    },
+    {
+        "name": "MATERNITY PADS - L",
+        "weight": null
+    },
+    {
+        "name": "ADULT DIAPERS - XL",
+        "weight": null
+    },
+    {
+        "name": "SWEAT PADS",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS - L",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS (JUMBO MIX) - XL + XXL",
+        "weight": null
+    },
+    {
+        "name": "SLIMMY PADS - XXL",
+        "weight": null
+    },
+    {
+        "name": "SLIMMY PADS - XL",
+        "weight": null
+    },
+    {
+        "name": "PANTY LINERS",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS - XXXL",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS - XL",
+        "weight": null
+    },
+    {
+        "name": "FLUFFY PADS - XXL",
+        "weight": null
+    },
+    {
+        "name": "MATERNITY PADS - M",
+        "weight": null
+    },
+    {
+        "name": "ADULT DIAPER - L",
+        "weight": null
+    },
+    {
+        "name": "MATERNITY PADS - XL",
+        "weight": null
+    },
+    {
+        "name": "TRAIL PAD",
+        "weight": null
+    },
+    {
+        "name": "GREEN CAPSICUM (KUDAI MILAGAI)",
+        "weight": null
+    },
+    {
+        "name": "LADY'S FINGER (VENDAIKAI)",
+        "weight": null
+    },
+    {
+        "name": "RAW MANGO (MAANGAI)",
+        "weight": null
+    },
+    {
+        "name": "BEETROOT",
+        "weight": null
+    },
+    {
+        "name": "KOHLRABI (NOOKAL)",
+        "weight": null
+    },
+    {
+        "name": "RADDISH (MULLANGI)",
+        "weight": null
+    },
+    {
+        "name": "BEANS",
+        "weight": null
+    },
+    {
+        "name": "IVY GUARD (KOVAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "SWEET POTATO (SAKKARAI VALLI KILANGU)",
+        "weight": null
+    },
+    {
+        "name": "CHOW CHOW",
+        "weight": null
+    },
+    {
+        "name": "POTATO (URULAI) (AGRA)",
+        "weight": null
+    },
+    {
+        "name": "POTATO (URULAI) (OOTY)",
+        "weight": null
+    },
+    {
+        "name": "ORGANIC CUCUMBER (VELLARI )",
+        "weight": null
+    },
+    {
+        "name": "AMLA (NELLI KAI)",
+        "weight": null
+    },
+    {
+        "name": "BROADBEANS (AVARAI)",
+        "weight": null
+    },
+    {
+        "name": "SNAKE GUARD (PUDALANGAI)",
+        "weight": null
+    },
+    {
+        "name": "LEMON  (ELUMICHAI)",
+        "weight": null
+    },
+    {
+        "name": "GREEN CHILLI (PACHAI MILAGAI)",
+        "weight": null
+    },
+    {
+        "name": "BRINJAL (KATHIRI KAI)",
+        "weight": null
+    },
+    {
+        "name": "CARROT",
+        "weight": null
+    },
+    {
+        "name": "ONION (PERIYA VENGAYAM)",
+        "weight": null
+    },
+    {
+        "name": "SMALL ONION (CHINNA VENGAYAM)",
+        "weight": null
+    },
+    {
+        "name": "GINGER (INJI)",
+        "weight": null
+    },
+    {
+        "name": "TOMATO  (NATTU THAKKALI)",
+        "weight": null
+    },
+    {
+        "name": "COLOCASIA (CHEPA KELANGU)",
+        "weight": null
+    },
+    {
+        "name": "CORIANDER LEAF (KOTTHAMALI KATTU)",
+        "weight": null
+    },
+    {
+        "name": "MINT (PUDINA KATTU)",
+        "weight": null
+    },
+    {
+        "name": "CABBAGE (MUTTAI KOSE)",
+        "weight": null
+    },
+    {
+        "name": "BOTTLE GUARD (SURAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "RIDGE GUARD",
+        "weight": null
+    },
+    {
+        "name": "SPINACH (KEERAI)",
+        "weight": null
+    },
+    {
+        "name": "PLANTAIN (VALAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "PLANTAIN STEM (VALAI THANDU)",
+        "weight": null
+    },
+    {
+        "name": "PLANTAIN FLOWER (VAALAI POO)",
+        "weight": null
+    },
+    {
+        "name": "COCONUT (THENGAI)",
+        "weight": null
+    },
+    {
+        "name": "MUSHROOM (KALAN) (BUTTON)",
+        "weight": null
+    },
+    {
+        "name": "VELD GRAPE (PIRANDAI)",
+        "weight": null
+    },
+    {
+        "name": "DRUM STICK (MURUNGAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "BITTER GUARD (PAVA KAI)",
+        "weight": null
+    },
+    {
+        "name": "IVY GUARD (PARUVAL KOVAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "GREEN PEAS (PACHAI PATTANI)",
+        "weight": null
+    },
+    {
+        "name": "ALVALI KELANGU (MARAVALLI KILANGU)",
+        "weight": null
+    },
+    {
+        "name": "CAULIFLOWER",
+        "weight": null
+    },
+    {
+        "name": "BROCOLLI",
+        "weight": null
+    },
+    {
+        "name": "SUKKINI VELLARI",
+        "weight": null
+    },
+    {
+        "name": "SWEET CORN",
+        "weight": null
+    },
+    {
+        "name": "YELLOW PUMPKIN (MANJAL POOSANI KAI)",
+        "weight": null
+    },
+    {
+        "name": "ELEPHANT YAM (SENAI KILANGU)",
+        "weight": null
+    },
+    {
+        "name": "COLOR CAPSICUM (KUDAI MILAGAI)",
+        "weight": null
+    },
+    {
+        "name": "TOMATO (BANGALORE THAKKALI)",
+        "weight": null
+    },
+    {
+        "name": "CLUSTER BEAN (KOTTHAVARANGAI)",
+        "weight": null
+    },
+    {
+        "name": "DRY STRAWBERRY",
+        "weight": null
+    },
+    {
+        "name": "DRY PINEAPPLE",
+        "weight": null
+    },
+    {
+        "name": "DRY KIWI",
+        "weight": null
+    },
+    {
+        "name": "DRY PLUMS",
+        "weight": null
+    },
+    {
+        "name": "DRY CHERRY",
+        "weight": null
+    },
+    {
+        "name": "DRY CRANBERRY",
+        "weight": null
+    },
+    {
+        "name": "DRY AMLA (NELLI)",
+        "weight": null
+    },
+    {
+        "name": "DRY FIG (ATTHI)",
+        "weight": null
+    },
+    {
+        "name": "PAPAYA (PAPPALI)",
+        "weight": null
+    },
+    {
+        "name": "BUTTER FRUIT  (AVACODO)",
+        "weight": null
+    },
+    {
+        "name": "ELAKKI (BANANA)",
+        "weight": null
+    },
+    {
+        "name": "POOVAN (BANANA)",
+        "weight": null
+    },
+    {
+        "name": "RED BANANA (SEVAALAI)",
+        "weight": null
+    },
+    {
+        "name": "HILL BANANA (MALAI VAALAI)",
+        "weight": null
+    },
+    {
+        "name": "KARPOORAVALLI (THEEN VAALAI)",
+        "weight": null
+    },
+    {
+        "name": "POMEGRANATE (MAADHULAI)",
+        "weight": null
+    },
+    {
+        "name": "ORANGE (MALTA )",
+        "weight": null
+    },
+    {
+        "name": "SWEET LIME (SAATHUKUDI)",
+        "weight": null
+    },
+    {
+        "name": "GUAVA (KOYYA)",
+        "weight": null
+    },
+    {
+        "name": "INDIAN APPLE",
+        "weight": null
+    },
+    {
+        "name": "ROYAL APPLE",
+        "weight": null
+    },
+    {
+        "name": "GREEN APPLE",
+        "weight": null
+    },
+    {
+        "name": "MUSKMELON (MULAM PALAM)",
+        "weight": null
+    },
+    {
+        "name": "GREEN GRAPES  (PACHAI THIRATCHAI)",
+        "weight": null
+    },
+    {
+        "name": "PANEER GRAPES (KARUPPU THIRATCHAI )",
+        "weight": null
+    },
+    {
+        "name": "NENDRAN BANANA",
+        "weight": null
+    },
+    {
+        "name": "PINEAPPLE (ANNASI)",
+        "weight": null
+    },
+    {
+        "name": "WATERMELON (DHARBOOSINI)",
+        "weight": null
+    },
+    {
+        "name": "KAMALA ORANGE",
+        "weight": null
+    },
+    {
+        "name": "KIWI",
+        "weight": null
+    },
+    {
+        "name": "STRAWBERRY",
+        "weight": null
+    },
+    {
+        "name": "COUNTRY EGG (NAATU KOLI MUTTAI)",
+        "weight": null
+    },
+    {
+        "name": "HILL GARLIC (MALAI POONDU)",
+        "weight": null
+    },
+    {
+        "name": "ELAKKI",
+        "weight": null
+    },
+    {
+        "name": "AK TETRA BUTTERMILK PLAIN",
+        "weight": "200ML"
+    },
+    {
+        "name": "AK TETRA  BUTTERMILK SPICED",
+        "weight": "200ML"
+    },
+    {
+        "name": "AK  PACKET BUTTERMILK SPICED",
+        "weight": "200ML"
+    },
+    {
+        "name": "AK  PACKET CURD",
+        "weight": "200G"
+    },
+    {
+        "name": "AK A2  PACKET CURD",
+        "weight": "500G"
+    },
+    {
+        "name": "AK PACKET BUTTERMILK PLAIN",
+        "weight": "200ML"
+    },
+    {
+        "name": "AK BOX CURD",
+        "weight": "200G"
+    },
+    {
+        "name": "AK BOX CURD",
+        "weight": "400G"
+    },
+    {
+        "name": "AK BOX  CURD",
+        "weight": "1KG"
+    },
+    {
+        "name": "AK PROBIOTIC PACKET  CURD",
+        "weight": "500G"
+    },
+    {
+        "name": "AK A2 COW MILK PAST",
+        "weight": "500ML"
+    },
+    {
+        "name": "AK COW MILK PAST",
+        "weight": "500ML"
+    },
+    {
+        "name": "AK MALAI PANEER",
+        "weight": null
+    },
+    {
+        "name": "JOMZAN  BLACK DATES  (UNPACKED)",
+        "weight": null
+    },
+    {
+        "name": "MORINGA LEAF POWDER (MURUNGAI ILAI  PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "GARLIC POWDER (POONDU PODI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "GARLIC (NAATU POONDU)",
+        "weight": null
+    },
+    {
+        "name": "GARLIC (POONDU) THOKKU",
+        "weight": null
+    },
+    {
+        "name": "DRY GINGER PALM JAGGERY  (SUKKU KARUPATTI)",
+        "weight": null
+    },
+    {
+        "name": "MUDAKATTHAN THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "ENERGY BALLS",
+        "weight": "150 GM"
+    },
+    {
+        "name": "PISTA GREEN",
+        "weight": "100G"
+    },
+    {
+        "name": "ALGERIAN BROWN DATES (UNPACKED)",
+        "weight": null
+    },
+    {
+        "name": "BUTTER UNSALTED  (VENNAI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "MUMTAZ FIG PACKET -  (JUICE & MILK  MIX)",
+        "weight": "400G"
+    },
+    {
+        "name": "MIXED DRY FRIUTS BOX",
+        "weight": null
+    },
+    {
+        "name": "HERBAL MOSQUITO REPELLENT INCENSE STICKS",
+        "weight": null
+    },
+    {
+        "name": "SMALL ELEPHANT YAM (PIDIKARANAI)",
+        "weight": null
+    },
+    {
+        "name": "COW GHEE (PASU NEI)",
+        "weight": "200 ML"
+    },
+    {
+        "name": "DRY CHILLI (VARA MILAGAI)",
+        "weight": "200G"
+    },
+    {
+        "name": "PALM JAGGERY (PANA KARUPATTI)",
+        "weight": null
+    },
+    {
+        "name": "HIMALAYAN SALT POWDER  (INDHU UPPU THOOL)",
+        "weight": "500G"
+    },
+    {
+        "name": "DRY GINGER (SUKKU)",
+        "weight": null
+    },
+    {
+        "name": "DRY APRICOT",
+        "weight": "200G"
+    },
+    {
+        "name": "COW BUTTER  (PASU VENNAI)",
+        "weight": "250G"
+    },
+    {
+        "name": "GROUNDNUT  SEED (NAATU NILA KADALAI)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "TURMERIC POWDER (MANJAL THOOL )",
+        "weight": "100 GM"
+    },
+    {
+        "name": "SESAME BALLS (ELLU URUNDAI)",
+        "weight": "100GM"
+    },
+    {
+        "name": "01 LW BROWN 1/4",
+        "weight": null
+    },
+    {
+        "name": "02 LW BROWN",
+        "weight": null
+    },
+    {
+        "name": "03 LW BROWN",
+        "weight": null
+    },
+    {
+        "name": "04 APPLE BROWN",
+        "weight": null
+    },
+    {
+        "name": "05 LW BROWN",
+        "weight": null
+    },
+    {
+        "name": "06 LW BROWN",
+        "weight": null
+    },
+    {
+        "name": "07 LW BROWN",
+        "weight": null
+    },
+    {
+        "name": "08 (1/4NO) LUDO(S)",
+        "weight": null
+    },
+    {
+        "name": "09 (1/2 NO) LUDO(S)",
+        "weight": null
+    },
+    {
+        "name": "10 HANDI",
+        "weight": null
+    },
+    {
+        "name": "11 HANDI",
+        "weight": null
+    },
+    {
+        "name": "12 MUSHAL HANDI",
+        "weight": null
+    },
+    {
+        "name": "13 SMILE JAR(M)",
+        "weight": null
+    },
+    {
+        "name": "14 SMILE JAR(BIG)",
+        "weight": null
+    },
+    {
+        "name": "15 BORA(SMALL)",
+        "weight": null
+    },
+    {
+        "name": "16 BORA(MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "17 BORA(BIG)",
+        "weight": null
+    },
+    {
+        "name": "18 MATKA (S)",
+        "weight": null
+    },
+    {
+        "name": "19 MATKA (M)",
+        "weight": null
+    },
+    {
+        "name": "20 MATKA (B)",
+        "weight": null
+    },
+    {
+        "name": "21 MAT BAR(1.)",
+        "weight": "5KG"
+    },
+    {
+        "name": "22 MAT BAR()",
+        "weight": "2 KG"
+    },
+    {
+        "name": "23 BROAD MOUTH JAR",
+        "weight": null
+    },
+    {
+        "name": "24 COLOUR JAR()",
+        "weight": "2KG"
+    },
+    {
+        "name": "25 JILABI HANDI",
+        "weight": null
+    },
+    {
+        "name": "26 JILABI (S)",
+        "weight": null
+    },
+    {
+        "name": "27 JILABI (M)",
+        "weight": null
+    },
+    {
+        "name": "28 JILABI (B)",
+        "weight": null
+    },
+    {
+        "name": "30 NISSAN JAR",
+        "weight": null
+    },
+    {
+        "name": "31 HANDI + MATHINI",
+        "weight": null
+    },
+    {
+        "name": "32 JEERA JAR(NO. 02)",
+        "weight": null
+    },
+    {
+        "name": "33 SQUARE NO. 12",
+        "weight": null
+    },
+    {
+        "name": "34 SQUARE NO. 17",
+        "weight": null
+    },
+    {
+        "name": "35 SQUARE NO. 25",
+        "weight": null
+    },
+    {
+        "name": "36 SQUARE NO. 26",
+        "weight": null
+    },
+    {
+        "name": "37 SQUARE NO. 13",
+        "weight": null
+    },
+    {
+        "name": "38 SQUARE NO. 14",
+        "weight": null
+    },
+    {
+        "name": "39 SQUARE NO.1",
+        "weight": null
+    },
+    {
+        "name": "40 MUSHAL SQUARE(S)",
+        "weight": null
+    },
+    {
+        "name": "41 MUSHAL SQUARE(M)",
+        "weight": null
+    },
+    {
+        "name": "42 MUSHAL SQUARE",
+        "weight": "1KG"
+    },
+    {
+        "name": "43 MUSHAL SQUARE",
+        "weight": "2KG"
+    },
+    {
+        "name": "44 ROUND JAR (S)",
+        "weight": null
+    },
+    {
+        "name": "45 ROUND JAR (M)",
+        "weight": null
+    },
+    {
+        "name": "46 ROUND JAR ()",
+        "weight": "1KG"
+    },
+    {
+        "name": "47 ROUND JAR ()",
+        "weight": "2 KG"
+    },
+    {
+        "name": "48 COFFEE SET",
+        "weight": null
+    },
+    {
+        "name": "49 OIL CAN (S)",
+        "weight": null
+    },
+    {
+        "name": "50 OIL CAN (M)",
+        "weight": null
+    },
+    {
+        "name": "51 OIL CAN (B)",
+        "weight": null
+    },
+    {
+        "name": "52 PEPPER SALT",
+        "weight": null
+    },
+    {
+        "name": "53 SPOON REST",
+        "weight": null
+    },
+    {
+        "name": "54 SMALL BASKET",
+        "weight": null
+    },
+    {
+        "name": "55 MEDIUM BASKET",
+        "weight": null
+    },
+    {
+        "name": "56 CHINESE JAR(s)",
+        "weight": null
+    },
+    {
+        "name": "57 CHINESE JAR(M)",
+        "weight": null
+    },
+    {
+        "name": "58 CHINESE JAR(B)",
+        "weight": null
+    },
+    {
+        "name": "59  LIVA JAR",
+        "weight": "1 KG"
+    },
+    {
+        "name": "60 SUN SHINE BABY SET",
+        "weight": null
+    },
+    {
+        "name": "61 HAND WASH",
+        "weight": null
+    },
+    {
+        "name": "64 CHUTNEY KATTORI",
+        "weight": null
+    },
+    {
+        "name": "65 CC NO. 1",
+        "weight": null
+    },
+    {
+        "name": "66 CC NO. 2",
+        "weight": null
+    },
+    {
+        "name": "67 CC NO. 3",
+        "weight": null
+    },
+    {
+        "name": "68 CC NO. 4",
+        "weight": null
+    },
+    {
+        "name": "69 CC NO. 5",
+        "weight": null
+    },
+    {
+        "name": "70 MUGHAL SQUARE JAR(1*12)",
+        "weight": null
+    },
+    {
+        "name": "71 MUGHAL SQUARE JAR(1*8)",
+        "weight": null
+    },
+    {
+        "name": "72 MUGHAL SQUARE JAR(1*4)",
+        "weight": null
+    },
+    {
+        "name": "73 2 PCS PICKEL",
+        "weight": null
+    },
+    {
+        "name": "74 2PCS W/MAT",
+        "weight": null
+    },
+    {
+        "name": "75 3PCS W/MAT",
+        "weight": null
+    },
+    {
+        "name": "76 WATER JUG(NO. 16)",
+        "weight": null
+    },
+    {
+        "name": "77 WATER JUG(NO. 09)",
+        "weight": null
+    },
+    {
+        "name": "78 FLING",
+        "weight": null
+    },
+    {
+        "name": "79 OCCASSION",
+        "weight": null
+    },
+    {
+        "name": "80 ROYAL PARADISE",
+        "weight": null
+    },
+    {
+        "name": "81 DRINK HUB",
+        "weight": null
+    },
+    {
+        "name": "82 CHAI BAR",
+        "weight": null
+    },
+    {
+        "name": "83 INVITATION",
+        "weight": null
+    },
+    {
+        "name": "84 PLAIN TAWA",
+        "weight": null
+    },
+    {
+        "name": "85 JALI TAWA",
+        "weight": null
+    },
+    {
+        "name": "86 10 INCH PLATE",
+        "weight": null
+    },
+    {
+        "name": "87 8 INCH PLATE",
+        "weight": null
+    },
+    {
+        "name": "88 DH 3 LITRE",
+        "weight": null
+    },
+    {
+        "name": "89 DH 4 LITRE",
+        "weight": null
+    },
+    {
+        "name": "90 H 3PCS",
+        "weight": null
+    },
+    {
+        "name": "91 M 3PCS",
+        "weight": null
+    },
+    {
+        "name": "92 TRAY JUG SET",
+        "weight": null
+    },
+    {
+        "name": "93 SMALL FRY PAN",
+        "weight": null
+    },
+    {
+        "name": "94 LARGE FRY PAN",
+        "weight": null
+    },
+    {
+        "name": "95 COOKER 3 LITRE",
+        "weight": null
+    },
+    {
+        "name": "96 MATKA 11 LIT",
+        "weight": null
+    },
+    {
+        "name": "97 P3 WITHOUT (ST)",
+        "weight": null
+    },
+    {
+        "name": "98 P3 WITH STAND",
+        "weight": null
+    },
+    {
+        "name": "99 JUG",
+        "weight": null
+    },
+    {
+        "name": "100 G6",
+        "weight": null
+    },
+    {
+        "name": "101 C6",
+        "weight": null
+    },
+    {
+        "name": "102 8D02 MUG",
+        "weight": null
+    },
+    {
+        "name": "103 HANDI TERROCOTA(B)",
+        "weight": null
+    },
+    {
+        "name": "104 HANDI (S)(T)",
+        "weight": null
+    },
+    {
+        "name": "105 GEORGEOUS",
+        "weight": null
+    },
+    {
+        "name": "106 EVERYDAY",
+        "weight": null
+    },
+    {
+        "name": "107 CAMPTY",
+        "weight": null
+    },
+    {
+        "name": "108 SEASON TREAT",
+        "weight": null
+    },
+    {
+        "name": "109 SWEET SASSY",
+        "weight": null
+    },
+    {
+        "name": "110 GREEN TEA",
+        "weight": null
+    },
+    {
+        "name": "111 HAUDI 5 LIT",
+        "weight": null
+    },
+    {
+        "name": "112 D.H.3",
+        "weight": null
+    },
+    {
+        "name": "113 D.H.2.5",
+        "weight": null
+    },
+    {
+        "name": "114 WATER DISPENSER",
+        "weight": null
+    },
+    {
+        "name": "FOXTAIL (THINAI) RIBBON PAKODA",
+        "weight": "200 GM"
+    },
+    {
+        "name": "MAPILLAI SAMBA AVAL MIXER",
+        "weight": "200 GM"
+    },
+    {
+        "name": "KODO MILLET (VARAGU) MIXER",
+        "weight": "200 GM"
+    },
+    {
+        "name": "MAPILLAI SAMBA MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "COCONUT (THENGAI) MILK MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) GARLIC  MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "KODO  MILLET (VARAGU) MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI)  MURUKKU",
+        "weight": "200 GM"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) MIXTURE",
+        "weight": "200 GM"
+    },
+    {
+        "name": "SOYA CHUNKS (Meal Maker) -  (Small)",
+        "weight": "250 gm"
+    },
+    {
+        "name": "MIXED CHOCOLATES",
+        "weight": "100 GM"
+    },
+    {
+        "name": "Big Brinjal (OODHA KATHIRI KAI)",
+        "weight": null
+    },
+    {
+        "name": "Dragon Fruit",
+        "weight": null
+    },
+    {
+        "name": "MAPILLAI SAMBA RICE",
+        "weight": null
+    },
+    {
+        "name": "KODO MILLET (VARAGU) (UNPOLISHED)",
+        "weight": "500 GM"
+    },
+    {
+        "name": "VADA DHAL (PARUPPU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "JAMUN HONEY",
+        "weight": "150GM"
+    },
+    {
+        "name": "SUNFLOWER (SOORIYAGANDHI) HONEY",
+        "weight": "150GM"
+    },
+    {
+        "name": "MUSTARD (KADUGU) HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "TULSI HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "ACACIA (KARUVELA ) HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "SUN DRIED BALLS (THALIPPU VADAGAM)",
+        "weight": "100GM"
+    },
+    {
+        "name": "EMPEROR'S (KARUPPU KAVUNI) RICE ()",
+        "weight": "1 KG"
+    },
+    {
+        "name": "HERBAL COUNTRY SUGAR (MOOLIGAI NATTU SARKARAI) ()",
+        "weight": "250GM"
+    },
+    {
+        "name": "Laptop",
+        "weight": null
+    },
+    {
+        "name": "KODO MILLET (VARAGU) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "DRUMSTICK (MURUNGAI) SEMIYA",
+        "weight": "180GM"
+    },
+    {
+        "name": "BARNYARD (KUTHIRAI VAALI) VERMICELLI",
+        "weight": null
+    },
+    {
+        "name": "AVACADO",
+        "weight": null
+    },
+    {
+        "name": "WHITE POHA (thin) (VELLAI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "RED RICE POHA (thick) (SIVAPPU ARISI AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE SORAHUM (VELLAI SOLAM)  RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "KODO (VARAGU) MILLET RAVA",
+        "weight": "400GM"
+    },
+    {
+        "name": "MILLET CHIKKIES (SIRUTHAANIYAM)",
+        "weight": "70GM"
+    },
+    {
+        "name": "BARNYARD (KUTHIRAI VAALI)  MILLET COOKIES",
+        "weight": "100GM"
+    },
+    {
+        "name": "CUSTARD APPLE (SEETHA PALAM)",
+        "weight": null
+    },
+    {
+        "name": "KARUPPU KAVUNI DOSAI READY MIX",
+        "weight": "500GM"
+    },
+    {
+        "name": "vilampalam",
+        "weight": null
+    },
+    {
+        "name": "Mini apple",
+        "weight": null
+    },
+    {
+        "name": "PEARS FRUIT (BAYRI KAI)",
+        "weight": null
+    },
+    {
+        "name": "TURMERIC POWDER  (MANJAL THOOL)",
+        "weight": "200 gm"
+    },
+    {
+        "name": "Cocoa Lip Balm (HERBAL)",
+        "weight": null
+    },
+    {
+        "name": "Rose and Mulethi Face pack (HERBAL)",
+        "weight": null
+    },
+    {
+        "name": "ROSE & SAFFRON FACE PACK (HERBAL)",
+        "weight": "100GM"
+    },
+    {
+        "name": "SAFFRON GEL (HERBAL)",
+        "weight": "50 GM"
+    },
+    {
+        "name": "COCOA FACE PACK  (HERBAL)",
+        "weight": "50 GM"
+    },
+    {
+        "name": "ROSE WATER (HERBAL)",
+        "weight": "100ml"
+    },
+    {
+        "name": "KUPAIMENI (HERBAL)   SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "MANJISTHA  (HERBAL) SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "VETIVER  (HERBAL)  SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "ROSE (HERBAL)  SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "AVARAMPOO (HERBAL)  SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "KASTURI MANJAL (HERBAL) SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "ORANGE (HERBAL)  SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "CHARCOAL  SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "PAPAYA (HERBAL) SOAP (F2B)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "LOOFAH (PEERKANGAI NAAR)",
+        "weight": null
+    },
+    {
+        "name": "FRESH GROUNDNUT (PACHAKADALAI KAI)",
+        "weight": null
+    },
+    {
+        "name": "Paruval Ivy",
+        "weight": null
+    },
+    {
+        "name": "COUNTRY GARLIC",
+        "weight": null
+    },
+    {
+        "name": "AK COW GHEE (PASU NEI)",
+        "weight": "490ML"
+    },
+    {
+        "name": "COUNTRY CASHEW NUT  (NAATU MUNDIRI)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "PAASI PARUPPU (RAIN FALL YIELD)",
+        "weight": "500GM"
+    },
+    {
+        "name": "NECTRAW (PADHANEER)  POT",
+        "weight": "180 ML"
+    },
+    {
+        "name": "AK CHEDDAR CHEESE SLICES",
+        "weight": "100 G"
+    },
+    {
+        "name": "Yellow Raisin (ULAR THIRATCHAI)",
+        "weight": "200 gm"
+    },
+    {
+        "name": "RIDGE GOURD (PEERKAN KAI)",
+        "weight": null
+    },
+    {
+        "name": "WALNUT",
+        "weight": "100 GM"
+    },
+    {
+        "name": "PASI PAYIRU (RAIN FALL YIELD)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "KASURI METHI  (VENTHAYA KEERAI)",
+        "weight": "25 GM"
+    },
+    {
+        "name": "SAPPAN WOOD  (PATHIMUGAM)",
+        "weight": "50 GM"
+    },
+    {
+        "name": "LONG PEPPER  (THIPPILI)",
+        "weight": "50gm"
+    },
+    {
+        "name": "BLACK RAISINS SEEDLESS (KARUPPU ULAR THIRATCHAI)",
+        "weight": "250G"
+    },
+    {
+        "name": "SANDAL WOOD (SANDHANA KATTAI)",
+        "weight": null
+    },
+    {
+        "name": "CUMIN SEEDS  (SEERAGAM)",
+        "weight": "200G"
+    },
+    {
+        "name": "MAKHANA (THAMARAI VIDHAI)",
+        "weight": "100 gm"
+    },
+    {
+        "name": "SESAME OIL (PALM JAGGERY) (NALLENNAI)",
+        "weight": "500ML"
+    },
+    {
+        "name": "SESAME OIL (PALM JAGGERY) (NALLENNAI)",
+        "weight": "1L"
+    },
+    {
+        "name": "NEEM OIL  (VEPPENNAI)",
+        "weight": "100ML"
+    },
+    {
+        "name": "MUDAKATHAN  PODI",
+        "weight": "100GM"
+    },
+    {
+        "name": "BUFFALO BUTTER (ERUMAI VENNAI)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "WHEAT FLOUR (GOTHUMAI MAAVU)",
+        "weight": "1KG"
+    },
+    {
+        "name": "BRIDEGROOM (MAPPILAI SAMBA) FLOUR",
+        "weight": "250GM"
+    },
+    {
+        "name": "WHITE SOLAM POHA (VELLAI SOLAM AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "JUST MOP FLOOR CLEANER ()",
+        "weight": "500ML"
+    },
+    {
+        "name": "NATURE DROP HERBAL DISHWASHER",
+        "weight": "500ML"
+    },
+    {
+        "name": "Rosted almond",
+        "weight": null
+    },
+    {
+        "name": "BARNYARD FLOUR (KUTHIRAI VAALI MAAVU)",
+        "weight": null
+    },
+    {
+        "name": "EMPEROR'S (KARUPPU KAVUNI) RICE FLOUR",
+        "weight": "250 GM"
+    },
+    {
+        "name": "LITTLE MILLET (SAAMAI) PONGAL MIX",
+        "weight": null
+    },
+    {
+        "name": "KOVAI ILLAI KARUVEPILLAI THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "PLANTAIN FLOWER (VAALAI POO) THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "ELEPHANT FOOT YAM (KARUNAI KELANGU)",
+        "weight": "200 GM"
+    },
+    {
+        "name": "TOMATO  (THAKKALI) THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "MANGO GINGER (MAA INJI) THOKKU",
+        "weight": "200GM"
+    },
+    {
+        "name": "KASTHURI MANJAL - SH",
+        "weight": null
+    },
+    {
+        "name": "MOSCUP",
+        "weight": null
+    },
+    {
+        "name": "PISTA CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "STRAWBERRY CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "SAPOTA",
+        "weight": null
+    },
+    {
+        "name": "SAPOTA",
+        "weight": null
+    },
+    {
+        "name": "DARK CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "SAMBAR CHILLI POWDER (KULAMBU MILAGAI THOOL)",
+        "weight": "100GM"
+    },
+    {
+        "name": "FIELD BEANS (MOCHAI AVARAI )",
+        "weight": null
+    },
+    {
+        "name": "INDIAN PENNYWORT (VALLARAI) POWDER",
+        "weight": "50 GM"
+    },
+    {
+        "name": "CLOVE (KIRAMBU)",
+        "weight": "25gm"
+    },
+    {
+        "name": "PROSO  MILLET FLOUR (PANI VARAGU MAAVU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "YELLOW CUCUMBER (DOSAKAI)",
+        "weight": null
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) NOODLES",
+        "weight": "175GM"
+    },
+    {
+        "name": "Crown Dates",
+        "weight": "500GM"
+    },
+    {
+        "name": "FOX TAIL FLOUR (THINAI MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "FENUGREEK (VENTHAYAM)",
+        "weight": "200GM"
+    },
+    {
+        "name": "COCONUT  POWDER (THENGAI  PODI)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "EUCALYPTUS HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "EUCALYPTUS HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "TULSI HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "JAMUN (NAVAL) HONEY - ()",
+        "weight": "350 GM"
+    },
+    {
+        "name": "MILLATINO",
+        "weight": "90 GM"
+    },
+    {
+        "name": "FOXTAIL MILLET (THINAI) COOKIES",
+        "weight": "100GM"
+    },
+    {
+        "name": "PINE APPLE CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "RED RICE  FLOUR (SIVAPPU ARISI MAAVU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "AK PIZZA CHEESE",
+        "weight": "200g"
+    },
+    {
+        "name": "AK YOGURT MANGO",
+        "weight": "90 G"
+    },
+    {
+        "name": "AK YOGURT PLAIN",
+        "weight": "90 G"
+    },
+    {
+        "name": "AK  BUTTER ( SALTED)",
+        "weight": "200g"
+    },
+    {
+        "name": "CASTOR OIL (VELAKKENNAI)",
+        "weight": "500 ML"
+    },
+    {
+        "name": "DESI PEARL FLOUR (NAATU KAMBU MAAVU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "IDIYAPPAM FLOUR",
+        "weight": "500GM"
+    },
+    {
+        "name": "SESAME OIL (SUGARCANE JAGGERY)",
+        "weight": "500 ML"
+    },
+    {
+        "name": "SESAME OIL (SUGARCANE JAGGERY)",
+        "weight": "1L"
+    },
+    {
+        "name": "BAY LEAF (BIRIYANI LEAF) (NON ORGANIC)",
+        "weight": "20G"
+    },
+    {
+        "name": "PUFFED RICE (PORI)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "NATURAL MALISH OIL (KOVARSHINI)",
+        "weight": "100ML"
+    },
+    {
+        "name": "FACIAL POWDER",
+        "weight": "60GM"
+    },
+    {
+        "name": "TOOTH POWDER (KOVARSHINI)",
+        "weight": "50GM"
+    },
+    {
+        "name": "KULIYAL POWDER",
+        "weight": "100GM"
+    },
+    {
+        "name": "BAMBOO FIBRE BRISTLE (TOOTH BRUSH)",
+        "weight": null
+    },
+    {
+        "name": "CHARCOAL INFUSED BRISTLE (TOOTH BRUSH)",
+        "weight": null
+    },
+    {
+        "name": "KIDS BAMBOO TOOTH BRUSH (BLUE)",
+        "weight": null
+    },
+    {
+        "name": "KIDS BAMBOO TOOTH BRUSH( PINK)",
+        "weight": null
+    },
+    {
+        "name": "RED GUAVA (SIVAPPU KOYYA)",
+        "weight": null
+    },
+    {
+        "name": "CUCUMBER COUNTRY (NAATU VELLARI)",
+        "weight": null
+    },
+    {
+        "name": "ROASTED PEANUT (VARUTTHA NILAKADALAI)",
+        "weight": "100 GM"
+    },
+    {
+        "name": "SH : WHOLE WHEAT FLOUR (GOTHUMAI MAAVU)",
+        "weight": "1KG"
+    },
+    {
+        "name": "KUNGUMAM",
+        "weight": "30GM"
+    },
+    {
+        "name": "DHOOP ( )",
+        "weight": "40 GM"
+    },
+    {
+        "name": "BAMBOO TONGUE CLEANER",
+        "weight": null
+    },
+    {
+        "name": "BAMBOO TOOTH BRUSH ( BUY 2 GET 1)",
+        "weight": null
+    },
+    {
+        "name": "WHITE PUMPKIN (VELLAI POOSINI)",
+        "weight": null
+    },
+    {
+        "name": "RICE POHA (MAPILLAI SAMBA AVAL)",
+        "weight": "250GM"
+    },
+    {
+        "name": "TURMERIC POWDER  (MANJAL THOOL)",
+        "weight": "130 GM"
+    },
+    {
+        "name": "SMALL BEANS (KARAMANI)",
+        "weight": null
+    },
+    {
+        "name": "RAW TOMATO  (PACHA THAKKALI)",
+        "weight": null
+    },
+    {
+        "name": "TAMARIND  (PULI)",
+        "weight": "250G"
+    },
+    {
+        "name": "TAMARIND (PULI)",
+        "weight": "500G"
+    },
+    {
+        "name": "SANDALWOOD STONE  (SANDHANA KAL)",
+        "weight": null
+    },
+    {
+        "name": "WHEEL VADAGAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "NECTRAW (PADHANEER)  BOTTLE",
+        "weight": "200 ML"
+    },
+    {
+        "name": "NECTRAW (PADHANEER)  BOTTLE",
+        "weight": "300 ML"
+    },
+    {
+        "name": "MORINGA (MURUNGAI) NOODLES",
+        "weight": "190GM"
+    },
+    {
+        "name": "HORSE GRAM (KOLLU)",
+        "weight": "500GM"
+    },
+    {
+        "name": "MUFFINS",
+        "weight": null
+    },
+    {
+        "name": "BRIDEGROOM(MAPPILAISAMBA) BROWNIE",
+        "weight": null
+    },
+    {
+        "name": "MINICREAM BUN",
+        "weight": null
+    },
+    {
+        "name": "MINI MUFFINS",
+        "weight": null
+    },
+    {
+        "name": "COOKIES",
+        "weight": null
+    },
+    {
+        "name": "HOMEMADE ICE CREAM",
+        "weight": null
+    },
+    {
+        "name": "PANJAGAVIYA VILAKKU (KOVARSHINI)",
+        "weight": null
+    },
+    {
+        "name": "TENDER COCONUT  (ILA NEER)",
+        "weight": null
+    },
+    {
+        "name": "SUGARCANE JUICE (KARUMBU PAAL)",
+        "weight": null
+    },
+    {
+        "name": "NECTRAW (PADHANEER)  BOTTLE",
+        "weight": "1L"
+    },
+    {
+        "name": "GROUNDNUT (NAATU NILAKADALAI)",
+        "weight": "500G"
+    },
+    {
+        "name": "TINY PALM JAGGERY (KARUPATTI) (TINY BYTES)",
+        "weight": "100G"
+    },
+    {
+        "name": "MUSTARD OIL  (KADUGU ENNAI)",
+        "weight": "250 ML"
+    },
+    {
+        "name": "WHITE URAD DAL (MOTTU ULUNDHU) (RAINFALL YIELD)",
+        "weight": "500g"
+    },
+    {
+        "name": "MANVILAKKU (DESIGN)",
+        "weight": null
+    },
+    {
+        "name": "MILLET HEALTH MIX (SIRUTHAANIYA SATTHU MAAVU)",
+        "weight": "250GM"
+    },
+    {
+        "name": "HEALTH MIX (SATTHU MAAVU)",
+        "weight": "250G"
+    },
+    {
+        "name": "MILLET HEALTH MIX (SIRUTHAANIYA SATTHU MAAVU)",
+        "weight": "500G"
+    },
+    {
+        "name": "JUJUBE POWDER (ELANDHAI PODI)",
+        "weight": null
+    },
+    {
+        "name": "JUJUBE (ELANDHAI) SEED",
+        "weight": null
+    },
+    {
+        "name": "JUJUBE (ELANDHAVADAI )SEEDLESS",
+        "weight": null
+    },
+    {
+        "name": "PANEER BITTER GUARD (SIRU PAAVA KAI)",
+        "weight": null
+    },
+    {
+        "name": "COCO NECTAR :",
+        "weight": "1L"
+    },
+    {
+        "name": "NECT RAW",
+        "weight": null
+    },
+    {
+        "name": "WHEAT NOODLES",
+        "weight": "175 G"
+    },
+    {
+        "name": "BRIDGE GROOM NOODLES",
+        "weight": "180 G"
+    },
+    {
+        "name": "HORSE GRAM NOODLES",
+        "weight": "180 GM"
+    },
+    {
+        "name": "BLACK RICE NOODLES",
+        "weight": "180G"
+    },
+    {
+        "name": "LITTLE MILLET NOODLES",
+        "weight": "180 G"
+    },
+    {
+        "name": "SUGARCANE JUICE (KARUMBU PAAL) POT DINE IN",
+        "weight": null
+    },
+    {
+        "name": "KAIKUTHAL RAW RICE",
+        "weight": null
+    },
+    {
+        "name": "NECTRAW (PADHANEER) POT",
+        "weight": "90 ML"
+    },
+    {
+        "name": "Ginger candy",
+        "weight": null
+    },
+    {
+        "name": "COCONUT JAGGERY BALLS",
+        "weight": "100G"
+    },
+    {
+        "name": "PEANUT CANDY (GRINDED)",
+        "weight": "100G"
+    },
+    {
+        "name": "BLACK SESAME BALLS ()",
+        "weight": "100G"
+    },
+    {
+        "name": "WHITE SESAME BALLS",
+        "weight": "100G"
+    },
+    {
+        "name": "GROUNDNUT BALLS",
+        "weight": "100G"
+    },
+    {
+        "name": "SAYAN DATES BLACK",
+        "weight": null
+    },
+    {
+        "name": "COTTON SEED MILK",
+        "weight": "150G"
+    },
+    {
+        "name": "BLACK RAISIN SEEDLESS",
+        "weight": "100G"
+    },
+    {
+        "name": "PEARL MILLET (KAMBU) SEMIYA",
+        "weight": "180G"
+    },
+    {
+        "name": "MULTI MILLET VERMICELLI",
+        "weight": "180GM"
+    },
+    {
+        "name": "RED RICE VERMICELLI",
+        "weight": "180 GM"
+    },
+    {
+        "name": "BUTTER UNSALTED",
+        "weight": "200G"
+    },
+    {
+        "name": "TABLE BUTTER (SALTED)",
+        "weight": "100G"
+    },
+    {
+        "name": "JAGGERY POWDER",
+        "weight": "500G"
+    },
+    {
+        "name": "KHANDSARI SUGAR",
+        "weight": "500G"
+    },
+    {
+        "name": "MOS RELIEF VAPORIZER",
+        "weight": null
+    },
+    {
+        "name": "KASHMIRI MILAGAI",
+        "weight": "100G"
+    },
+    {
+        "name": "OMAM",
+        "weight": "100GM"
+    },
+    {
+        "name": "MUSTARD HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "ACACIA HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "SESAME HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "SUNFLOWER HONEY",
+        "weight": "350 GM"
+    },
+    {
+        "name": "BERRY HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "ROSE WOOD HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "LITCHI HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "FOREST HONEY",
+        "weight": "150 GM"
+    },
+    {
+        "name": "RATHASAALI MURUKKU",
+        "weight": "200G"
+    },
+    {
+        "name": "MADU MULZHUINGI MURUKKU",
+        "weight": "250 GM"
+    },
+    {
+        "name": "THAMARAI THIRI",
+        "weight": null
+    },
+    {
+        "name": "GREEN THIRI",
+        "weight": null
+    },
+    {
+        "name": "WHITE THIRI",
+        "weight": null
+    },
+    {
+        "name": "BIG BUN ROUND",
+        "weight": null
+    },
+    {
+        "name": "BIG BUN LONG",
+        "weight": null
+    },
+    {
+        "name": "BREAD BIG (SLICES)",
+        "weight": null
+    },
+    {
+        "name": "BREAD SLICES (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "AYURVEDIC ANT REPELLENT ()",
+        "weight": "200ML"
+    },
+    {
+        "name": "AYURVEDIC RAT REPELLENT (()",
+        "weight": "200ML"
+    },
+    {
+        "name": "HERBAL MOSQUITO VAPOURIZER",
+        "weight": null
+    },
+    {
+        "name": "HERBAL ANT REPELLENT",
+        "weight": null
+    },
+    {
+        "name": "AYURVEDIC MOSQUITO REPELLENT ROOM SPRAY",
+        "weight": null
+    },
+    {
+        "name": "HERBAL LIZARD REPELLENT",
+        "weight": "100ML"
+    },
+    {
+        "name": "HERBAL TERMITE REPELLENT",
+        "weight": null
+    },
+    {
+        "name": "HERBAL ROOM DISINFECTANT (LEMON)",
+        "weight": null
+    },
+    {
+        "name": "WHITE PEPPER",
+        "weight": "50 GM"
+    },
+    {
+        "name": "WHITE CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "SAMAI FLOUR",
+        "weight": "250G"
+    },
+    {
+        "name": "KULASAMAI FLOUR",
+        "weight": "250G"
+    },
+    {
+        "name": "VELLAI SOLA FLOUR",
+        "weight": "250G"
+    },
+    {
+        "name": "THUVARAI PARUPPU",
+        "weight": null
+    },
+    {
+        "name": "SUNDAKAI",
+        "weight": null
+    },
+    {
+        "name": "WHEAT BREAD (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "WHEAT BREAD (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "WHEAT BREAD (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "WHEAT (GOTHUMAI) MILLET PASTA",
+        "weight": "180GM"
+    },
+    {
+        "name": "YOLO EGGS",
+        "weight": null
+    },
+    {
+        "name": "YOLO EGGS ( FREE)",
+        "weight": null
+    },
+    {
+        "name": "KARUPPU KAVUNI LADOO",
+        "weight": "300G"
+    },
+    {
+        "name": "KAMBU LADOO",
+        "weight": "300G"
+    },
+    {
+        "name": "PAASI PARUPPU LADOO",
+        "weight": "300G"
+    },
+    {
+        "name": "SESAME LADOO",
+        "weight": "150 GM"
+    },
+    {
+        "name": "THINAI LADOO",
+        "weight": "300G"
+    },
+    {
+        "name": "RAVA BREAD (BIG)",
+        "weight": null
+    },
+    {
+        "name": "RAVA BUN ( ROUND)",
+        "weight": null
+    },
+    {
+        "name": "RAVA BUN (LONG)",
+        "weight": null
+    },
+    {
+        "name": "WHEAT BREAD (BIG)",
+        "weight": null
+    },
+    {
+        "name": "RAVA BREAD (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "GROUNDNUT BALLS",
+        "weight": "100G"
+    },
+    {
+        "name": "SPICY MASALA GROUNDNUT",
+        "weight": "200 GM"
+    },
+    {
+        "name": "MAPILLAI SAMBA BROWNIE ()",
+        "weight": "250G"
+    },
+    {
+        "name": "NATTU PALAM",
+        "weight": null
+    },
+    {
+        "name": "THUVARAI",
+        "weight": null
+    },
+    {
+        "name": "HAND POUNDED RICE NOODLES ()",
+        "weight": "180G"
+    },
+    {
+        "name": "LEMON GRASS ESSENTIAL OIL ()",
+        "weight": "15ML"
+    },
+    {
+        "name": "NAATHANGAI",
+        "weight": null
+    },
+    {
+        "name": "MARUTHANI",
+        "weight": null
+    },
+    {
+        "name": "PAPAYA CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "MILK AND COCOA CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "DARK WITH NUTS CHOCOLATE",
+        "weight": null
+    },
+    {
+        "name": "KHANDSARI SUGAR ()",
+        "weight": "1KG"
+    },
+    {
+        "name": "WHEAT DALIYA (()",
+        "weight": "500G"
+    },
+    {
+        "name": "RED POHA (SH) ()",
+        "weight": "500G"
+    },
+    {
+        "name": "SH : WHITE POHA ()",
+        "weight": "500G"
+    },
+    {
+        "name": "ONION THOKKU ()",
+        "weight": "200G"
+    },
+    {
+        "name": "VALLARAI THOKKU ()",
+        "weight": "200G"
+    },
+    {
+        "name": "HOME MADE CHOCOLATES",
+        "weight": null
+    },
+    {
+        "name": "PAASI PARUPPU ()",
+        "weight": "250G"
+    },
+    {
+        "name": "Purple Cabbage",
+        "weight": null
+    },
+    {
+        "name": "MAKKA CHOLA KURUNAI ()",
+        "weight": "500g"
+    },
+    {
+        "name": "WHITE PEPPER POWDER ()",
+        "weight": "100G"
+    },
+    {
+        "name": "GROUNDNUT OIL (5 LITRE)",
+        "weight": null
+    },
+    {
+        "name": "PANNER GRAPES",
+        "weight": null
+    },
+    {
+        "name": "SPRING ONION",
+        "weight": null
+    },
+    {
+        "name": "CROWN DATES BLACK DATES (Unpacked)",
+        "weight": null
+    },
+    {
+        "name": "WHEAT ROUND BUN ()",
+        "weight": "80G"
+    },
+    {
+        "name": "RAVA BREAD (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "BREAD MULTI GRAIN",
+        "weight": null
+    },
+    {
+        "name": "BREAD WHOLE WHEAT",
+        "weight": null
+    },
+    {
+        "name": "EGG WHITE 6ps Eggs",
+        "weight": null
+    },
+    {
+        "name": "GOAT MILK SOAP ()",
+        "weight": "100G"
+    },
+    {
+        "name": "ROYAL UBTAN POWDER ()",
+        "weight": "100GM"
+    },
+    {
+        "name": "KIDS TOOTH BRUSH (A)",
+        "weight": null
+    },
+    {
+        "name": "BOYS BATHING POWDER ()",
+        "weight": "50GM"
+    },
+    {
+        "name": "WHEAT BUN (LONG)",
+        "weight": null
+    },
+    {
+        "name": "RAW GREENPEAS",
+        "weight": null
+    },
+    {
+        "name": "RAGI FLOUR ()",
+        "weight": "1 KG"
+    },
+    {
+        "name": "GROUNDNUT( NILAKADALAI) ()",
+        "weight": "500GM"
+    },
+    {
+        "name": "ROASTED & SALTED PISTACHIOS ()",
+        "weight": "100G"
+    },
+    {
+        "name": "THRIPALA POWDER ()",
+        "weight": "50GM"
+    },
+    {
+        "name": "KUPPAIMENI POWDER ()",
+        "weight": "50GM"
+    },
+    {
+        "name": "GARLIC PICKLE ()",
+        "weight": "200 gm"
+    },
+    {
+        "name": "KARUPPU KAVUNI RICE KANJI MIX ()",
+        "weight": "250G"
+    },
+    {
+        "name": "CHRISTMAS MAT CAKE",
+        "weight": null
+    },
+    {
+        "name": "CHRISTMAS CAKE SMALL (JOWAR)",
+        "weight": null
+    },
+    {
+        "name": "PAASI PAYIRU",
+        "weight": "500 GM"
+    },
+    {
+        "name": "CURRY MASALA ()",
+        "weight": "150 GM"
+    },
+    {
+        "name": "PEARL MILLET DOSA MIX (600 GMS)",
+        "weight": null
+    },
+    {
+        "name": "FINGER MILLET IDLY & DOSA BATTER (600GMS)",
+        "weight": null
+    },
+    {
+        "name": "BARNYARD MILLET IDLY & DOSA BATTER (600GMS)",
+        "weight": null
+    },
+    {
+        "name": "PEANUT SWEET BAR",
+        "weight": null
+    },
+    {
+        "name": "NAATU NILAKADALAI BALLS ()",
+        "weight": "150GM"
+    },
+    {
+        "name": "NAATU NILAKADALAI BALLS ()",
+        "weight": "300GM"
+    },
+    {
+        "name": "RAGI FRUIT CAKE (MINI)",
+        "weight": null
+    },
+    {
+        "name": "RAGI FRUIT CAKE (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "ATHIRASAM",
+        "weight": "150 GM"
+    },
+    {
+        "name": "PAASI PARUPPU URUNDAI ()",
+        "weight": "150GM"
+    },
+    {
+        "name": "TN ROSE RICE",
+        "weight": null
+    },
+    {
+        "name": "AK DOSA BATTER ()",
+        "weight": "750 GM"
+    },
+    {
+        "name": "RASTHALI BANANA",
+        "weight": null
+    },
+    {
+        "name": "RATHASALI RICE",
+        "weight": "1 KG"
+    },
+    {
+        "name": "BROWN EGGS (6) PIECES BOX",
+        "weight": null
+    },
+    {
+        "name": "lemon pickle",
+        "weight": "200gm"
+    },
+    {
+        "name": "dhanyam batter",
+        "weight": "1 kg"
+    },
+    {
+        "name": "ATHIRASAM",
+        "weight": "300 GM"
+    },
+    {
+        "name": "nectraw (justin)",
+        "weight": null
+    },
+    {
+        "name": "NAATU GROUNDNUT OIL",
+        "weight": "1L"
+    },
+    {
+        "name": "GREEN SEED PENCIL",
+        "weight": null
+    },
+    {
+        "name": "NEWS PAPER SEED PENCIL",
+        "weight": null
+    },
+    {
+        "name": "SEED PEN",
+        "weight": null
+    },
+    {
+        "name": "THOOYAMALLI AVUL LADOO",
+        "weight": "150 GM"
+    },
+    {
+        "name": "KULAMBU MILAGAI THOOL",
+        "weight": "150 GM"
+    },
+    {
+        "name": "PANA KELANGU",
+        "weight": null
+    },
+    {
+        "name": "CURRY LEAVES",
+        "weight": null
+    },
+    {
+        "name": "POONGAR POHA (POONGAR RICE AVAL)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "VARA MILAGAI",
+        "weight": "100 GM"
+    },
+    {
+        "name": "MORINGA SERUM ()",
+        "weight": "100 ML"
+    },
+    {
+        "name": "ABC MALT",
+        "weight": null
+    },
+    {
+        "name": "SHIKAKAI POWDER",
+        "weight": "200 GM"
+    },
+    {
+        "name": "KOVARSHINI MOSQUITO STICKS",
+        "weight": null
+    },
+    {
+        "name": "KOVARSHINI NATURAL SHAMPOO",
+        "weight": "180 ML"
+    },
+    {
+        "name": "RED CHILLI VADAGAM",
+        "weight": "100 GM"
+    },
+    {
+        "name": "37",
+        "weight": null
+    },
+    {
+        "name": "KADALAI PARUPPU (RAINFALL YIELD)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "PAASI PARUPPU (NAATU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "BASKET",
+        "weight": null
+    },
+    {
+        "name": "BASKET WITH HANDLE (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "BASKET WITH HANDLE(MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "FRUIT BASKET",
+        "weight": null
+    },
+    {
+        "name": "PLATES (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "PLATES (LARGE)",
+        "weight": null
+    },
+    {
+        "name": "OPEN BASKET (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "OPEN BASKET (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "OPEN BASKET (LARGE)",
+        "weight": null
+    },
+    {
+        "name": "DESIGNER BASKET (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "DESIGNER BASKET (MEDIUM)",
+        "weight": null
+    },
+    {
+        "name": "LAUNDRY BASKET (SMALL)",
+        "weight": null
+    },
+    {
+        "name": "LAUNDRY BASKET (LARGE)",
+        "weight": null
+    },
+    {
+        "name": "COLOR DESIGNER BASKET",
+        "weight": null
+    },
+    {
+        "name": "KARUPPU KAVUNI LADOO",
+        "weight": "150 GM"
+    },
+    {
+        "name": "SESAME LADOO",
+        "weight": "300 GM"
+    },
+    {
+        "name": "KAMBU LADOO",
+        "weight": "150 GM"
+    },
+    {
+        "name": "FRUITS GIFT BASKET",
+        "weight": null
+    },
+    {
+        "name": "FIG IDLY PODI MIX ()",
+        "weight": "100G"
+    },
+    {
+        "name": "KATTUYANAM AVUL",
+        "weight": "250 GM"
+    },
+    {
+        "name": "RAGI",
+        "weight": "500 GM"
+    },
+    {
+        "name": "BEE POLLEN",
+        "weight": "100 GM"
+    },
+    {
+        "name": "mudavatukal kelangu",
+        "weight": null
+    },
+    {
+        "name": "ABC MALT ( FARM2BAG)",
+        "weight": "200 GM"
+    },
+    {
+        "name": "RAGI LADOO",
+        "weight": "150 GM"
+    },
+    {
+        "name": "SONA MASURI RICE",
+        "weight": null
+    },
+    {
+        "name": "RAGI LADOO",
+        "weight": "300 GM"
+    },
+    {
+        "name": "MAKKA CHOLA RAVA",
+        "weight": "250 GM"
+    },
+    {
+        "name": "MAPILLAI SAMBA AVAL MIXER (250M)",
+        "weight": null
+    },
+    {
+        "name": "CARDAMOM (ORGANIC)",
+        "weight": "25 GM"
+    },
+    {
+        "name": "NILAKADALAI (RAIN FALL YIELD)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "NILAKADALAI RAINFALL YIELD ()",
+        "weight": "500GM"
+    },
+    {
+        "name": "MOTTU ULUNTHU RAINFALL YIELD ()",
+        "weight": "1KG"
+    },
+    {
+        "name": "CLOVE",
+        "weight": "25 GM"
+    },
+    {
+        "name": "BLACK RAISIN SEEDLESS ( )",
+        "weight": "250GM"
+    },
+    {
+        "name": "SOUP",
+        "weight": null
+    },
+    {
+        "name": "THUVARAM PARUPPU (  )",
+        "weight": "1KG"
+    },
+    {
+        "name": "WHITE JOWAR BROWNIE",
+        "weight": null
+    },
+    {
+        "name": "BROWN RICE FLAKES ( )",
+        "weight": "250G"
+    },
+    {
+        "name": "PALM  JAGGERY MACROON",
+        "weight": "75G"
+    },
+    {
+        "name": "PALM JAGGERY POWDER (P.E)",
+        "weight": "350 G"
+    },
+    {
+        "name": "PALM SPROUTS POWDER",
+        "weight": "350 GM"
+    },
+    {
+        "name": "NILAKADALAI (NAATU)",
+        "weight": "250 GM"
+    },
+    {
+        "name": "PAASI PARUPPU (ROASTED & STONE GRINDED)",
+        "weight": "500 GM"
+    },
+    {
+        "name": "ROASTED PEANUT (  )",
+        "weight": "250 GM"
+    },
+    {
+        "name": "INIPPU SEEDAI",
+        "weight": "250GM"
+    },
+    {
+        "name": "THANGA SAMBA AVAL",
+        "weight": "250 GM"
+    },
+    {
+        "name": "INDIAN MALTA ORANGE",
+        "weight": null
+    }
+]

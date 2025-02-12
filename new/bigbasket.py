@@ -15,14 +15,6 @@ def setup_driver():
     driver = webdriver.Firefox(options=firefox_options)
     return driver
 
-def extract_category_from_url(url):
-    """Extract product category from BigBasket URL."""
-    try:
-        category = url.split('/cl/')[1].split('/')[0]
-        return category
-    except Exception:
-        return "Unknown"
-
 def get_product_image(card):
     """Extract high-quality product image URL."""
     try:
@@ -115,7 +107,7 @@ def scrape_bigbasket_products(urls):
         for name in urls:
             url = generate_bigbasket_url(name)
             print(f"Scraping: {url}")
-            category = extract_category_from_url(url)
+            category = name
             driver.get(url)
             
             # Wait for product elements to load
@@ -194,16 +186,17 @@ def process_scraping(urls, output_file):
 
 def main():
     try:
-        with open('new/product_names.json', 'r') as f:
-            category_links = json.load(f)
+        with open('new/product_links/product_details.json', 'r') as f:
+            category = json.load(f)
+            category_links = [item["name"] for item in category]
     except Exception as e:
         print(f"Failed to load category links: {e}")
         return
 
     # Limit categories for testing
-    category_links = category_links[:2]
+    category_links = category_links[:1]
 
-    num_processes = 2
+    num_processes = 1
     chunk_size = max(1, len(category_links) // num_processes)
     chunks = [category_links[i:i + chunk_size] for i in range(0, len(category_links), chunk_size)]
 
@@ -223,7 +216,7 @@ def main():
         p.join()
 
     all_products = [product for sublist in results_list for product in sublist]
-    output_file = 'new/big_products.json'
+    output_file = 'new/frontend/public/big_products.json'
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(all_products, f, ensure_ascii=False, indent=2)

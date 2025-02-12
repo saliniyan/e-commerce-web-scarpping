@@ -41,8 +41,8 @@ def scrape_blinkit_products(urls, shared_products):
     """Scrapes products and appends to shared list."""
     driver = setup_driver()
     try:
-        for url in urls:
-            url = convert_to_blinkit_search_url(url)
+        for names in urls:
+            url = convert_to_blinkit_search_url(names)
             print(f"Scraping: {url}")
             driver.get(url)
             
@@ -57,6 +57,7 @@ def scrape_blinkit_products(urls, shared_products):
 
             for card in product_cards:
                 try:
+                    category = names
                     product_url = card.get_attribute('href')
                     image_url = get_high_quality_image(card)
                     name = card.find_element(By.CLASS_NAME, "Product__UpdatedTitle-sc-11dk8zk-9").text
@@ -89,6 +90,7 @@ def scrape_blinkit_products(urls, shared_products):
                     in_stock = 'No' if out_of_stock else 'Yes'
 
                     product = {
+                        'category': category,
                         'name': name,
                         'image_url': image_url,
                         'product_url': product_url,
@@ -117,16 +119,17 @@ def process_scraping(urls, shared_products):
 
 def main():
     try:
-        with open('new/product_names.json', 'r') as f:
-            category_links = json.load(f)
+        with open('new/product_links/product_details.json', 'r') as f:
+            category = json.load(f)
+            category_links = [item["name"] for item in category]
     except Exception as e:
         print(f"Failed to load category links: {e}")
         return
 
     # Limit the number of categories to scrape for testing
-    category_links = category_links[:4]
+    category_links = category_links[:1]
 
-    num_processes = 2  # Adjust based on system capabilities
+    num_processes = 1  # Adjust based on system capabilities
     manager = multiprocessing.Manager()
     shared_products = manager.list()
 
@@ -143,10 +146,10 @@ def main():
         p.join()
 
     # Save all scraped products to one file
-    with open('new/blinkit_products.json', 'w', encoding='utf-8') as f:
+    with open('new/frontend/public/blinkit_products.json', 'w', encoding='utf-8') as f: 
         json.dump(list(shared_products), f, ensure_ascii=False, indent=2)
 
-    print(f"All products saved to 'new/blinkit_products.json'")
+    print(f"All products saved to 'new/frontend/public/blinkit_products.json'")
 
 if __name__ == "__main__":
     main()
