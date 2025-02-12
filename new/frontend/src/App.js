@@ -1,50 +1,11 @@
+// App.js
 import React, { useState, useEffect } from "react";
 import "./App.css";
-
-const ProductGrid = ({ products }) => {
-  return (
-    <div className="product-grid">
-      {products.map((product, index) => (
-        <div key={index} className="product-card">
-          <div className="product-content">
-            {product.image && (
-              <img src={product.image} alt={product.title} className="product-image" />
-            )}
-            <h3 className="product-title">{product.title}</h3>
-            {product.source === "Blinkit" ? (
-              <>
-                <p className="product-detail"><span className="label">Category:</span> {product.category}</p>
-                <p className="product-detail"><span className="label">Weight:</span> {product.weight}</p>
-              </>
-            ) : product.source === "BigBasket" ? (
-              <>
-                <p className="product-detail"><span className="label">Category:</span> {product.category}</p>
-                <p className="product-detail"><span className="label">Brand:</span> {product.brand}</p>
-                <p className="product-detail"><span className="label">Pack Size:</span> {product.pack_size}</p>
-              </>
-            ) : product.source === "Swiggy" ? (
-              <>
-                <p className="product-detail"><span className="label">Rating:</span> {product.rating}</p>
-                <p className="product-detail"><span className="label">Cuisine:</span> {product.cuisine}</p>
-                <p className="product-detail"><span className="label">Location:</span> {product.location}</p>
-              </>
-            ) : null}
-            <p className="product-detail"><span className="label">Price:</span> {product.price}</p>
-            {product.old_price && <p className="product-detail"><span className="label">Old Price:</span> {product.old_price}</p>}
-            {product.discount && <p className="product-detail"><span className="label">Discount:</span> {product.discount}</p>}
-            <p className="product-detail"><span className="label">In Stock:</span> {product.in_stock}</p>
-            {product.product_url && (
-              <p className="product-detail">
-                <a href={product.product_url} target="_blank" rel="noopener noreferrer">View Product</a>
-              </p>
-            )}
-            <p className="product-detail source"><span className="label">Source:</span> {product.source}</p>
-          </div>
-        </div>
-      ))}
-    </div>
-  );
-};
+import Blinkit from "./components/Blinkit";
+import BigBasket from "./components/BigBasket";
+import Zepto from "./components/Zepto";
+import Swiggy from "./components/Swiggy";
+import Search from "./components/Search";
 
 const App = () => {
   const [searchQuery, setSearchQuery] = useState("");
@@ -67,9 +28,14 @@ const App = () => {
         file: "/zepto_products.json",
         transform: (product) => ({
           title: product.name || "Unknown Product",
+          category: product.category || "N/A",
           price: product.price || "Not Available",
+          quantity: product.quantity || "N/A",
+          original_price: product.original_price || "N/A",
           discount: product.discount || "No discount",
+          in_stock: product.in_stock || "Unknown",
           image: product.image_url || "",
+          product_url: product.product_link || "",
           source: "Zepto"
         })
       },
@@ -85,21 +51,9 @@ const App = () => {
           discount: product.discount || "No discount",
           in_stock: product.in_stock || "Unknown",
           image: product.image_url || "",
-          source: "Blinkit",
           product_url: product.product_url || "",
+          source: "Blinkit"
         }),
-      },
-      { 
-        name: "Swiggy", 
-        file: "/swiggy_restaurants.json",
-        transform: (product) => ({
-          title: product.Name || product.title || "Unknown Restaurant",
-          rating: product.Rating || "",
-          cuisine: product.Cuisine || "",
-          location: product.Location || "",
-          image: product['Image URL'] || "",
-          source: "Swiggy"
-        })
       },
       { 
         name: "BigBasket", 
@@ -116,6 +70,7 @@ const App = () => {
           rating: product.rating || "No rating",
           review_count: product.review_count || "No reviews",
           image: product.image_url || "",
+          special_offer: product.special_offer || null,
           source: "BigBasket",
           product_url: product.product_url || "",
         })
@@ -145,18 +100,58 @@ const App = () => {
 
   useEffect(() => { fetchData(); }, []);
 
-  const getFilteredProducts = (source) => productData.filter(product => product.source === source);
-  const getSearchResults = () => productData.filter(product => product.title.toLowerCase().includes(searchQuery.toLowerCase()));
+  const handleSearch = (event) => {
+    setSearchQuery(event.target.value);
+    if (activeTab !== "search") {
+      setActiveTab("search");
+    }
+  };
+
+  const renderActiveComponent = () => {
+    if (isLoading) return <div className="loading">Loading products...</div>;
+
+    switch (activeTab) {
+      case "zepto":
+        return <Zepto products={productData} />;
+      case "blinkit":
+        return <Blinkit products={productData} />;
+      case "bigbasket":
+        return <BigBasket products={productData} />;
+      case "swiggy":
+        return <Swiggy products={productData} />;
+      case "search":
+        return <Search products={productData} searchQuery={searchQuery} />;
+      default:
+        return null;
+    }
+  };
 
   return (
     <div className="container">
       <h1 className="main-title">Price Comparison</h1>
+      <div className="search-box">
+        <input
+          type="text"
+          placeholder="Search products..."
+          value={searchQuery}
+          onChange={handleSearch}
+          className="search-input"
+        />
+      </div>
       <div className="layout">
         <div className="tabs-container">
-          {tabs.map(tab => <button key={tab.id} onClick={() => setActiveTab(tab.id)} className={`tab ${activeTab === tab.id ? 'active' : ''}`}>{tab.label}</button>)}
+          {tabs.map(tab => (
+            <button
+              key={tab.id}
+              onClick={() => setActiveTab(tab.id)}
+              className={`tab ${activeTab === tab.id ? 'active' : ''}`}
+            >
+              {tab.label}
+            </button>
+          ))}
         </div>
         <div className="content-area">
-          {isLoading ? <div className="loading">Loading products...</div> : activeTab === "search" ? <ProductGrid products={getSearchResults()} /> : <ProductGrid products={getFilteredProducts(tabs.find(tab => tab.id === activeTab)?.label)} />}
+          {renderActiveComponent()}
         </div>
       </div>
     </div>
