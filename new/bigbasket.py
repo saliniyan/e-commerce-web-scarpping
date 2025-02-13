@@ -84,54 +84,65 @@ def scrape_bigbasket_products(urls):
 
     try:
         for name in urls:
-            driver.get(generate_bigbasket_url(name))
-            print(f"scraping: {name}")
-            WebDriverWait(driver, 15).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "SKUDeck___StyledDiv-sc-1e5d9gk-0"))
-            )
+            try:
+                driver.get(generate_bigbasket_url(name))
+                print(f"Scraping: {name}")
 
-            scroll_to_load_products(driver)
-            product_cards = driver.find_elements(By.CLASS_NAME, "SKUDeck___StyledDiv-sc-1e5d9gk-0")
+                # Wait for product cards to load
+                WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "SKUDeck___StyledDiv-sc-1e5d9gk-0"))
+                )
 
-            for card in product_cards:
-                try:
-                    new_price, old_price = extract_price_info(card)
-                    product = {
-                        'category': name,
-                        'brand': card.find_element(By.CLASS_NAME, "BrandName___StyledLabel2-sc-hssfrl-1").text,
-                        'name': card.find_element(By.CSS_SELECTOR, "h3.line-clamp-2").text,
-                        'image_url': get_product_image(card),
-                        'in_stock': get_stock_status(card),
-                        'new_price': new_price,
-                        'old_price': old_price,
-                        'discount': extract_discount(card),
-                        'pack_size': None,
-                        'special_offer': None,
-                        'product_url': None
-                    }
+                scroll_to_load_products(driver)
+                product_cards = driver.find_elements(By.CLASS_NAME, "SKUDeck___StyledDiv-sc-1e5d9gk-0")
 
+                if not product_cards:  # No products found
+                    print(f"Not Found: {name}")
+                    continue  # Skip to the next category
+
+                for card in product_cards:
                     try:
-                        product['product_url'] = card.find_element(By.TAG_NAME, "a").get_attribute("href")
-                    except:
-                        pass
+                        new_price, old_price = extract_price_info(card)
+                        product = {
+                            'category': name,
+                            'brand': card.find_element(By.CLASS_NAME, "BrandName___StyledLabel2-sc-hssfrl-1").text,
+                            'name': card.find_element(By.CSS_SELECTOR, "h3.line-clamp-2").text,
+                            'image_url': get_product_image(card),
+                            'in_stock': get_stock_status(card),
+                            'new_price': new_price,
+                            'old_price': old_price,
+                            'discount': extract_discount(card),
+                            'pack_size': None,
+                            'special_offer': None,
+                            'product_url': None
+                        }
 
-                    try:
-                        product['pack_size'] = card.find_element(By.CLASS_NAME, "PackSelector___StyledLabel-sc-1lmu4hv-0").text.strip()
-                    except:
-                        pass
+                        try:
+                            product['product_url'] = card.find_element(By.TAG_NAME, "a").get_attribute("href")
+                        except:
+                            pass
 
-                    try:
-                        product['special_offer'] = card.find_element(By.CLASS_NAME, "OfferCommunication___StyledDiv-sc-zgmi5i-0").text.strip()
-                    except:
-                        pass
+                        try:
+                            product['pack_size'] = card.find_element(By.CLASS_NAME, "PackSelector___StyledLabel-sc-1lmu4hv-0").text.strip()
+                        except:
+                            pass
 
-                    product.update(get_ratings_info(card))
-                    products.append(product)
+                        try:
+                            product['special_offer'] = card.find_element(By.CLASS_NAME, "OfferCommunication___StyledDiv-sc-zgmi5i-0").text.strip()
+                        except:
+                            pass
 
-                except:
-                    pass  # Skip product if error occurs
-    except:
-        pass  # Skip category if error occurs
+                        product.update(get_ratings_info(card))
+                        products.append(product)
+
+                    except Exception as e:
+                        print(f"Skipping product due to Not loaded")
+
+            except Exception as e:
+                print(f"Not Found: {name}")  # Print Not Found if link doesn't work
+
+    except Exception as e:
+        pass
     finally:
         driver.quit()
 
@@ -151,7 +162,7 @@ def main():
     except:
         return
 
-    category_links = category_links[:100]
+    category_links = category_links[:200]
     num_processes = 3
     chunk_size = max(1, len(category_links) // num_processes)
     chunks = [category_links[i:i + chunk_size] for i in range(0, len(category_links), chunk_size)]
