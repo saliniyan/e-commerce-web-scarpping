@@ -58,14 +58,17 @@ def extract_discount(card):
         return "No discount"
 
 def scroll_to_load_products(driver):
-    last_height = driver.execute_script("return document.body.scrollHeight")
+    """Scroll dynamically to load all products."""
+    previous_height = 0
     while True:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(1)
-        new_height = driver.execute_script("return document.body.scrollHeight")
-        if new_height == last_height:
+        product_cards = driver.find_elements(By.CLASS_NAME, "SKUDeck___StyledDiv-sc-1e5d9gk-0")
+        if not product_cards:
             break
-        last_height = new_height
+        driver.execute_script("arguments[0].scrollIntoView();", product_cards[-1])
+        time.sleep(2)
+        if len(product_cards) == previous_height:
+            break
+        previous_height = len(product_cards)
 
 def scrape_bigbasket_products(urls):
     driver = setup_driver()
@@ -160,8 +163,8 @@ def main():
     except:
         return
 
-    category_links = category_links[200:400]
-    output_file = 'new/big_products.json'
+    category_links = category_links[:4]
+    output_file = 'new/big_products1.json'
 
     num_processes = 3
     chunk_size = max(1, len(category_links) // num_processes)
