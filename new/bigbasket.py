@@ -158,15 +158,15 @@ def scrape_wrapper(chunk):
 
 def main():
     try:
-        with open('new/product_links/product_details.json', 'r') as f:
+        with open('/home/vishnu/Music/e-commerce-web-scarpping/new/product_links/product_details.json', 'r') as f:
             category_links = [item["name"] for item in json.load(f)]
     except:
         return
 
-    category_links = category_links[:4]
-    output_file = 'new/big_products.json'
+    category_links = category_links[1000:1180]
+    output_file = '/home/vishnu/Music/e-commerce-web-scarpping/new/big_products.json'
 
-    num_processes = 3
+    num_processes = 6
     chunk_size = max(1, len(category_links) // num_processes)
     chunks = [category_links[i:i + chunk_size] for i in range(0, len(category_links), chunk_size)]
 
