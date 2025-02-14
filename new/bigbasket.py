@@ -93,7 +93,7 @@ def scrape_bigbasket_products(urls):
                 if not product_cards:
                     continue
 
-                for card in product_cards[:20]:
+                for card in product_cards[:40]:
                     try:
                         new_price, old_price = extract_price_info(card)
                         product = {
@@ -164,7 +164,7 @@ def main():
         return
 
     category_links = category_links[:4]
-    output_file = 'new/big_products1.json'
+    output_file = 'new/big_products.json'
 
     num_processes = 3
     chunk_size = max(1, len(category_links) // num_processes)
