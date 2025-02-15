@@ -1,5 +1,8 @@
+from flask import Flask, request, jsonify
 import multiprocessing
 import subprocess
+
+app = Flask(__name__)
 
 def run_scraper(script, product_name):
     """Run a scraper script as a subprocess."""
@@ -8,19 +11,33 @@ def run_scraper(script, product_name):
     except subprocess.CalledProcessError as e:
         print(f"Error running {script}: {e}")
 
-if __name__ == "__main__":
-    product_name = input("Enter the product name you want to scrape: ")
+@app.route('/scrape', methods=['POST'])
+def scrape_product():
+    """API to trigger scraping for a given product name."""
+    data = request.get_json()
+    if not data or "product_name" not in data:
+        return jsonify({"error": "Missing 'product_name' in request"}), 400
+
+    product_name = data["product_name"]
 
     # Define scraper scripts
     scripts = [
         "new/search/bigbasket.py",
         "new/search/blinkit.py",
         "new/search/swiggy.py",
+        "new/search/zepto.py"  # Added Zepto scraper
     ]
 
-    # Create a pool of workers
-    with multiprocessing.Pool(processes=len(scripts)) as pool:
-        # Map the scraper function to the list of scripts
-        pool.starmap(run_scraper, [(script, product_name) for script in scripts])
+    # Create and start processes
+    processes = [multiprocessing.Process(target=run_scraper, args=(script, product_name)) for script in scripts]
 
-    print(f"Scraping completed for '{product_name}' across all platforms!")
+    for p in processes:
+        p.start()
+
+    for p in processes:
+        p.join()
+
+    return jsonify({"message": f"Scraping completed for '{product_name}' across all platforms!"})
+
+if __name__ == '__main__':
+    app.run(debug=True, port=5000)
