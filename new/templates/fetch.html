@@ -4,66 +4,185 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scraped Data Viewer</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
         }
+
         h1, h2 {
+            font-family: 'Arial', sans-serif;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
             text-align: center;
+            margin-top: 20px;
+            color: #3498db;
         }
-        form {
+
+        h2 {
+            font-size: 1.5rem;
             text-align: center;
-            margin-bottom: 20px;
+            margin-top: 10px;
+            color: #16a085;
         }
-        select, button {
-            padding: 10px;
-            margin: 5px;
-        }
+
         .container {
             width: 80%;
+            max-width: 1200px;
             margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px gray;
+            padding: 30px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
         }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+        }
+
+        select, button {
+            font-size: 1rem;
+            padding: 12px;
+            margin: 10px 0;
+            width: 250px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #ecf0f1;
+            outline: none;
+            transition: 0.3s ease;
+        }
+
+        select:focus, button:focus {
+            border-color: #3498db;
+            box-shadow: 0 0 10px rgba(52, 152, 219, 0.3);
+        }
+
+        button {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
         .product-list {
             list-style: none;
             padding: 0;
-            text-align: left;
+            margin-top: 20px;
         }
+
         .product-item {
             display: flex;
             align-items: center;
-            padding: 10px;
+            padding: 15px;
             border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            transition: 0.3s ease;
+            border-radius: 8px;
         }
-        .product-item input {
-            margin-right: 10px;
+
+        .product-item:hover {
+            background-color: #ecf0f1;
+            transform: translateX(5px);
         }
+
         .product-details {
             flex-grow: 1;
         }
-        button {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 15px;
-            background-color: #007bff;
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: center;
+            font-size: 1rem;
+        }
+
+        th {
+            background-color: #3498db;
             color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
+            text-transform: uppercase;
         }
-        button:hover {
-            background-color: #0056b3;
+
+        td {
+            background-color: #f9f9f9;
         }
-        canvas {
-            max-width: 100%;
-            margin-top: 20px;
+
+        #info-table {
+            display: none;
+            margin-top: 30px;
+        }
+
+        .product-item, .product-details {
+            font-size: 1.2rem;
+            color: #2c3e50;
+        }
+
+        .product-item span {
+            font-size: 1rem;
+            color: #16a085;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+                padding: 20px;
+            }
+
+            form {
+                width: 100%;
+            }
+
+            select, button {
+                width: 100%;
+            }
+
+            table {
+                font-size: 0.9rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.2rem;
+            }
         }
     </style>
 </head>
@@ -95,8 +214,7 @@
             {% if products %}
                 <ul class="product-list">
                     {% for product in products %}
-                        <li class="product-item">
-                            <input type="checkbox" class="product-checkbox" value="{{ product.name }}">
+                        <li class="product-item" onclick="showProductInfo('{{ product.name }}', '{{ selected_date }}', '{{ product.new_price }}')">
                             <div class="product-details">
                                 <strong>{{ product.name }}</strong> <br>
                                 <span>Price: ₹{{ product.new_price }}</span>
@@ -104,48 +222,43 @@
                         </li>
                     {% endfor %}
                 </ul>
-                <button id="compare-btn">Compare Selected</button>
-                <canvas id="priceChart"></canvas>
             {% else %}
                 <p>No products found for this date.</p>
             {% endif %}
         {% endif %}
+
+        <!-- Product Information Table -->
+        <div id="info-table">
+            <h3>Product Information</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Date</th>
+                        <th>Current Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="info-product-name"></td>
+                        <td id="info-date"></td>
+                        <td id="info-price"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 
     <script>
-        document.getElementById("compare-btn").addEventListener("click", function() {
-            let selectedProducts = [];
-            document.querySelectorAll(".product-checkbox:checked").forEach(cb => selectedProducts.push(cb.value));
+        function showProductInfo(productName, date, currentPrice) {
+            // Fill table with product info
+            document.getElementById("info-product-name").textContent = productName;
+            document.getElementById("info-date").textContent = date;
+            document.getElementById("info-price").textContent = currentPrice;
 
-            if (selectedProducts.length === 0) {
-                alert("Please select at least one product to compare.");
-                return;
-            }
-
-            fetch(`/compare_products?names=${selectedProducts.join(",")}&source={{ selected_source }}`)
-                .then(response => response.json())
-                .then(data => {
-                    let ctx = document.getElementById("priceChart").getContext("2d");
-                    let datasets = data.map(product => ({
-                        label: product.name,
-                        data: product.prices,
-                        borderColor: `#${Math.floor(Math.random()*16777215).toString(16)}`,
-                        fill: false
-                    }));
-
-                    new Chart(ctx, {
-                        type: "line",
-                        data: {
-                            labels: data[0].dates,
-                            datasets: datasets
-                        },
-                        options: {
-                            responsive: true,
-                            title: { display: true, text: "Price Trends" }
-                        }
-                    });
-                });
-        });
+            // Show the info-table
+            document.getElementById("info-table").style.display = "block";
+        }
     </script>
 </body>
 </html>
