@@ -148,7 +148,7 @@ if __name__ == "__main__":
     scraped_products = scrape_product(product_name)
     
     if scraped_products:
-        save_products(scraped_products, f"new/search/blinkit.json")
+        save_products(scraped_products, f"/home/saliniyan/Documents/git_project/e-commerce/e-commerce-web-scarpping/new/search/blinkit.json")
         print(f"Scraped {len(scraped_products)} products for '{product_name}'.")
     else:
         print(f"No products found for '{product_name}'.")
