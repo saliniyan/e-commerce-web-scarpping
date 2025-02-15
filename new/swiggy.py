@@ -208,7 +208,6 @@ def extract_product_details(container):
         return None
 
     return product
-    return product
 
 def scrape_swiggy_instamart_products(urls):
     """Main scraping function."""
