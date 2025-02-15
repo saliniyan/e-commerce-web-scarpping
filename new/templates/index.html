@@ -1,19 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scraper Control</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+        h1 {
+            font-size: 2rem;
+            color: #333;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 32px;
+            font-size: 1.1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #333;
+            margin-top: 20px;
+        }
+        .loading {
+            font-size: 1.2rem;
+            color: #ff9800;
+        }
+    </style>
 </head>
 <body>
-    <h1>Start Scraping</h1>
-    <button onclick="startScraping()">Start Now</button>
-    <p id="status"></p>
+    <div class="container">
+        <h1>Scraper Control</h1>
+        <button onclick="startScraping()">Start Now</button>
+        <p id="status"></p>
+    </div>
 
     <script>
         function startScraping() {
+            document.getElementById('status').innerText = "Starting scraping...";
+            document.getElementById('status').classList.add('loading');
+
             fetch('/start_scraping', { method: 'POST' })
                 .then(response => response.json())
-                .then(data => document.getElementById('status').innerText = data.message)
-                .catch(error => console.error('Error:', error));
+                .then(data => {
+                    document.getElementById('status').innerText = data.message;
+                    document.getElementById('status').classList.remove('loading');
+                })
+                .catch(error => {
+                    document.getElementById('status').innerText = "Error: Could not start scraping.";
+                    document.getElementById('status').classList.remove('loading');
+                    console.error('Error:', error);
+                });
         }
     </script>
 </body>

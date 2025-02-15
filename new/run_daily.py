@@ -53,10 +53,10 @@ def run_scrapers():
 
     batches = [(0, 1)]
     sources = {
-        "blinkit": "blinkit_products.json",
-        "bigbasket": "big_products.json",
-        "swiggy": "swiggy.json",
-        "zepto": "zepto.json"
+        "blinkit": "new/blinkit_products.json",
+        "bigbasket": "new/big_products.json",
+        "swiggy": "new/swiggy.json",
+        "zepto": "new/zepto.json"
     }
 
     for start, end in batches:
@@ -64,7 +64,7 @@ def run_scrapers():
         for scraper, file in sources.items():
             try:
                 print(f"▶️ Running {scraper.capitalize()} Scraper for range {start} to {end}...")
-                subprocess.run(["python", f"{scraper}.py", str(start), str(end)], check=True)
+                subprocess.run(["python", f"new/{scraper}.py", str(start), str(end)], check=True)
                 print(f"✅ {scraper.capitalize()} Scraper Completed for range {start} to {end}.")
                 store_to_mongo(file, scraper)
             except subprocess.CalledProcessError as e:

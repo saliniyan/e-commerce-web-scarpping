@@ -173,7 +173,7 @@ def main(start_idx=0, end_idx=None):
     # Slice category links based on input arguments
     category_links = category_links[start_idx:end_idx]
     
-    output_file = 'blinkit_products.json'  # Change to 'new/big_products.json' for BigBasket
+    output_file = 'new/blinkit_products.json'  # Change to 'new/big_products.json' for BigBasket
 
     num_processes = 3
     chunk_size = max(1, len(category_links) // num_processes)
