@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraped Data Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        form {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        select, button {
+            padding: 10px;
+            margin: 5px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px gray;
+        }
+        .product-list {
+            list-style: none;
+            padding: 0;
+            text-align: left;
+        }
+        .product-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .product-item input {
+            margin-right: 10px;
+        }
+        .product-details {
+            flex-grow: 1;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        canvas {
+            max-width: 100%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Scraped Data Viewer</h1>
+        <form action="/fetch" method="post">
+            <label for="date">Select Date:</label>
+            <select name="date" required>
+                <option value="">-- Choose a date --</option>
+                {% for date in available_dates["blinkit"] %}
+                    <option value="{{ date }}">{{ date }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="source">Select Source:</label>
+            <select name="source" required>
+                <option value="">-- Choose a source --</option>
+                {% for source in sources %}
+                    <option value="{{ source }}">{{ source.capitalize() }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">Fetch Products</button>
+        </form>
+
+        {% if selected_source and selected_date %}
+            <h2>Results for {{ selected_source.capitalize() }} on {{ selected_date }}</h2>
+            {% if products %}
+                <ul class="product-list">
+                    {% for product in products %}
+                        <li class="product-item">
+                            <input type="checkbox" class="product-checkbox" value="{{ product.name }}">
+                            <div class="product-details">
+                                <strong>{{ product.name }}</strong> <br>
+                                <span>Price: ₹{{ product.new_price }}</span>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+                <button id="compare-btn">Compare Selected</button>
+                <canvas id="priceChart"></canvas>
+            {% else %}
+                <p>No products found for this date.</p>
+            {% endif %}
+        {% endif %}
+    </div>
+
+    <script>
+        document.getElementById("compare-btn").addEventListener("click", function() {
+            let selectedProducts = [];
+            document.querySelectorAll(".product-checkbox:checked").forEach(cb => selectedProducts.push(cb.value));
+
+            if (selectedProducts.length === 0) {
+                alert("Please select at least one product to compare.");
+                return;
+            }
+
+            fetch(`/compare_products?names=${selectedProducts.join(",")}&source={{ selected_source }}`)
+                .then(response => response.json())
+                .then(data => {
+                    let ctx = document.getElementById("priceChart").getContext("2d");
+                    let datasets = data.map(product => ({
+                        label: product.name,
+                        data: product.prices,
+                        borderColor: `#${Math.floor(Math.random()*16777215).toString(16)}`,
+                        fill: false
+                    }));
+
+                    new Chart(ctx, {
+                        type: "line",
+                        data: {
+                            labels: data[0].dates,
+                            datasets: datasets
+                        },
+                        options: {
+                            responsive: true,
+                            title: { display: true, text: "Price Trends" }
+                        }
+                    });
+                });
+        });
+    </script>
+</body>
+</html>

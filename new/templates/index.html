@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scraper Control</title>
+</head>
+<body>
+    <h1>Start Scraping</h1>
+    <button onclick="startScraping()">Start Now</button>
+    <p id="status"></p>
+
+    <script>
+        function startScraping() {
+            fetch('/start_scraping', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => document.getElementById('status').innerText = data.message)
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

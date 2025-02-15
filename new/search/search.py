@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, render_template, jsonify
 import multiprocessing
 import subprocess
 
@@ -10,6 +10,11 @@ def run_scraper(script, product_name):
         subprocess.run(["python", script, product_name], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Error running {script}: {e}")
+
+@app.route('/')
+def home():
+    """Render the home page."""
+    return render_template("index.html")
 
 @app.route('/scrape', methods=['POST'])
 def scrape_product():
@@ -25,7 +30,6 @@ def scrape_product():
         "new/search/bigbasket.py",
         "new/search/blinkit.py",
         "new/search/swiggy.py",
-        "new/search/zepto.py"  # Added Zepto scraper
     ]
 
     # Create and start processes
