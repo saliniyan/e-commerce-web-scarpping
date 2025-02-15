@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 from urllib.parse import quote
+import sys
 
 def setup_driver():
     """Initialize Firefox WebDriver with headless options."""
@@ -156,14 +157,17 @@ def save_products(products, output_file):
 def scrape_wrapper(chunk):
     return scrape_bigbasket_products(chunk)
 
-def main():
+def main(start_idx=0, end_idx=None):
     try:
         with open('new/product_links/product_details.json', 'r') as f:
             category_links = [item["name"] for item in json.load(f)]
-    except:
+    except Exception as e:
+        print(f"Error loading category links: {e}")
         return
 
-    category_links = category_links[:4]
+    # Slice category links based on input arguments
+    category_links = category_links[start_idx:end_idx]
+    
     output_file = 'new/big_products.json'
 
     num_processes = 3
@@ -176,6 +180,10 @@ def main():
     all_products = [product for sublist in results for product in sublist]
     save_products(all_products, output_file)
     print(f"Total products scraped: {len(all_products)}")
+    print(f"Products saved to: {output_file}")
 
 if __name__ == "__main__":
-    main()
+    # Read start and end indices from command-line arguments
+    start_idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    end_idx = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    main(start_idx, end_idx)
