@@ -11,7 +11,7 @@ from urllib.parse import quote
 def setup_driver():
     """Initialize Firefox WebDriver with headless options."""
     options = Options()
-    # options.add_argument('--headless')  # Keep headless mode
+    options.add_argument('--headless')  # Keep headless mode
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
@@ -61,7 +61,7 @@ def extract_product_image(container):
                 continue
         
     except Exception as e:
-        print(f"Error extracting image: {e}")
+        pass
     
     return img_url, img_alt
 
@@ -204,7 +204,6 @@ def extract_product_details(container):
             product['is_advertisement'] = False
 
     except Exception as e:
-        print(f"Error extracting product details: {e}")
         return None
 
     return product
@@ -216,7 +215,7 @@ def scrape_swiggy_instamart_products(urls):
     products = []
     try:
         for name in urls:
-            url = f"https://www.swiggy.com/instamart/search?custom_back=true&query={quote(name.replace(' ', '+'))}"
+            url = f"https://www.swiggy.com/instamart/search?location=chennai&custom_back=true&query={quote(name.replace(' ', '+'))}"
             driver.get(url)
             print(f"Scraping: {name}")
 
@@ -242,7 +241,6 @@ def scrape_swiggy_instamart_products(urls):
                     product['product_url'] = url
                     product['scraped_at'] = time.strftime('%Y-%m-%d %H:%M:%S')
                     products.append(product)
-                    print(f"Successfully scraped: {product['name']}")
     
     finally:
         driver.quit()
@@ -270,7 +268,6 @@ def main():
         with open('new/product_links/product_details.json', 'r') as f:
             category_links = [item["name"] for item in json.load(f)]
     except Exception as e:
-        print(f"Error loading category links: {e}")
         return
 
     category_links = category_links[:1]
