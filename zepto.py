@@ -167,7 +167,7 @@ def scrape_wrapper(chunk):
 
 def main(start_idx=0, end_idx=None):
     try:
-        with open('new/product_links/product_details.json', 'r') as f:
+        with open('product_links/product_details.json', 'r') as f:
             category_links = [item["name"] for item in json.load(f)]
     except Exception as e:
         print(f"Error loading category links: {e}")
@@ -176,7 +176,7 @@ def main(start_idx=0, end_idx=None):
     # Slice category links based on input arguments
     category_links = category_links[start_idx:end_idx]
     
-    output_file = 'new/zepto.json'
+    output_file = 'zepto.json'
 
     num_processes = 3
     chunk_size = max(1, len(category_links) // num_processes)
