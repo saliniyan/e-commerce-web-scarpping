@@ -30,7 +30,7 @@ This project is an e-commerce web scraping tool that extracts product informatio
 ![Start Scraping](images/start.png)
 
 ### Select Date and Web to View Scraped Products
-![Select Date](images/view_price_history.png)
+![Select Date](images/select_date.png)
 
 ### View Products
 ![View the Scraped Data](images/view_product.png)
