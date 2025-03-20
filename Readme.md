@@ -41,16 +41,14 @@ This project is an e-commerce web scraping tool that extracts product informatio
 ## Search Module
 
 ### Search Products by Name
-![Search Products](images/search.png)
+![Search Products](images/scrap.png)
 
 ### View Scraped Products
-![View Scraped Products](images/scrapped.png)
+![View Scraped Products](images/scraped.png)
 
 ### Choose Products to Compare
-![Choose Products](images/choose.png)
+![Choose Products](images/choosing.png)
 
 ### View Dashboard
-![View Dashboard](images/dashboard1.png)
+![View Dashboard](images/compare.png)
 
-### View Recommendation
-![View Recommendation](images/dashboard2.png)
